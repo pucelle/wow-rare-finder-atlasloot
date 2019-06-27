@@ -186,9 +186,9 @@ a{outline:none;}
 .icon-border	{background-image:url("background/border-icon.png"); _background-image:url("background/border-icon.gif"); }
 .icon-metal		{background-image:url("background/border-metal.png"); _background-image:url("background/border-metal.gif"); }
 .icon-medal		{background-image:url("background/border-medal.png"); _background-image:url("background/border-medal.gif"); }
-.icon-border span:hover	{background-image:url("background/Highlight.png"); _background-image:none;}
-.icon-metal span:hover	{background-image:url("background/Highlight-1.png"); _background-image:none;}
-/*.icon-medal span:hover		{background-image:url("background/Highlight-2.png"); _background-image:none;}*/
+.icon-border span:hover	{background-image:url("background/highlight.png"); _background-image:none;}
+.icon-metal span:hover	{background-image:url("background/highlight-1.png"); _background-image:none;}
+/*.icon-medal span:hover		{background-image:url("background/highlight-2.png"); _background-image:none;}*/
 .stroke{
 	position:absolute;
 	z-index:1;

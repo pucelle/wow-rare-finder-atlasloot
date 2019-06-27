@@ -83,7 +83,11 @@ var wowmap = {
 				document.getElementById("img" + this.currentid).style.display = "none";
 			}
 			this.fhs[id].style.display = "block";
-			document.getElementById("img" + id).style.display = "block";
+
+			if (document.getElementById("img" + id)) {
+				document.getElementById("img" + id).style.display = "block";
+			}
+			
 			this.tr.useMap = "#map-"+id;
 			this.currentid = id;
 			//window.location.hash = id;

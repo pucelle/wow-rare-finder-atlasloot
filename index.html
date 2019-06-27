@@ -1,0 +1,192 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>魔兽世界地图, Atlasloot</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-ua-compatible" content="IE=7" />
+<meta name="keywords" content="WoW,World of Warcraft,map,rare,rare monsters,魔兽,魔兽世界,地图,稀有,稀有怪物,Atlasloot,掉落,Atlas" />
+<meta name="author" content="FF" />
+<link rel="shortcut icon" href="background/favicon.ico" />
+<link rel="stylesheet" href="style.css" />
+<script type="text/javascript" src="js/base.js"></script>
+<script type="text/javascript" src="js/wowtip.js"></script>
+<script type="text/javascript" src="js/map.js"></script>
+<script type="text/javascript" src="js/al.js"></script>
+<script type="text/javascript" src="js/al-data.js"></script>
+<script type="text/javascript" src="js/al-data-fix.js"></script>
+<script type="text/javascript">
+
+domloaded(function(){
+	document.getElementById("wrapper").style.paddingTop = Math.max(0, (Math.max(document.documentElement.clientHeight || document.body.clientHeight || window.innerHeight) - 768)/2.5) + "px";
+
+	wowtip.datatype["item"] = "item";
+	wowtip.datatype["al"]   = "item";
+	wowtip.datatype["rare"] = "npc";
+	//wowtip.dataext["al"]    = "ajax";
+	wowmap.usedata = ["rare"];	//地图与其上显示的元素绑定
+	
+	wowtip.filepath = {
+		ss : "screenshots/",
+		//ss :"http://static.wowhead.com/uploads/screenshots/thumb/",
+		ic : "icons/"
+		//ic : "http://static.wowhead.com/images/wow/icons/medium/"
+	};
+	
+	var xmltab = {};
+	var mapxml = null;
+	var callback = counting(4, function(){wowtip.init(xmltab); wowmap.init(mapxml);});
+	
+	loadxml("data/al.xml",		function(t){xmltab["al"] = t; 	callback();});
+	loadxml("data/items.xml",	function(t){xmltab["item"] = t;	callback();});
+	loadxml("data/npcs.xml",	function(t){xmltab["rare"] = t;	callback();});
+	loadxml("data/maps.xml",	function(t){mapxml = t;			callback();});
+	tooltip.init();
+	win.init();
+	loot.init();
+	
+	
+	//坐标显示
+	/*
+	window.coord = document.getElementById('coordinate');
+	window.map   = document.getElementById('map');
+	
+	document.onmousemove = function(e){
+		e = e || window.event;
+		var mo = win.offset(map);
+		coord.innerHTML = (win.roll.x + e.clientX - mo.x - 16)
+		+ " " + (win.roll.y + e.clientY - mo.y - 16);
+	}
+	//*/
+	
+	document.onkeydown = function(e){
+		e = e || window.event;
+		//alert(e.keyCode)
+		if(loot.cur.style.display === "block"){
+			if(e.keyCode === 87){
+				loot.hide();
+			}else if(e.keyCode === 81){
+				if(loot.curprev.style.display === "block")
+				//loot.prev();
+					if(al.active) al.prev(); else loot.prev();
+			}else if(e.keyCode === 69){
+				if(loot.curnext.style.display === "block")
+				//loot.next();
+					if(al.active) al.next(); else loot.next();
+			}else if(e.keyCode === 65){
+				if(!hasclass(al.man, 'menupassive')){
+					al.is25man = !al.is25man;
+					al.open(al.current, true);
+					window.store.set('is25man', al.is25man ? '1' : '0'); 
+				}
+			}else if(e.keyCode === 68){
+				if(!hasclass(al.hrc, 'menupassive')){
+					al.isheroic = !al.isheroic;
+					al.open(al.current, true);
+					window.store.set('isheroic', al.isheroic ? '1' : '0'); 
+				}
+			}
+		}else{
+			if(e.keyCode === 87){
+				wowmap.elm.oncontextmenu();
+			}else if(wowmap.buttonup.style.display === "block"){
+				if(e.keyCode === 81){
+					wowmap.up();
+				}else if(e.keyCode === 69){
+					wowmap.down();
+				}
+			}
+		}
+	}
+	
+	menuRegister(document.getElementById("map-menu"), wowmap.menu, function(s){
+		return "wowmap.setmap('"+s+"')"
+	});
+
+	//激活地图菜单
+	al.init();
+	al.submenureverse();	//一个必要的步骤,将二级表倒转,以方便打开随意一个表时,激活其所在的二级列表
+
+	menuRegister(document.getElementById("al-menu"), al.dropdown, function(a){
+		if(a[1] === "submenu")
+			return "al.opensubmenu('"+a[0]+"')";
+		else if(a[1] === "table")
+			return "al.open('"+a[0]+"',true)";
+		else return "";
+	});
+	
+	al.changecamp(store.get("camp") || "alliance");
+	
+	helpme = function(){
+		al.man.style.display = "none";
+		al.hrc.style.display = "none";
+		loot.curprev.style.display = "none";
+		loot.curnext.style.display = "none";
+		al.cur.style.display = "block";
+		al.elm.innerHTML = '<div id="helpcon">\
+		<p>该网站由 pucelle (金色平原 - 贝琪) 制作完成。当前版本 3.3.5。</p>\
+		<p>联盟和部落两个标签可以在 Atlasloot 中切换阵营专属掉落。</p>\
+		<p>按住 CTRL 按键点击一件物品，可以将其加入收藏夹。再次的相同操作将其移除。</p>\
+		</div>'
+	}
+});
+
+
+</script>
+</head>
+
+
+
+
+<body oncontextmenu="if(wowmap.rightButtonClick){return wowmap.rightButtonClick = false;}else{return true;}">
+<div id="wrapper">
+<div id="map-bg">
+
+<div id="camp">
+<span class="a2 h3 si-alliance" onclick="al.changecamp('alliance')" title="我是联盟">&nbsp;联盟&nbsp;</span>
+<span class="a3 h2 si-horde" onclick="al.changecamp('horde')" title="我是部落">&nbsp;部落&nbsp;</span>
+</div>
+
+<div id="map-menu" class="menubutton">
+<span class="menucontent">&nbsp;地图&nbsp;</span>
+</div>
+
+<div id="al-menu" class="menubutton">
+<span class="menucontent" onclick="al.openlastbrowser()">AtlasLoot</span>
+</div>
+
+<div id="al-submenu" class="menubutton menupassive" onclick="if(!hasclass(this,'menupassive')) al.openlastbrowser()">
+<span class="menucontent">&nbsp;子掉落表&nbsp;</span>
+<div></div></div>
+
+<div id="al-fav" class="menubutton">
+<span class="menucontent" onclick="al.openfavourite()" oncontextmenu="al.outputfavourite()">&nbsp;收藏夹&nbsp;</span>
+</div>
+
+<div id="help" class="si-qwords cur-inspect" onclick="helpme()">说明</div>
+
+<div id="map">
+<img id="tr" src="background/empty.gif" />
+<div id="hl"></div>
+<div id="name1"></div>
+<div id="name2"></div>
+<div id="name3"></div>
+<div id="name4"></div>
+<div id="name0"></div>
+<div id="but-up" onclick="wowmap.up()" title="快捷键 Q"></div>
+<div id="but-down" onclick="wowmap.down()" title="快捷键 E"></div>
+<div id="coordinate"></div>
+</div>
+
+<div id="curtain">
+<div id="cur-prev" onclick="if(al.active) al.prev(); else loot.prev();" title="快捷键 Q"></div>
+<div id="cur-next" onclick="if(al.active) al.next(); else loot.next();" title="快捷键 E"></div>
+<div id="mancount" onclick="if(!hasclass(this, 'menupassive')){al.is25man = !al.is25man; al.open(al.current, true); window.store.set('is25man', al.is25man ? '1' : '0'); }" title="快捷键 A"></div>
+<div id="heroic"   onclick="if(!hasclass(this, 'menupassive')){al.isheroic = !al.isheroic; al.open(al.current, true); window.store.set('isheroic', al.isheroic ? '1' : '0');}" title="快捷键 D"></div>
+<div></div></div><!--这个div用来容纳掉落表,方便清空-->
+
+</div>
+</div>
+<audio id="audio" src="sounds/iQuestLogOpenA.wav" autoplay="false"></audio>
+
+</body>
+</html>

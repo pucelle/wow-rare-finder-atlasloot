@@ -1,0 +1,575 @@
+﻿
+/*鼠标样式*/
+body, a			{cursor:url("cursor/Point.cur"),auto;}	/*IE,对文件夹的层次会以html为准*/
+.cur-attack		{cursor:url("cursor/Attack.cur"),auto;}
+.cur-buy		{cursor:url("cursor/Buy.cur"),auto;}
+.cur-complete	{cursor:url("cursor/QuestTurnIn.cur"),auto;}
+.cur-daily		{cursor:url("cursor/QuestRepeatable.cur"),auto;}
+.cur-direction	{cursor:url("cursor/Directions.cur"),auto;}
+.cur-drive		{cursor:url("cursor/Drive.cur"),auto;}
+.cur-gather		{cursor:url("cursor/GatherHerbs.cur"),auto;}
+.cur-inspect	{cursor:url("cursor/Inspect.cur"),auto;}
+.cur-interact	{cursor:url("cursor/Interact.cur"),auto;}
+.cur-lock		{cursor:url("cursor/PickLock.cur"),auto;}
+.cur-loot		{cursor:url("cursor/Pickup.cur"),auto;}
+.cur-mail		{cursor:url("cursor/Mail.cur"),auto;}
+.cur-mine		{cursor:url("cursor/Mine.cur"),auto;}
+.cur-quest		{cursor:url("cursor/Quest.cur"),auto;}
+.cur-repair		{cursor:url("cursor/Repair.cur"),auto;}
+.cur-skin		{cursor:url("cursor/skin.cur"),auto;}
+.cur-speak		{cursor:url("cursor/Speak.cur"),auto;}
+.cur-taxi		{cursor:url("cursor/Taxi.cur"),auto;}
+.cur-train		{cursor:url("cursor/Trainer.cur"),auto;}
+.cur-fish		{cursor:url("cursor/Fishing.cur"),auto;}
+
+
+/*小图标,居右*/
+.si-honor, .si-gold, .si-silver, .si-copper, .si-arena{
+	padding:0px 16px 0px 2px;
+	background-repeat:no-repeat;
+	background-position:2px 0px;
+}
+.alliance .si-honor, .si-alliance		{background-image:url("background/money-alliance.png");}
+.horde .si-honor, .si-horde		{background-image:url("background/money-horde.png");}
+.si-gold				{background-image:url("background/money-gold.png");}
+.si-silver				{background-image:url("background/money-silver.png");}
+.si-copper				{background-image:url("background/money-copper.png");}
+.si-arena				{background-image:url("background/money-arena.png");}
+/*图标居左*/
+.si-buy, .si-train, .si-loot, .si-quest, .si-ask, .si-qwords, .si-talk, .si-interact, .si-whell, .si-alliance, .si-horde, .si-daily, .socket-red, .socket-yellow, .socket-blue, .socket-meta{
+	padding:0px 2px 0px 19px;
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+}
+.socket-red, .socket-yellow, .socket-blue, .socket-meta{color:#9d9d9d; _width:70px;/*应用于IE6的PNG fix*/}
+.si-indent	{padding-left:18px;}	/*定义一块缩进区域,不要和其他的si混合使用*/
+.si-buy		{background-image:url("background/buy.png");}
+.si-train	{background-image:url("background/train.png");}
+.si-loot	{background-image:url("background/loot.png");}
+.si-quest	{background-image:url("background/quest-start.png");}
+.si-ask		{background-image:url("background/quest-end.png");}
+.si-qwords	{background-image:url("background/questwords.png");}
+.si-talk	{background-image:url("background/talk.png");}
+.si-alliance{background-image:url("background/money-alliance.png");}
+.si-horde	{background-image:url("background/money-horde.png");}
+.si-interact{background-image:url("background/interact.png");}
+.si-whell	{background-image:url("background/whell.png");}
+.si-daily	{background-image:url("background/daily.png");}
+.socket-red	{background-image:url("background/socket-red.png");}
+.socket-yellow	{background-image:url("background/socket-yellow.png");}
+.socket-blue	{background-image:url("background/socket-blue.png");}
+.socket-meta	{background-image:url("background/socket-meta.png");}
+
+
+/*一般样式*/
+body{
+	background-color:#000;
+	background-position:top center;
+	background-repeat:no-repeat;
+	font-family:Arial,Verdana,Sans-Serif;
+	font-size:12px; 
+	color:#eee;
+	margin:0px;
+	padding:0px;
+	height:100%;
+	overflow-y:scroll;
+	*overflow-y:visible;
+	padding-top:10px;
+}
+table{
+	border-collapse:collapse;
+	border-spacing:0px;
+}
+td{padding:0px;}
+th{
+	padding:0px;
+	font-weight:normal;
+	text-align:right;
+}
+a{outline:none;}
+.b{font-weight:bold;}
+
+/*定义tooltip样式*/
+
+.tip{
+	position:absolute;
+	left:-9999px;
+	z-index:200;
+	border:1px #777 solid;
+	color:#ddd;
+	background:#000;
+	padding:5px;
+	opacity:0.9;
+	*filter:alpha(opacity=90);
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	-webkit-box-shadow:0px 0px 10px #fff;
+	-moz-box-shadow:0px 0px 10px #fff;
+	box-shadow:1px 1px 10px #000;
+	transition:opacity 0.4s;
+}
+.tip img{display:block;}
+.tip th{padding-left:10px;}
+.tip table{width:100%; _width:auto;}
+/*通用的截图属性*/
+.screenshot-tip{text-align:center}
+.screenshot-name{color:#ffd100;}
+.screenshot-no{margin:0px auto 3px auto; text-align:center; background-color:transparent; *margin-bottom:6px;}
+.screenshot-no img{margin:0px auto; *margin:0px;}
+/*为npc和object准备的,底部补有空白*/
+
+
+/*定义各种颜色*/
+.q	{color:#ffd100;}	/*黄*/
+.q0	{color:#9d9d9d;}	/*灰*/
+.q1	{color:#dddddd;}	/*白*/
+.q2	{color:#1eff00;}	/*绿*/
+.q3	{color:#0070dd;}	/*蓝*/
+.q4	{color:#a335ee;}	/*紫*/
+.q5	{color:#ff8000;}	/*橙*/
+.q6	{color:#e5cc80;}	/*暗金色*/
+.q7	{color:#e5cc80;}	/*暗金色*/
+.q8	{color:#ffff98;}	/*传家宝*/
+.q9	{color:#71d5ff;}	/*淡蓝色*/
+.q10{color:#ff0000;}	/*红色*/
+
+/*react*/
+.r0	{color:#9d9d9d;}
+.r1	{color:#ffd100;}	/*中立*/
+.r2	{color:#1eff00;}	/*友善*/
+.r3	{color:#ff0000;}	/*仇恨*/
+
+/*difficulty*/
+.d0	{color:#ff0000;}	/*红*/
+.d1	{color:#ff8000;}
+.d2	{color:#ffd100;}
+.d3	{color:#1eff00;}
+.d4	{color:#9d9d9d;}	/*灰*/
+
+/*class*/
+.c1	{color:#c69b6d;}	/*warrior*/
+.c2	{color:#f48cba;}	/*paladin*/
+.c3	{color:#aad372;}	/*hunter*/
+.c4	{color:#fff468;}	/*rogue*/
+.c5	{color:#ffffff;}	/*priest*/
+.c6	{color:#c41e3b;}	/*DK*/
+.c7	{color:#2359ff;}	/*shaman*/
+.c8	{color:#68ccef;}	/*mage*/
+.c9	{color:#9382c9;}	/*warlock*/
+.c11{color:#ff7c0a;}	/*druid*/
+
+
+/*图标*/
+.icon, .icon-border, .icon-metal, .icon-medal, .icon-border span, .icon-metal span, .icon-medal span{
+	background-position:center center;
+	background-repeat:no-repeat;
+	width:42px;
+	height:42px;
+}
+
+.icon-border span, .icon-metal span, .icon-medal span{
+	display:block;
+	position:absolute;
+	_margin:2px 0px 0px 2px;
+	left:0px;
+}	/*经测试,使用a以外的伪类在IE7下速度奇慢无比*/
+.icon{
+	position:relative;
+	float:left;
+}
+.icon-border, .icon-metal, .icon-medal{
+	position:absolute;
+	left:0px;
+	z-index:2;
+}
+.icon-border	{background-image:url("background/border-icon.png"); _background-image:url("background/border-icon.gif"); }
+.icon-metal		{background-image:url("background/border-metal.png"); _background-image:url("background/border-metal.gif"); }
+.icon-medal		{background-image:url("background/border-medal.png"); _background-image:url("background/border-medal.gif"); }
+.icon-border span:hover	{background-image:url("background/Highlight.png"); _background-image:none;}
+.icon-metal span:hover	{background-image:url("background/Highlight-1.png"); _background-image:none;}
+/*.icon-medal span:hover		{background-image:url("background/Highlight-2.png"); _background-image:none;}*/
+.stroke{
+	position:absolute;
+	z-index:1;
+	right:5px;
+	bottom:7px;
+	_bottom:2px;
+	height:14px;
+	font-family:Palatino Linotype,Times New Roman,Book Antiqua,Symbol;
+	font-weight:bold;
+	font-size:14px;
+}
+.shadow1, .shadow2, .shadow3, .shadow4{position:absolute; color:#000; z-index:0;}
+.shadow1{top:-1px; left:0px;}
+.shadow2{top:0px; left:1px;}
+.shadow3{top:1px; left:0px;}
+.shadow4{top:0px; left:-1px;}
+.stance{color:#fff;}
+.icon-name{position:absolute; left:48px; white-space:nowrap; font-size:14px; height:30px; padding-top:12px; z-index:1;}	/*与图标对齐的名称*/
+
+/*物品窗口*/
+.item-name{white-space:nowrap;}
+.item-tip{line-height:16px; max-width:276px;}
+.item-tip .name{}
+.ilevel{color:#e5cc80;}
+.al-item{position:absolute; left:48px; white-space:nowrap; font-size:14px; height:38px; padding-top:4px; z-index:1;}
+.al-desc{position:absolute; left:48px; top:22px; white-space:nowrap; color:#9d9d9d;}
+
+
+/*地图*/
+.map-name{
+	/*font-weight:bold;*/
+	color:#ffd100;
+	white-space:nowrap;
+	/*cursor:url("cursor/Directions.cur"),auto;
+	*cursor:url("cursor/Directions.cur");*//*同样改由js控制*/
+}
+.map-tip{position:relative;}
+.map-tip img{width:300px;height:200px;}
+.coord-tip{position:absolute;}
+.coord{	/*单独的坐标*/
+	position:absolute;
+	width:16px;
+	height:16px;
+	background:url("background/mark-0.png") no-repeat;
+	_background:url("background/mark-0.gif") no-repeat;
+	opacity:0.7;
+}
+
+/*npc*/
+.alliance .a0{color:#9d9d9d;}
+.alliance .a1{color:#ffd100;}
+.alliance .a2{color:#1eff00;}
+.alliance .a3{
+	color:#ff0000;
+	cursor:url("cursor/Attack.cur"),auto;
+	*cursor:url("cursor/Attack.cur");
+}
+.horde .h0{color:#9d9d9d;}
+.horde .h1{color:#ffd100;}
+.horde .h2{color:#1eff00;}
+.horde .h3{
+	color:#ff0000;
+	cursor:url("cursor/Attack.cur"),auto;
+	*cursor:url("cursor/Attack.cur");
+}
+.npc-name{white-space:nowrap;}
+.npc-tip{text-align:center;}
+.npc-tip .name{}
+.rank{color:#9d9d9d;}
+.level{color:#ffd100;}
+.event{color:#ff8000;}
+.spawn{color:#ff8000; max-width:150px;}
+
+/*任务*/
+.quest-name{color:#ffd100;white-space:nowrap;}
+.quest-tip{}
+.quest-tip .name{color:#ffd100;}
+/*不能接受的任务换个颜色显示*/
+.alliance .side1, .alliance .side2, .horde .side1, .horde .side3 {color:#ffd100;}
+.alliance .side3, .horde .side2{color:#9d9d9d;}
+.alliance .side0, .horde .side0{color:#9d9d9d;}
+.quest-tip .desc{margin-top:0px;}
+
+
+/*成就*/
+.achievement-name{color:#ffd100;white-space:nowrap;}
+.achievement-tip{}
+.achievement-tip .name{font-weight:bold;color:#ffd100;margin-bottom:5px;}
+
+
+/*技能*/
+.spell-name{color:#ffd100;white-space:nowrap;}
+.spell-tip{}
+.spell-tip .name{color:#ffd100;margin-bottom:5px;}
+
+
+/*道具*/
+.object-name{
+	white-space:nowrap;
+	color:#ffd100;
+	/*cursor:url("cursor/Interact.cur"),auto;	这里设置的话,优先级最高,会覆盖诸如任务的样式,改由wowtip.name设置
+	*cursor:url("cursor/Interact.cur");*/
+}
+.object-tip{text-align:center;}
+.object-tip .name{color:#ffd100;}
+
+.alliance .camp2, .horde .camp1{display:none;}	/*1部落;2联盟,不属于自己阵营的元素被隐藏起来*/
+
+/*以下为al提供*/
+.si-wsg, .si-ab, .si-av, .si-eos, .si-markthrallmar, .si-markhhold, .si-halaabattle, .si-halaaresearch, .si-spiritshard, .si-wintergrasp, .si-wintergraspmark, .si-venturecoin, .si-heroic, .si-eofvalor, .si-eofheroism, .si-eofconquest, .si-eoftriumph, .si-eoffrost, .si-trophyofthecrusade, .si-darkmoon, .si-noblegarden, .si-brewfest, .si-ccombat, .si-champseal, .si-champwrit, .si-ctactical, .si-clogistics, .si-cremulos, .si-ccenarius, .si-zandalar, .si-glowcap, .si-ogrilashard, .si-ogrilacrystal, .si-winterfinclam, .si-fireflower, .si-t10mark, .si-valentineday, .si-valentineday2, .si-markthrallmarhhold{
+	height:14px;
+	padding:0px 2px 0px 16px;
+	background-repeat:no-repeat;
+	background-position:2px 0px;
+	font-size:14px;
+}
+.si-wsg	{background-image:url("background/inv_misc_rune_07.jpg");}
+.si-ab	{background-image:url("background/inv_jewelry_amulet_07.jpg");}
+.si-av	{background-image:url("background/inv_jewelry_necklace_21.jpg");}
+.si-eos	{background-image:url("background/spell_nature_eyeofthestorm.jpg");}
+.si-markthrallmar	{background-image:url("background/inv_misc_token_thrallmar.jpg");}
+.si-markhhold	{background-image:url("background/inv_misc_token_honorhold.jpg");}
+.si-halaabattle	{background-image:url("background/inv_misc_rune_08.jpg");}
+.si-halaaresearch	{background-image:url("background/inv_misc_rune_09.jpg");}
+.si-spiritshard	{background-image:url("background/inv_jewelry_frostwolftrinket_04.jpg");}
+.si-wintergrasp	{background-image:url("background/inv_misc_platnumdisks.jpg");}
+.si-wintergraspmark	{background-image:url("background/inv_jewelry_ring_66.jpg");}
+.si-venturecoin	{background-image:url("background/inv_misc_coin_16.jpg");}
+.si-heroic	{background-image:url("background/spell_holy_championsbond.jpg");}
+.si-eofvalor	{background-image:url("background/spell_holy_proclaimchampion_02.jpg");}
+.si-eofheroism	{background-image:url("background/spell_holy_proclaimchampion.jpg");}
+.si-eofconquest	{background-image:url("background/spell_holy_championsgrace.jpg");}
+.si-eoftriumph	{background-image:url("background/spell_holy_summonchampion.jpg");}
+.si-eoffrost	{background-image:url("background/inv_misc_frostemblem_01.jpg");}
+.si-trophyofthecrusade	{background-image:url("background/inv_misc_trophy_argent.jpg");}
+.si-darkmoon	{background-image:url("background/inv_misc_ticket_darkmoon_01.jpg");}
+.si-noblegarden	{background-image:url("background/achievement_noblegarden_chocolate_egg.jpg");}
+.si-brewfest	{background-image:url("background/inv_misc_coin_01.jpg");}
+.si-ccombat	{background-image:url("background/inv_jewelry_talisman_06.jpg");}
+.si-champseal	{background-image:url("background/ability_paladin_artofwar.jpg");}
+.si-champwrit	{background-image:url("background/inv_scroll_11.jpg");}
+.si-ctactical	{background-image:url("background/inv_jewelry_amulet_02.jpg");}
+.si-clogistics	{background-image:url("background/inv_jewelry_necklace_16.jpg");}
+.si-cremulos	{background-image:url("background/inv_jewelry_necklace_14.jpg");}
+.si-ccenarius	{background-image:url("background/inv_jewelry_necklace_12.jpg");}
+.si-zandalar	{background-image:url("background/inv_misc_coin_08.jpg");}
+.si-glowcap	{background-image:url("background/inv_mushroom_02.jpg");}
+.si-ogrilashard	{background-image:url("background/inv_misc_apexis_shard.jpg");}
+.si-ogrilacrystal	{background-image:url("background/inv_misc_apexis_crystal.jpg");}
+.si-winterfinclam	{background-image:url("background/inv_misc_shell_03.jpg");}
+.si-fireflower	{background-image:url("background/inv_summerfest_fireflower.jpg");}
+.si-t10mark	{background-image:url("background/ability_paladin_shieldofthetemplar.jpg");}
+.si-valentineday	{background-image:url("background/inv_valentinescard01.jpg");}
+.si-valentineday2	{background-image:url("background/inv_jewelry_necklace_43.jpg");}
+.horde .si-markthrallmarhhold	{background-image:url("background/inv_misc_token_thrallmar.jpg");}
+.alliance .si-markthrallmarhhold	{background-image:url("background/inv_misc_token_honorhold.jpg");}
+
+
+
+
+
+
+
+body{
+	margin:0px;
+	padding:0px;
+	color:#eee;
+	font-family:Arial, Verdana;
+	cursor:url("background/Point.cur"),auto;
+	font-size:12px;
+	background:#ccc;
+}
+a{cursor:url("background/Point.cur"),auto;}
+#wrapper{
+	margin:0px auto;
+	padding-top:5px;
+	width:1024px;
+}
+#map-bg{
+	background-image:url("background/map-background.jpg");
+	background-repeat:no-repeat;
+	padding:69px 11px 30px 12px;
+	position:relative;
+	-webkit-box-shadow:2px 2px 20px #000;
+	-moz-box-shadow:2px 2px 20px #000;
+	box-shadow:2px 2px 20px #000;
+}
+#map{
+	position:absolute;
+	overflow:hidden;
+}
+#map img, #hl img{
+	border:0px;
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+.bg, #tr, #hl, .fh, #map, #map-bg, #curtain{
+	width:1000px;
+	height:668px;
+}
+#tr{
+	z-index:100;
+}
+#hl{
+	position:absolute;
+	top:0px;
+	left:0px;
+	z-index:1;
+}
+#name0,#name1,#name2,#name3,#name4{	/*最佳方式是使用svg的平滑边缘的字体*/
+	position:absolute;
+	width:1000px;
+	z-index:20;
+	font-size:30px;
+	font-family:经典细隶书简,微软简隶书;
+	text-align:center;
+}
+#name0{top:0px; left:0px;}
+#name1{top:1px; left:0px; color:#555}
+#name2{top:0px; left:1px; color:#555}
+#name3{top:-1px; left:0px; color:#555}
+#name4{top:0px; left:-1px; color:#555}
+.floor{
+	width:30px;
+	height:36px;
+	background:url("background/arrow.png") no-repeat;
+	position:absolute;
+}
+
+.but1,.but2,.but3,.but4,.but5, .but6, .but7, .but8, .but9, .but10, .but11, .but12, #but-up, #but-down{
+	width:32px;
+	height:32px;
+	background-repeat:no-repeat;
+	position:absolute;
+	z-index:101;
+	/*opacity:1; ff下对旋转的元素设置透明度,会造成效率的降低*/
+}
+.but8, .but9{width:44px;}
+.but10, .but11, .but12{width:20px; height:20px;}
+.but1{background-image:url("background/eddy-blue.png");}
+.but2{background-image:url("background/eddy-purple.png");}
+.but3{background-image:url("background/eddy-red.png");}
+.but4{background-image:url("background/eddy-gray.png");}
+.but5{background-image:url("background/eddy-green.png");}
+.but6{background-image:url("background/arrow.png");}
+.but7{background-image:url("background/boat.png");}
+.but8{background-image:url("background/airship.png");}
+.but9{background-image:url("background/subway.png");}
+.but10{background-image:url("background/AllianceTower.png");}
+.but11{background-image:url("background/HordeTower.png");}
+.but12{background-image:url("background/NeutralTower.png");}
+.but6{opacity:0.8;}
+.but6:hover		{opacity:1;}
+#but-up, #but-down	{opacity:0.6; *z-index:102;}
+#but-up:hover, #but-down:hover{opacity:1;}
+#but-up{left:914px; top:50px; background-image:url("background/arrow-up.png");}
+#but-down{left:914px; top:82px; background-image:url("background/arrow-down.png");}
+.fh{display:none; position:absolute; *z-index:101;}
+
+.npcrare, .npcelite, .npcrareelite, .npcboss, .npcbox {background-repeat:no-repeat; position:absolute; z-index:101; opacity:1;}
+
+.npcrare{width:28px; height:27px; background-image:url("background/UI-rare.png");}
+.npcelite{width:32px; height:28px; background-image:url("background/UI-elite.png");}
+.npcrareelite{width:32px; height:28px; background-image:url("background/UI-rareelite.png");}
+.npcboss{width:32px; height:36px; background-image:url("background/UI-boss.png");}
+.npcbox{width:32px; height:36px; background-image:url("background/UI-box.png");}
+
+.npcrare:hover{background-image:url("background/UI-rare-highlight.png"); opacity:1;}
+.npcelite:hover{background-image:url("background/UI-elite-highlight.png"); opacity:1;}
+.npcrareelite:hover{background-image:url("background/UI-rareelite-highlight.png"); opacity:1;}
+.npcboss:hover{background-image:url("background/UI-boss-highlight.png"); opacity:1;}
+
+.lv  {display:block; width:7px; height:10px; position:absolute; top:7px; left:9px; background-repeat:no-repeat;}
+.lv1 {display:block; width:7px; height:10px; position:absolute; top:7px; left:5px; background-repeat:no-repeat;}
+.lv2 {display:block; width:7px; height:10px; position:absolute; top:7px; left:12px; background-repeat:no-repeat;}
+
+#curtain{
+	display:none;
+	position:absolute;
+	z-index:110;
+	background:url("background/curtain.png");
+	-moz-border-radius:3px;
+	text-align:center;
+}
+.curhead{
+	font-size:30px;
+	font-family:经典细隶书简,微软简隶书;
+	color:#fff;
+	height:36px;
+}
+
+#cur-prev, #cur-next{
+	position:absolute;
+	display:none;
+	width:32px;
+	height:32px;
+	background-repeat:no-repeat;
+	opacity:0.6;
+}
+#cur-prev{background-image:url("background/arrow-prev.png"); top:67px; left:898px;}
+#cur-next{background-image:url("background/arrow-next.png"); top:67px; left:930px;}
+#cur-prev:hover, #cur-next:hover{opacity:1;}
+.loottable{
+	margin:0px auto;
+}
+
+.loottable thead th{text-align:center; font-size:13px; width:280px; font-weight:bold;}
+.loottable tbody td{text-align:left; width:190px; overflow:hidden;}
+.loottable tbody th{text-align:right; width:50px; padding-right:40px; color:#ffd100; font-weight:bold;}
+
+.subcurtainhead{
+	font-size:20px;
+	font-family:经典细隶书简,微软简隶书;
+	color:#fff;
+	width:400px;
+	height:30px;
+	text-align:center;
+}
+.coords{
+	width:1000px;
+	height:668px;
+	position:absolute;
+	z-index:10;
+}
+
+#coordinate{
+	position:absolute; left:10px; top:10px; color:#fff; font-weight:bold; z-index:99; height:16px;
+	text-shadow:0px 0px 2px #000;
+}
+#npc{position:absolute; z-index:103; height:150px; width:0px;  background:#eee; -moz-border-radius:5px; border:0px solid #666;}
+#item{position:absolute; display:none; height:350px; width:150px; background:#aaa; -moz-border-radius:5px;}
+
+#camp{position:absolute; top:39px; left:30px; width:100px; height:21px; padding-top:3px; white-space:nowrap;}
+
+#al-menu{left:379px;}
+#al-submenu{left:518px;}
+#al-fav{left:717px;/*left:862px;*/}
+#map-menu{left:180px;}
+
+.menubutton{top:39px; font-weight:normal; position:absolute; width:128px; background:url("background/button-red.png") no-repeat; height:24px; text-align:center; padding-top:0px; z-index:120;}
+.menubutton:hover{background-position:0px -30px; }
+.menucontent{font-weight:bold; width:100%; display:block; height:24px; padding-top:3px; color:#ffd100;}
+.menupassive{background-position:0px -60px!important; color:#ccc!important;}
+.menupassive .menucontent{color:#ccc!important;}
+
+.submenu, .mainsubmenu{text-align:left; display:none; position:absolute; top:-6px; left:150px; z-index:300; white-space:nowrap; list-style-type:none; margin-left:0px; padding-left:5px; width:150px; background-color:#111;
+ padding:5px 4px 3px 4px; opacity:0.9; border:1px #666 solid;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	-webkit-box-shadow:0px 0px 10px #000;
+	-moz-box-shadow:0px 0px 10px #000;
+	box-shadow:0px 0px 10px #000;
+}
+.submenu li, .mainsubmenu li{color:#ffd100;}
+.submenu span, .mainsubmenu span{display:block; width:142px; padding:0px 4px 4px 4px; width:142px; overflow:hidden;}
+.submenu li:hover, .mainsubmenu li:hover{color:#eee; background:url("background/list-highlight.png") no-repeat; _background:none;}
+
+.mainsubmenu{left:-15px; top:10px; *top:22px;}
+.lisubmenu{position:relative; top:10px *top:-20px;}	/*submenu的父级元素*/
+
+.subfolder{background:url("background/subfolder.png") right top no-repeat; _background-image:url("background/subfolder.gif")}
+.submenuselect{color:#eee; background:url("background/list-active.png") no-repeat!important; _background:none;}
+
+#heroic, #mancount{
+	position:absolute;
+	width:128px;
+	height:21px;
+	padding-top:3px;
+	opacity:0.8;
+	color:#ffd100;
+	font-weight:bold;
+	left:865px;
+	z-index:190;
+	background:url("background/button-blue.png") no-repeat;
+}
+#heroic{top:35px;}
+#mancount{top:10px;}
+#heroic:hover, #mancount:hover{background-position:0px -30px; color:#fff;}
+.highlight{}	/*高亮的图片*/
+
+#help{position:absolute; top:40px; right:30px; width:35px; height:30px; white-space:nowrap; color:#FFD100; font-size:12px; padding-top:1px; *padding-top:3px; }
+#helpcon{color:#aaa; padding:20px; font-size:12px;}

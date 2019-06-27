@@ -1,0 +1,3345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item id="763" class="4.2.9" icon="inv_bracer_08" quality="1">
+<name>冰覆护腕</name>
+<screenshot>54350</screenshot>
+<code>
+[span class="name q1"]冰覆护腕[/span][table][tr][td]手腕[/td][th] 皮甲[/th][/tr][/table]26 护甲[br /]需要等级 7[br /]物品等级 12
+</code>
+</item>
+<item id="1187" class="15.-6" icon="inv_helmet_07" quality="2">
+<name>尖刺项圈</name>
+<screenshot>81600</screenshot>
+<code>
+[span class="name q2"]尖刺项圈[/span][br /]拾取后绑定[br /]唯一[br /]需要等级 20[br /]物品等级 30[br /][span class="q2"]使用: 召唤地狱猎犬。 [/span]
+</code>
+</item>
+<item id="1215" class="4.2.6" icon="inv_belt_09" quality="2">
+<name>支柱束带</name>
+<screenshot>58801</screenshot>
+<code>
+[span class="name q2"]支柱束带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 皮甲[/th][/tr][/table]45 护甲[br /]+4 力量[br /]+3 耐力[br /]需要等级 17[br /]物品等级 22
+</code>
+</item>
+<item id="1314" class="4.2.10" icon="inv_gauntlets_13" quality="2">
+<name>食尸鬼的手指</name>
+<screenshot>59025</screenshot>
+<code>
+[span class="name q2"]食尸鬼的手指[/span][br /]装备后绑定[table][tr][td]手[/td][th] 皮甲[/th][/tr][/table]48 护甲[br /]+3 力量[br /]+3 敏捷[br /]需要等级 15[br /]物品等级 20
+</code>
+</item>
+<item id="1355" class="4.-6" icon="inv_misc_pelt_bear_02" quality="2">
+<name>鹿皮斗篷</name>
+<screenshot>89599</screenshot>
+<code>
+[span class="name q2"]鹿皮斗篷[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]14 护甲[br /]+2 敏捷[br /]需要等级 10[br /]物品等级 15
+</code>
+</item>
+<item id="1387" class="2.8" icon="inv_sword_07" quality="2">
+<name>食尸鬼之牙</name>
+<screenshot>111920</screenshot>
+<code>
+[span class="name q2"]食尸鬼之牙[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 剑[/th][/tr][tr][td]36 - 54 伤害[/td][th] 速度 3.60[/th][/tr][/table]（每秒伤害12.5）[br /]需要等级 14[br /]物品等级 19[br /][span class="q2"]击中时可能： [span class="q2"]向目标射出一支暗影箭，对其造成35点暗影伤害。[/span]
+</code>
+</item>
+<item id="1404" class="4.-4" icon="inv_misc_rune_01" quality="2">
+<name>潮汐咒符</name>
+<screenshot>159888</screenshot>
+<code>
+[span class="name q2"]潮汐咒符[/span][br /]拾取后绑定[br /]饰品[br /]需要等级 36[br /]物品等级 41[br /][span class="q2"]使用: 使目标昏迷3秒。60级以上的目标对这个效果的抵抗几率更高。(15分钟冷却) [/span]
+</code>
+</item>
+<item id="1539" class="2.10" icon="inv_staff_17" quality="2">
+<name>古科罗克法杖</name>
+<screenshot>41111</screenshot>
+<code>
+[span class="name q2"]古科罗克法杖[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 法杖[/th][/tr][tr][td]28 - 42 伤害[/td][th] 速度 2.80[/th][/tr][/table]（每秒伤害12.5）[br /]+6 精神[br /]需要等级 14[br /]物品等级 19
+</code>
+</item>
+<item id="1604" class="2.8" icon="inv_sword_22" quality="2">
+<name>炫彩之剑</name>
+<screenshot>161935</screenshot>
+<code>
+[span class="name q2"]炫彩之剑[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 剑[/th][/tr][tr][td]100 - 150 伤害[/td][th] 速度 3.60[/th][/tr][/table]（每秒伤害34.7）[br /]+7 火焰抗性[br /]+7 自然抗性[br /]+7 冰霜抗性[br /]+7 暗影抗性[br /]+7 奥术抗性[br /]需要等级 40[br /]物品等级 45
+</code>
+</item>
+<item id="1678" class="4.3.8" icon="inv_boots_01" quality="3">
+<name>黑色食人魔之靴</name>
+<screenshot>101230</screenshot>
+<code>
+[span class="name q3"]黑色食人魔之靴[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 锁甲[/th][/tr][/table]166 护甲[br /]+6 力量[br /]+13 耐力[br /]需要等级 32[br /]物品等级 37
+</code>
+</item>
+<item id="1917" class="2.15" icon="inv_weapon_shortblade_15" quality="2">
+<name>宝石匕首</name>
+<screenshot>68911</screenshot>
+<code>
+[span class="name q2"]宝石匕首[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 匕首[/th][/tr][tr][td]6 - 11 伤害[/td][th] 速度 1.60[/th][/tr][/table]（每秒伤害5.3）[br /]+1 耐力[br /]需要等级 5[br /]物品等级 10
+</code>
+</item>
+<item id="1938" class="2.4" icon="inv_hammer_15" quality="2">
+<name>格挡槌棒</name>
+<screenshot>83447</screenshot>
+<code>
+[span class="name q2"]格挡槌棒[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 锤[/th][/tr][tr][td]14 - 26 伤害[/td][th] 速度 1.80[/th][/tr][/table]（每秒伤害11.1）[br /]+3 耐力[br /]需要等级 17[br /]物品等级 22
+</code>
+</item>
+<item id="1965" class="4.2.10" icon="inv_gauntlets_05" quality="1">
+<name>白狼手套</name>
+<screenshot>58149</screenshot>
+<code>
+[span class="name q1"]白狼手套[/span][table][tr][td]手[/td][th] 皮甲[/th][/tr][/table]33 护甲[br /]需要等级 5[br /]物品等级 10
+</code>
+</item>
+<item id="1973" class="4.-4" icon="inv_misc_orb_02" quality="3">
+<name>欺诈宝珠</name>
+<screenshot>67466</screenshot>
+<code>
+[span class="name q3"]欺诈宝珠[/span][br /]装备后绑定[br /]饰品[br /]需要等级 54[br /]物品等级 59[br /][span class="q2"]使用: 使施法者看起来像是敌对阵营的成员。(30分钟冷却) [/span]
+</code>
+</item>
+<item id="2035" class="2.7" icon="inv_sword_20" quality="2">
+<name>夜空之剑</name>
+<code>
+[span class="name q2"]夜空之剑[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 剑[/th][/tr][tr][td]14 - 27 伤害[/td][th] 速度 1.70[/th][/tr][/table]（每秒伤害12.1）[br /]+2 敏捷[br /]+2 力量[br /]需要等级 19[br /]物品等级 24
+</code>
+</item>
+<item id="2058" class="2.5" icon="inv_hammer_16" quality="2">
+<name>卡松的大槌</name>
+<screenshot>69453</screenshot>
+<code>
+[span class="name q2"]卡松的大槌[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 锤[/th][/tr][tr][td]49 - 75 伤害[/td][th] 速度 3.40[/th][/tr][/table]（每秒伤害18.2）[br /]+8 力量[br /]+4 耐力[br /]需要等级 22[br /]物品等级 27
+</code>
+</item>
+<item id="2069" class="4.2.5" icon="inv_chest_wolf" quality="1">
+<name>黑色熊皮外衣</name>
+<screenshot>62996</screenshot>
+<code>
+[span class="name q1"]黑色熊皮外衣[/span][table][tr][td]胸部[/td][th] 皮甲[/th][/tr][/table]59 护甲[br /]需要等级 7[br /]物品等级 12
+</code>
+</item>
+<item id="2203" class="2.1" icon="inv_axe_23" quality="2">
+<name>利爪队长的伐木斧</name>
+<screenshot>83328</screenshot>
+<code>
+[span class="name q2"]利爪队长的伐木斧[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 斧[/th][/tr][tr][td]34 - 51 伤害[/td][th] 速度 3.40[/th][/tr][/table]（每秒伤害12.5）[br /]+6 力量[br /]需要等级 14[br /]物品等级 19
+</code>
+</item>
+<item id="2204" class="2.8" icon="inv_sword_20" quality="2">
+<name>利爪队长的烤肉钉</name>
+<screenshot>22772</screenshot>
+<code>
+[span class="name q2"]利爪队长的烤肉钉[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 剑[/th][/tr][tr][td]29 - 44 伤害[/td][th] 速度 3.20[/th][/tr][/table]（每秒伤害11.4）[br /]+5 耐力[br /]需要等级 12[br /]物品等级 17
+</code>
+</item>
+<item id="2235" class="2.15" icon="inv_weapon_shortblade_15" quality="2">
+<name>布拉克之爪</name>
+<screenshot>70257</screenshot>
+<code>
+[span class="name q2"]布拉克之爪[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 匕首[/th][/tr][tr][td]9 - 18 伤害[/td][th] 速度 1.40[/th][/tr][/table]（每秒伤害9.6）[br /]+1 力量[br /]+1 敏捷[br /]需要等级 14[br /]物品等级 19
+</code>
+</item>
+<item id="2241" class="4.-6" icon="inv_misc_cape_04" quality="2">
+<name>亡命者斗篷</name>
+<screenshot>88844</screenshot>
+<code>
+[span class="name q2"]亡命者斗篷[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]17 护甲[br /]+3 耐力[br /]需要等级 15[br /]物品等级 20
+</code>
+</item>
+<item id="2254" class="2.5" icon="inv_hammer_04" quality="2">
+<name>碎冰战锤</name>
+<screenshot>70186</screenshot>
+<code>
+[span class="name q2"]碎冰战锤[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 锤[/th][/tr][tr][td]22 - 34 伤害[/td][th] 速度 3.30[/th][/tr][/table]（每秒伤害8.5）[br /]+2 力量[br /]需要等级 7[br /]物品等级 12
+</code>
+</item>
+<item id="2284" class="4.-6" icon="inv_misc_cape_10" quality="2">
+<name>坑道鼠披风</name>
+<screenshot>58786</screenshot>
+<code>
+[span class="name q2"]坑道鼠披风[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]14 护甲[br /]+2 耐力[br /]需要等级 10[br /]物品等级 15
+</code>
+</item>
+<item id="2546" class="4.3.6" icon="inv_belt_09" quality="1">
+<name>皇家霜鬃束带</name>
+<screenshot>43167</screenshot>
+<code>
+[span class="name q1"]皇家霜鬃束带[/span][table][tr][td]腰部[/td][th] 锁甲[/th][/tr][/table]61 护甲[br /]需要等级 6[br /]物品等级 11
+</code>
+</item>
+<item id="2622" class="4.1.1" icon="inv_helmet_04" quality="2">
+<name>尼玛尔的部落头巾</name>
+<screenshot>74129</screenshot>
+<code>
+[span class="name q2"]尼玛尔的部落头巾[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 布甲[/th][/tr][/table]40 护甲[br /]+6 耐力[br /]+7 智力[br /]+10 精神[br /]需要等级 32[br /]物品等级 37
+</code>
+</item>
+<item id="2941" class="2.15" icon="inv_weapon_shortblade_18" quality="3">
+<name>监狱骨片</name>
+<screenshot>81962</screenshot>
+<code>
+[span class="name q3"]监狱骨片[/span][br /]拾取后绑定[table][tr][td]单手[/td][th] 匕首[/th][/tr][tr][td]21 - 39 伤害[/td][th] 速度 1.80[/th][/tr][/table]（每秒伤害16.7）[br /]+5 敏捷[br /]+2 耐力[br /]需要等级 21[br /]物品等级 26
+</code>
+</item>
+<item id="2942" class="2.13" icon="inv_gauntlets_04" quality="3">
+<name>铁指虎</name>
+<screenshot>81960</screenshot>
+<code>
+[span class="name q3"]铁指虎[/span][br /]拾取后绑定[table][tr][td]单手[/td][th] 拳套[/th][/tr][tr][td]19 - 37 伤害[/td][th] 速度 1.70[/th][/tr][/table]（每秒伤害16.5）[br /]需要等级 21[br /]物品等级 26[br /][span class="q2"]击中时可能： [span class="q2"]击打目标，对其造成4点伤害，并且使其在5秒内不能施法。[/span]
+</code>
+</item>
+<item id="3000" class="4.2.5" icon="inv_chest_leather_09" quality="2">
+<name>雌蜘蛛的外壳</name>
+<screenshot>90564</screenshot>
+<code>
+[span class="name q2"]雌蜘蛛的外壳[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 皮甲[/th][/tr][/table]55 护甲[br /]+1 耐力[br /]需要等级 5[br /]物品等级 10
+</code>
+</item>
+<item id="3008" class="4.-6" icon="inv_misc_cape_04" quality="1">
+<name>雪怪披风</name>
+<screenshot>54201</screenshot>
+<code>
+[span class="name q1"]雪怪披风[/span][table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]8 护甲[br /]需要等级 4[br /]物品等级 9
+</code>
+</item>
+<item id="3011" class="4.2.1" icon="inv_helmet_24" quality="2">
+<name>羽饰头巾</name>
+<screenshot>62472</screenshot>
+<code>
+[span class="name q2"]羽饰头巾[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 皮甲[/th][/tr][/table]84 护甲[br /]+10 智力[br /]+9 精神[br /]需要等级 31[br /]物品等级 36
+</code>
+</item>
+<item id="3018" class="4.-6" icon="inv_misc_pelt_wolf_02" quality="2">
+<name>鲁伯斯的皮</name>
+<screenshot>32521</screenshot>
+<code>
+[span class="name q2"]鲁伯斯的皮[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]18 护甲[br /]+2 耐力[br /]+3 敏捷[br /]需要等级 18[br /]物品等级 23
+</code>
+</item>
+<item id="3019" class="4.1.5" icon="inv_chest_cloth_38" quality="2">
+<name>贵族长袍</name>
+<screenshot>59802</screenshot>
+<code>
+[span class="name q2"]贵族长袍[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 布甲[/th][/tr][/table]32 护甲[br /]+3 精神[br /]+3 耐力[br /]需要等级 13[br /]物品等级 18[br /][span class="q2"]装备: 爆击等级提高1。 [/span]
+</code>
+</item>
+<item id="3188" class="2.8" icon="inv_sword_38" quality="2">
+<name>珊瑚双刃刀</name>
+<screenshot>69509</screenshot>
+<code>
+[span class="name q2"]珊瑚双刃刀[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 剑[/th][/tr][tr][td]22 - 34 伤害[/td][th] 速度 2.80[/th][/tr][/table]（每秒伤害10.0）[br /]+4 耐力[br /]需要等级 10[br /]物品等级 15
+</code>
+</item>
+<item id="3223" class="2.4" icon="inv_mace_07" quality="2">
+<name>霜鬃节杖</name>
+<screenshot>36559</screenshot>
+<code>
+[span class="name q2"]霜鬃节杖[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 锤[/th][/tr][tr][td]9 - 17 伤害[/td][th] 速度 2.20[/th][/tr][/table]（每秒伤害5.9）[br /]+1 耐力[br /]需要等级 6[br /]物品等级 11
+</code>
+</item>
+<item id="3224" class="4.1.9" icon="inv_bracer_08" quality="1">
+<name>银线护腕</name>
+<screenshot>54260</screenshot>
+<code>
+[span class="name q1"]银线护腕[/span][table][tr][td]手腕[/td][th] 布甲[/th][/tr][/table]8 护甲[br /]需要等级 5[br /]物品等级 10
+</code>
+</item>
+<item id="3225" class="2.15" icon="inv_weapon_shortblade_01" quality="1">
+<name>染血的小刀</name>
+<screenshot>172969</screenshot>
+<code>
+[span class="name q1"]染血的小刀[/span][table][tr][td]单手[/td][th] 匕首[/th][/tr][tr][td]4 - 8 伤害[/td][th] 速度 1.60[/th][/tr][/table]（每秒伤害3.8）[br /]需要等级 4[br /]物品等级 9
+</code>
+</item>
+<item id="3227" class="2.10" icon="inv_staff_12" quality="2">
+<name>夜行法杖</name>
+<screenshot>19321</screenshot>
+<code>
+[span class="name q2"]夜行法杖[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 法杖[/th][/tr][tr][td]32 - 49 伤害[/td][th] 速度 2.70[/th][/tr][/table]（每秒伤害15.0）[br /]+7 暗影抗性[br /]需要等级 18[br /]物品等级 23
+</code>
+</item>
+<item id="3228" class="4.3.9" icon="inv_bracer_02" quality="3">
+<name>弯曲护腕</name>
+<screenshot>169404</screenshot>
+<code>
+[span class="name q3"]弯曲护腕[/span][br /]拾取后绑定[table][tr][td]手腕[/td][th] 锁甲[/th][/tr][/table]89 护甲[br /]+3 力量[br /]+7 耐力[br /]需要等级 21[br /]物品等级 26
+</code>
+</item>
+<item id="3229" class="4.1.6" icon="inv_belt_07" quality="2">
+<name>蛛丝腰带</name>
+<code>
+[span class="name q2"]蛛丝腰带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 布甲[/th][/tr][/table]21 护甲[br /]+5 智力[br /]需要等级 18[br /]物品等级 23[br /][span class="q2"]装备: 法术强度提高2点。[/span]
+</code>
+</item>
+<item id="3231" class="4.3.3" icon="inv_shoulder_07" quality="2">
+<name>杀手肩铠</name>
+<screenshot>36470</screenshot>
+<code>
+[span class="name q2"]杀手肩铠[/span][br /]装备后绑定[table][tr][td]肩部[/td][th] 锁甲[/th][/tr][/table]137 护甲[br /]+4 力量[br /]+4 耐力[br /]需要等级 20[br /]物品等级 25
+</code>
+</item>
+<item id="3322" class="4.-6" icon="inv_misc_cape_11" quality="1">
+<name>薄披风</name>
+<screenshot>65744</screenshot>
+<code>
+[span class="name q1"]薄披风[/span][table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]6 护甲
+</code>
+</item>
+<item id="3323" class="4.1.9" icon="inv_bracer_07" quality="1">
+<name>幽灵护腕</name>
+<screenshot>72821</screenshot>
+<code>
+[span class="name q1"]幽灵护腕[/span][table][tr][td]手腕[/td][th] 布甲[/th][/tr][/table]7 护甲[br /]需要等级 3[br /]物品等级 8
+</code>
+</item>
+<item id="3334" class="2.5" icon="inv_misc_shovel_01" quality="1">
+<name>农夫的铁锨</name>
+<screenshot>83795</screenshot>
+<code>
+[span class="name q1"]农夫的铁锨[/span][table][tr][td]双手[/td][th] 锤[/th][/tr][tr][td]11 - 17 伤害[/td][th] 速度 3.70[/th][/tr][/table]（每秒伤害3.8）[br /]需要等级 2[br /]物品等级 7
+</code>
+</item>
+<item id="3392" class="4.2.1" icon="inv_helmet_09" quality="2">
+<name>镶环头盔</name>
+<screenshot>103994</screenshot>
+<code>
+[span class="name q2"]镶环头盔[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 皮甲[/th][/tr][/table]76 护甲[br /]+8 耐力[br /]+7 精神[br /]需要等级 25[br /]物品等级 30
+</code>
+</item>
+<item id="3563" class="4.1.7" icon="inv_pants_02" quality="2">
+<name>水手的长裤</name>
+<screenshot>22334</screenshot>
+<code>
+[span class="name q2"]水手的长裤[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 布甲[/th][/tr][/table]29 护甲[br /]+4 耐力[br /]+4 精神[br /]需要等级 15[br /]物品等级 20
+</code>
+</item>
+<item id="3571" class="2.5" icon="inv_hammer_15" quality="2">
+<name>石腭怪巨锤</name>
+<screenshot>70106</screenshot>
+<code>
+[span class="name q2"]石腭怪巨锤[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 锤[/th][/tr][tr][td]39 - 60 伤害[/td][th] 速度 3.60[/th][/tr][/table]（每秒伤害13.8）[br /]+7 耐力[br /]需要等级 16[br /]物品等级 21
+</code>
+</item>
+<item id="3902" class="2.10" icon="inv_wand_04" quality="2">
+<name>贵族法杖</name>
+<screenshot>22108</screenshot>
+<code>
+[span class="name q2"]贵族法杖[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 法杖[/th][/tr][tr][td]30 - 46 伤害[/td][th] 速度 3.20[/th][/tr][/table]（每秒伤害11.9）[br /]+2 耐力[br /]+4 精神[br /]需要等级 13[br /]物品等级 18
+</code>
+</item>
+<item id="4261" class="4.1.7" icon="inv_pants_02" quality="1">
+<name>索利丹的长裤</name>
+<screenshot>65746</screenshot>
+<code>
+[span class="name q1"]索利丹的长裤[/span][table][tr][td]腿部[/td][th] 布甲[/th][/tr][/table]13 护甲[br /]需要等级 3[br /]物品等级 8
+</code>
+</item>
+<item id="4302" class="2.15" icon="inv_weapon_shortblade_05" quality="1">
+<name>绿色小匕首</name>
+<screenshot>73014</screenshot>
+<code>
+[span class="name q1"]绿色小匕首[/span][table][tr][td]单手[/td][th] 匕首[/th][/tr][tr][td]4 - 9 伤害[/td][th] 速度 1.50[/th][/tr][/table]（每秒伤害4.3）[br /]需要等级 5[br /]物品等级 10
+</code>
+</item>
+<item id="4303" class="2.4" icon="inv_hammer_17" quality="2">
+<name>头盖击碎者</name>
+<screenshot>69733</screenshot>
+<code>
+[span class="name q2"]头盖击碎者[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 锤[/th][/tr][tr][td]12 - 24 伤害[/td][th] 速度 2.80[/th][/tr][/table]（每秒伤害6.4）[br /]+1 力量[br /]需要等级 7[br /]物品等级 12
+</code>
+</item>
+<item id="4434" class="4.1.7" icon="inv_pants_02" quality="2">
+<name>稻草人的长裤</name>
+<screenshot>91831</screenshot>
+<code>
+[span class="name q2"]稻草人的长裤[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 布甲[/th][/tr][/table]29 护甲[br /]+6 精神[br /]需要等级 15[br /]物品等级 20
+</code>
+</item>
+<item id="4436" class="4.1.6" icon="inv_belt_04" quality="2">
+<name>宝石腰带</name>
+<screenshot>73264</screenshot>
+<code>
+[span class="name q2"]宝石腰带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 布甲[/th][/tr][/table]20 护甲[br /]+2 耐力[br /]+4 智力[br /]需要等级 16[br /]物品等级 21
+</code>
+</item>
+<item id="4437" class="2.10" icon="inv_staff_14" quality="2">
+<name>导魔法杖</name>
+<screenshot>65807</screenshot>
+<code>
+[span class="name q2"]导魔法杖[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 法杖[/th][/tr][tr][td]35 - 54 伤害[/td][th] 速度 3.40[/th][/tr][/table]（每秒伤害13.1）[br /]+6 智力[br /]需要等级 15[br /]物品等级 20
+</code>
+</item>
+<item id="4439" class="2.4" icon="inv_mace_10" quality="2">
+<name>粗木棒</name>
+<screenshot>75608</screenshot>
+<code>
+[span class="name q2"]粗木棒[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 锤[/th][/tr][tr][td]17 - 32 伤害[/td][th] 速度 2.20[/th][/tr][/table]（每秒伤害11.1）[br /]+2 力量[br /]+2 耐力[br /]需要等级 17[br /]物品等级 22
+</code>
+</item>
+<item id="4444" class="4.6" icon="inv_misc_monsterspidercarapace_01" quality="2">
+<name>黑色甲壳盾</name>
+<screenshot>88846</screenshot>
+<code>
+[span class="name q2"]黑色甲壳盾[/span][br /]装备后绑定[table][tr][td]副手[/td][th] 盾牌[/th][/tr][/table]478 护甲[br /]9 格挡[br /]+4 精神[br /]+3 耐力[br /]需要等级 19[br /]物品等级 24[br /][span class="q2"]使用: 尝试驱散目标身上的1个中毒效果，并每2秒驱散1个中毒效果，持续8秒。(5分钟冷却) [/span][br /]5次
+</code>
+</item>
+<item id="4445" class="2.0" icon="inv_axe_16" quality="2">
+<name>切肉者</name>
+<screenshot>83143</screenshot>
+<code>
+[span class="name q2"]切肉者[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 斧[/th][/tr][tr][td]18 - 35 伤害[/td][th] 速度 2.30[/th][/tr][/table]（每秒伤害11.5）[br /]+2 敏捷[br /]+2 耐力[br /]需要等级 18[br /]物品等级 23
+</code>
+</item>
+<item id="4446" class="2.15" icon="inv_weapon_shortblade_02" quality="3">
+<name>黑毒之刃</name>
+<screenshot>81959</screenshot>
+<code>
+[span class="name q3"]黑毒之刃[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 匕首[/th][/tr][tr][td]21 - 39 伤害[/td][th] 速度 1.80[/th][/tr][/table]+ 1 - 7 伤害[br /]（每秒伤害18.9）[br /]+1 敏捷[br /]需要等级 21[br /]物品等级 26[br /][span class="q2"]击中时可能： [span class="q2"]使目标每3秒毒发一次，对其造成5点自然伤害，持续15秒。[/span]
+</code>
+</item>
+<item id="4447" class="4.-6" icon="inv_misc_cape_04" quality="2">
+<name>深夜披风</name>
+<screenshot>89600</screenshot>
+<code>
+[span class="name q2"]深夜披风[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]20 护甲[br /]+5 敏捷[br /]需要等级 21[br /]物品等级 26
+</code>
+</item>
+<item id="4448" class="4.3.5" icon="inv_misc_monsterspidercarapace_01" quality="2">
+<name>纳拉克西斯的外壳</name>
+<screenshot>8470</screenshot>
+<code>
+[span class="name q2"]纳拉克西斯的外壳[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 锁甲[/th][/tr][/table]189 护甲[br /]+5 力量[br /]+7 耐力[br /]需要等级 22[br /]物品等级 27
+</code>
+</item>
+<item id="4449" class="2.15" icon="inv_misc_monsterfang_01" quality="2">
+<name>纳拉克西斯的牙齿</name>
+<screenshot>19322</screenshot>
+<code>
+[span class="name q2"]纳拉克西斯的牙齿[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 匕首[/th][/tr][tr][td]15 - 29 伤害[/td][th] 速度 1.60[/th][/tr][/table]（每秒伤害13.8）[br /]需要等级 22[br /]物品等级 27[br /][span class="q2"]击中时可能： [span class="q2"]使目标每3秒毒发一次，对其造成6点自然伤害，持续15秒。[/span]
+</code>
+</item>
+<item id="4454" class="2.15" icon="inv_weapon_shortblade_16" quality="3">
+<name>乌尔图斯的爪子</name>
+<screenshot>113544</screenshot>
+<code>
+[span class="name q3"]乌尔图斯的爪子[/span][br /]装备后绑定[br /]装备唯一[table][tr][td]单手[/td][th] 匕首[/th][/tr][tr][td]23 - 44 伤害[/td][th] 速度 2.00[/th][/tr][/table]（每秒伤害16.8）[br /]+5 敏捷[br /]+2 精神[br /]需要等级 21[br /]物品等级 26
+</code>
+</item>
+<item id="4462" class="4.-6" icon="inv_misc_cape_02" quality="2">
+<name>枯朽披风</name>
+<screenshot>87088</screenshot>
+<code>
+[span class="name q2"]枯朽披风[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]22 护甲[br /]-5 耐力[br /]+7 智力[br /]需要等级 26[br /]物品等级 31
+</code>
+</item>
+<item id="4463" class="4.1.6" icon="inv_belt_11" quality="2">
+<name>珠饰迅猛龙项圈</name>
+<code>
+[span class="name q2"]珠饰迅猛龙项圈[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 布甲[/th][/tr][/table]25 护甲[br /]+6 耐力[br /]需要等级 26[br /]物品等级 31[br /][span class="q2"]装备: 法术强度提高7点。[/span]
+</code>
+</item>
+<item id="4464" class="4.3.8" icon="inv_boots_01" quality="2">
+<name>痛击之靴</name>
+<screenshot>4491</screenshot>
+<code>
+[span class="name q2"]痛击之靴[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 锁甲[/th][/tr][/table]140 护甲[br /]+6 力量[br /]+6 敏捷[br /]需要等级 27[br /]物品等级 32
+</code>
+</item>
+<item id="4465" class="4.3.10" icon="inv_gauntlets_09" quality="2">
+<name>白骨护手</name>
+<screenshot>167780</screenshot>
+<code>
+[span class="name q2"]白骨护手[/span][br /]装备后绑定[table][tr][td]手[/td][th] 锁甲[/th][/tr][/table]128 护甲[br /]+8 力量[br /]+3 耐力[br /]需要等级 27[br /]物品等级 32
+</code>
+</item>
+<item id="4474" class="2.2" icon="inv_weapon_bow_10" quality="2">
+<name>黑木之弓</name>
+<screenshot>86849</screenshot>
+<code>
+[span class="name q2"]黑木之弓[/span][br /]装备后绑定[table][tr][td]弓[/td][th] 弓[/th][/tr][tr][td]23 - 43 伤害[/td][th] 速度 1.90[/th][/tr][/table]（每秒伤害17.4）[br /]需要等级 27[br /]物品等级 32
+</code>
+</item>
+<item id="4476" class="4.1.5" icon="inv_chest_cloth_39" quality="2">
+<name>驭兽长袍</name>
+<screenshot>2951</screenshot>
+<code>
+[span class="name q2"]驭兽长袍[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 布甲[/th][/tr][/table]46 护甲[br /]+6 耐力[br /]+6 精神[br /]需要等级 29[br /]物品等级 34[br /][span class="q2"]装备: 法术强度提高4点。[/span]
+</code>
+</item>
+<item id="4477" class="4.6" icon="inv_shield_02" quality="2">
+<name>灰烬圆盾</name>
+<screenshot>60473</screenshot>
+<code>
+[span class="name q2"]灰烬圆盾[/span][br /]装备后绑定[table][tr][td]副手[/td][th] 盾牌[/th][/tr][/table]645 护甲[br /]13 格挡[br /]+6 耐力[br /]+3 力量[br /]需要等级 29[br /]物品等级 34
+</code>
+</item>
+<item id="4478" class="4.3.7" icon="inv_pants_03" quality="2">
+<name>彩鳞护腿</name>
+<screenshot>85973</screenshot>
+<code>
+[span class="name q2"]彩鳞护腿[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 锁甲[/th][/tr][/table]217 护甲[br /]+13 火焰抗性[br /]+13 冰霜抗性[br /]需要等级 40[br /]物品等级 45
+</code>
+</item>
+<item id="4660" class="4.1.8" icon="inv_boots_06" quality="2">
+<name>漫步靴</name>
+<screenshot>5841</screenshot>
+<code>
+[span class="name q2"]漫步靴[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 布甲[/th][/tr][/table]22 护甲[br /]+3 智力[br /]需要等级 13[br /]物品等级 18[br /][span class="q2"]装备: 爆击等级提高2。 [/span]
+</code>
+</item>
+<item id="4696" class="4.-5" icon="inv_drink_03" quality="3">
+<name>无尽酒杯</name>
+<screenshot>125773</screenshot>
+<code>
+[span class="name q3"]无尽酒杯[/span][br /]装备后绑定[br /]副手物品[br /]-15 敏捷[br /]+16 精神[br /]+5 智力[br /]需要等级 54[br /]物品等级 59[br /][span class="q2"]使用: 在30秒内恢复总计1986点法力值，喝水时必须保持坐姿。(10分钟冷却) [/span]
+</code>
+</item>
+<item id="4768" class="4.1.10" icon="inv_gauntlets_05" quality="2">
+<name>专家手套</name>
+<code>
+[span class="name q2"]专家手套[/span][br /]装备后绑定[table][tr][td]手[/td][th] 布甲[/th][/tr][/table]17 护甲[br /]+2 智力[br /]+2 耐力[br /]需要等级 10[br /]物品等级 15
+</code>
+</item>
+<item id="4771" class="4.-6" icon="inv_misc_cape_10" quality="2">
+<name>收割披风</name>
+<screenshot>62709</screenshot>
+<code>
+[span class="name q2"]收割披风[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]14 护甲[br /]+2 精神[br /]需要等级 10[br /]物品等级 15
+</code>
+</item>
+<item id="4772" class="4.-6" icon="inv_misc_cape_12" quality="1">
+<name>保暖披风</name>
+<screenshot>83366</screenshot>
+<code>
+[span class="name q1"]保暖披风[/span][table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]10 护甲[br /]需要等级 6[br /]物品等级 11
+</code>
+</item>
+<item id="4785" class="4.1.6" icon="inv_belt_02" quality="2">
+<name>硫磺腰带</name>
+<code>
+[span class="name q2"]硫磺腰带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 布甲[/th][/tr][/table]21 护甲[br /]+3 耐力[br /]+5 智力[br /]需要等级 19[br /]物品等级 24
+</code>
+</item>
+<item id="4810" class="4.2.3" icon="inv_shoulder_08" quality="2">
+<name>石板护肩</name>
+<code>
+[span class="name q2"]石板护肩[/span][br /]装备后绑定[table][tr][td]肩部[/td][th] 皮甲[/th][/tr][/table]79 护甲[br /]+8 力量[br /]+7 精神[br /]需要等级 32[br /]物品等级 37
+</code>
+</item>
+<item id="4854" class="4.-6" icon="inv_misc_pelt_bear_ruin_03" quality="1">
+<name>恶魔之伤</name>
+<screenshot>20965</screenshot>
+<code>
+[span class="name q1"]恶魔之伤[/span][br /]拾取后绑定[br /]唯一[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]10 护甲[br /]该物品将触发一个任务[br /]需要等级 6[br /]物品等级 11
+</code>
+</item>
+<item id="4861" class="4.2.5" icon="inv_chest_fur" quality="2">
+<name>羽毛外套</name>
+<screenshot>54677</screenshot>
+<code>
+[span class="name q2"]羽毛外套[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 皮甲[/th][/tr][/table]55 护甲[br /]+1 敏捷[br /]需要等级 5[br /]物品等级 10
+</code>
+</item>
+<item id="5028" class="4.-5" icon="inv_wand_10" quality="2">
+<name>萨克拉希斯的节杖</name>
+<screenshot>60079</screenshot>
+<code>
+[span class="name q2"]萨克拉希斯的节杖[/span][br /]装备后绑定[br /]副手物品[br /]+6 智力[br /]+8 精神[br /]需要等级 42[br /]物品等级 47
+</code>
+</item>
+<item id="5029" class="4.-3" icon="inv_jewelry_necklace_09" quality="2">
+<name>纳迦首领护符</name>
+<code>
+[span class="name q2"]纳迦首领护符[/span][br /]装备后绑定[br /]颈部[br /]+2 力量[br /]+10 耐力[br /]需要等级 42[br /]物品等级 47
+</code>
+</item>
+<item id="5111" class="4.-6" icon="inv_helmet_48" quality="2">
+<name>拉索利安的斗篷</name>
+<screenshot>30483</screenshot>
+<code>
+[span class="name q2"]拉索利安的斗篷[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]14 护甲[br /]+2 耐力[br /]需要等级 10[br /]物品等级 15
+</code>
+</item>
+<item id="5112" class="2.15" icon="inv_weapon_shortblade_02" quality="2">
+<name>仪式之刃</name>
+<code>
+[span class="name q2"]仪式之刃[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 匕首[/th][/tr][tr][td]7 - 14 伤害[/td][th] 速度 1.40[/th][/tr][/table]（每秒伤害7.5）[br /]+1 敏捷[br /]需要等级 10[br /]物品等级 15
+</code>
+</item>
+<item id="5180" class="4.-3" icon="inv_jewelry_amulet_04" quality="2">
+<name>和谐项链</name>
+<code>
+[span class="name q2"]和谐项链[/span][br /]装备后绑定[br /]颈部[br /]+7 精神[br /]需要等级 29[br /]物品等级 34
+</code>
+</item>
+<item id="5181" class="4.-6" icon="inv_misc_cape_02" quality="2">
+<name>活力丝质斗篷</name>
+<screenshot>61790</screenshot>
+<code>
+[span class="name q2"]活力丝质斗篷[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]23 护甲[br /]+1 智力[br /]+7 精神[br /]需要等级 28[br /]物品等级 33
+</code>
+</item>
+<item id="5182" class="2.8" icon="inv_sword_26" quality="2">
+<name>破碎的剑</name>
+<screenshot>69609</screenshot>
+<code>
+[span class="name q2"]破碎的剑[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 剑[/th][/tr][tr][td]30 - 46 伤害[/td][th] 速度 2.90[/th][/tr][/table]（每秒伤害13.1）[br /]需要等级 15[br /]物品等级 20[br /][span class="q2"]击中时可能： [span class="q2"]冲击目标，对其造成35点冰霜伤害。[/span]
+</code>
+</item>
+<item id="5183" class="4.-5" icon="inv_misc_orb_04" quality="3">
+<name>跳动的多头怪心脏</name>
+<screenshot>113281</screenshot>
+<code>
+[span class="name q3"]跳动的多头怪心脏[/span][br /]装备后绑定[br /]副手物品[br /]+2 耐力[br /]需要等级 15[br /]物品等级 20[br /][span class="q2"]装备: 法术强度提高6点。[/span]
+</code>
+</item>
+<item id="5243" class="2.19" icon="inv_wand_11" quality="3">
+<name>彩火魔杖</name>
+<screenshot>65971</screenshot>
+<code>
+[span class="name q3"]彩火魔杖[/span][br /]拾取后绑定[table][tr][td]远程[/td][th] 魔杖[/th][/tr][tr][td]24 - 45 伤害[/td][th] 速度 1.70[/th][/tr][/table]（每秒伤害20.3）[br /]需要等级 15[br /]物品等级 20
+</code>
+</item>
+<item id="5256" class="2.4" icon="inv_mace_16" quality="2">
+<name>考沃克之锤</name>
+<screenshot>83452</screenshot>
+<code>
+[span class="name q2"]考沃克之锤[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 锤[/th][/tr][tr][td]38 - 72 伤害[/td][th] 速度 3.00[/th][/tr][/table]（每秒伤害18.3）[br /]+2 力量[br /]+5 敏捷[br /]需要等级 30[br /]物品等级 35
+</code>
+</item>
+<item id="5257" class="4.-6" icon="inv_misc_cape_04" quality="3">
+<name>黑边斗篷</name>
+<screenshot>5952</screenshot>
+<code>
+[span class="name q3"]黑边斗篷[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]27 护甲[br /]+10 敏捷[br /]+4 力量[br /]需要等级 32[br /]物品等级 37
+</code>
+</item>
+<item id="5267" class="2.15" icon="inv_weapon_shortblade_03" quality="3">
+<name>血色十字军波刃剑</name>
+<code>
+[span class="name q3"]血色十字军波刃剑[/span][br /]装备后绑定[br /]装备唯一[table][tr][td]单手[/td][th] 匕首[/th][/tr][tr][td]43 - 81 伤害[/td][th] 速度 1.50[/th][/tr][/table]（每秒伤害41.3）[br /]+10 敏捷[br /]+10 耐力[br /]需要等级 58[br /]物品等级 63
+</code>
+</item>
+<item id="5422" class="4.2.7" icon="inv_pants_02" quality="2">
+<name>荆棘护腿</name>
+<screenshot>34016</screenshot>
+<code>
+[span class="name q2"]荆棘护腿[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 皮甲[/th][/tr][/table]68 护甲[br /]+4 敏捷[br /]+4 精神[br /]需要等级 15[br /]物品等级 20
+</code>
+</item>
+<item id="5423" class="2.1" icon="inv_axe_17" quality="3">
+<name>博艾恩之牙</name>
+<screenshot>63520</screenshot>
+<code>
+[span class="name q3"]博艾恩之牙[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 斧[/th][/tr][tr][td]35 - 53 伤害[/td][th] 速度 2.50[/th][/tr][/table]（每秒伤害17.6）[br /]+9 力量[br /]需要等级 15[br /]物品等级 20[br /][span class="q2"]装备: 爆击等级提高4。 [/span]
+</code>
+</item>
+<item id="5425" class="4.3.6" icon="inv_belt_03" quality="3">
+<name>符文束带</name>
+<code>
+[span class="name q3"]符文束带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 锁甲[/th][/tr][/table]104 护甲[br /]+8 力量[br /]需要等级 15[br /]物品等级 20
+</code>
+</item>
+<item id="5426" class="2.0" icon="inv_axe_23" quality="3">
+<name>毒蛇之吻</name>
+<screenshot>81946</screenshot>
+<code>
+[span class="name q3"]毒蛇之吻[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 斧[/th][/tr][tr][td]23 - 44 伤害[/td][th] 速度 2.50[/th][/tr][/table]（每秒伤害13.4）[br /]需要等级 15[br /]物品等级 20[br /][span class="q2"]击中时可能： [span class="q2"]使目标每3秒毒发一次，对其造成7点自然伤害，持续15秒。[/span]
+</code>
+</item>
+<item id="5443" class="4.6" icon="inv_shield_02" quality="3">
+<name>镀金圆盾</name>
+<screenshot>5005</screenshot>
+<code>
+[span class="name q3"]镀金圆盾[/span][br /]拾取后绑定[table][tr][td]副手[/td][th] 盾牌[/th][/tr][/table]471 护甲[br /]9 格挡[br /]+5 耐力[br /]+2 敏捷[br /]需要等级 15[br /]物品等级 20
+</code>
+</item>
+<item id="5444" class="4.-6" icon="inv_misc_cape_11" quality="3">
+<name>矿工斗篷</name>
+<code>
+[span class="name q3"]矿工斗篷[/span][br /]拾取后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]18 护甲[br /]+6 耐力[br /]需要等级 14[br /]物品等级 19
+</code>
+</item>
+<item id="5742" class="2.15" icon="inv_sword_21" quality="2">
+<name>宝钻匕首</name>
+<code>
+[span class="name q2"]宝钻匕首[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 匕首[/th][/tr][tr][td]23 - 44 伤害[/td][th] 速度 1.50[/th][/tr][/table]（每秒伤害22.3）[br /]+5 火焰抗性[br /]+5 冰霜抗性[br /]需要等级 35[br /]物品等级 40
+</code>
+</item>
+<item id="5743" class="4.-2" icon="inv_jewelry_ring_11" quality="2">
+<name>棱柱石戒</name>
+<code>
+[span class="name q2"]棱柱石戒[/span][br /]装备后绑定[br /]手指[br /]+9 智力[br /]需要等级 35[br /]物品等级 40
+</code>
+</item>
+<item id="5744" class="2.7" icon="inv_sword_24" quality="2">
+<name>苍白剥皮者</name>
+<code>
+[span class="name q2"]苍白剥皮者[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 剑[/th][/tr][tr][td]10 - 19 伤害[/td][th] 速度 2.20[/th][/tr][/table]（每秒伤害6.6）[br /]需要等级 7[br /]物品等级 12
+</code>
+</item>
+<item id="5749" class="2.1" icon="inv_axe_06" quality="2">
+<name>镰斧</name>
+<screenshot>29821</screenshot>
+<code>
+[span class="name q2"]镰斧[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 斧[/th][/tr][tr][td]43 - 66 伤害[/td][th] 速度 3.60[/th][/tr][/table]（每秒伤害15.1）[br /]+3 耐力[br /]+6 敏捷[br /]需要等级 18[br /]物品等级 23
+</code>
+</item>
+<item id="5750" class="4.3.6" icon="inv_belt_03" quality="2">
+<name>酋长的束带</name>
+<code>
+[span class="name q2"]酋长的束带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 锁甲[/th][/tr][/table]99 护甲[br /]+5 力量[br /]+2 耐力[br /]需要等级 18[br /]物品等级 23
+</code>
+</item>
+<item id="5751" class="4.-6" icon="inv_misc_cape_10" quality="2">
+<name>翼网披风</name>
+<screenshot>92567</screenshot>
+<code>
+[span class="name q2"]翼网披风[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]19 护甲[br /]+5 敏捷[br /]需要等级 20[br /]物品等级 25
+</code>
+</item>
+<item id="5752" class="2.15" icon="inv_weapon_shortblade_16" quality="2">
+<name>双足飞龙之尾</name>
+<code>
+[span class="name q2"]双足飞龙之尾[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 匕首[/th][/tr][tr][td]17 - 32 伤害[/td][th] 速度 1.80[/th][/tr][/table]（每秒伤害13.6）[br /]需要等级 21[br /]物品等级 26[br /][span class="q2"]击中时可能： [span class="q2"]使目标每3秒毒发一次，对其造成6点自然伤害，持续15秒。[/span]
+</code>
+</item>
+<item id="5753" class="4.2.1" icon="inv_helmet_04" quality="2">
+<name>褶皱花冠</name>
+<screenshot>71746</screenshot>
+<code>
+[span class="name q2"]褶皱花冠[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 皮甲[/th][/tr][/table]77 护甲[br /]+8 耐力[br /]+7 智力[br /]需要等级 26[br /]物品等级 31
+</code>
+</item>
+<item id="5754" class="4.-3" icon="inv_jewelry_amulet_03" quality="2">
+<name>狼群奖章</name>
+<code>
+[span class="name q2"]狼群奖章[/span][br /]装备后绑定[br /]颈部[br /]+5 耐力[br /]+3 敏捷[br /]需要等级 26[br /]物品等级 31
+</code>
+</item>
+<item id="5967" class="4.1.6" icon="inv_belt_10" quality="2">
+<name>贵族束带</name>
+<screenshot>74907</screenshot>
+<code>
+[span class="name q2"]贵族束带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 布甲[/th][/tr][/table]18 护甲[br /]+3 智力[br /]+2 耐力[br /]需要等级 13[br /]物品等级 18
+</code>
+</item>
+<item id="5969" class="4.-6" icon="inv_misc_cape_14" quality="2">
+<name>摄政王的披风</name>
+<screenshot>72822</screenshot>
+<code>
+[span class="name q2"]摄政王的披风[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]18 护甲[br /]+4 精神[br /]需要等级 18[br /]物品等级 23
+</code>
+</item>
+<item id="5971" class="4.-6" icon="inv_misc_cape_04" quality="2">
+<name>羽饰斗篷</name>
+<screenshot>22195</screenshot>
+<code>
+[span class="name q2"]羽饰斗篷[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]20 护甲[br /]+4 耐力[br /]+2 敏捷[br /]需要等级 21[br /]物品等级 26
+</code>
+</item>
+<item id="5975" class="4.2.6" icon="inv_belt_03" quality="2">
+<name>鞭笞腰带</name>
+<screenshot>167788</screenshot>
+<code>
+[span class="name q2"]鞭笞腰带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 皮甲[/th][/tr][/table]46 护甲[br /]+6 力量[br /]需要等级 18[br /]物品等级 23
+</code>
+</item>
+<item id="6147" class="4.2.6" icon="inv_belt_04" quality="1">
+<name>破烂的旧腰带</name>
+<screenshot>52645</screenshot>
+<code>
+[span class="name q1"]破烂的旧腰带[/span][table][tr][td]腰部[/td][th] 皮甲[/th][/tr][/table]29 护甲[br /]需要等级 5[br /]物品等级 10
+</code>
+</item>
+<item id="6148" class="4.1.8" icon="inv_boots_05" quality="1">
+<name>缠着蛛丝的靴子</name>
+<screenshot>84358</screenshot>
+<code>
+[span class="name q1"]缠着蛛丝的靴子[/span][table][tr][td]脚[/td][th] 布甲[/th][/tr][/table]13 护甲[br /]需要等级 5[br /]物品等级 10
+</code>
+</item>
+<item id="6179" class="4.-6" icon="inv_misc_cape_02" quality="2">
+<name>海盗斗篷</name>
+<screenshot>9711</screenshot>
+<code>
+[span class="name q2"]海盗斗篷[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]16 护甲[br /]+2 耐力[br /]+2 敏捷[br /]需要等级 14[br /]物品等级 19
+</code>
+</item>
+<item id="6180" class="4.3.5" icon="inv_chest_chain_12" quality="2">
+<name>斯拉克之皮</name>
+<screenshot>21294</screenshot>
+<code>
+[span class="name q2"]斯拉克之皮[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 锁甲[/th][/tr][/table]144 护甲[br /]+2 耐力[br /]+3 敏捷[br /]需要等级 10[br /]物品等级 15
+</code>
+</item>
+<item id="6195" class="4.3.5" icon="inv_chest_chain" quality="2">
+<name>打蜡的护甲</name>
+<screenshot>24654</screenshot>
+<code>
+[span class="name q2"]打蜡的护甲[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 锁甲[/th][/tr][/table]144 护甲[br /]+2 力量[br /]+3 耐力[br /]需要等级 10[br /]物品等级 15
+</code>
+</item>
+<item id="6197" class="4.2.5" icon="inv_chest_wolf" quality="2">
+<name>鳄鱼皮外衣</name>
+<screenshot>88841</screenshot>
+<code>
+[span class="name q2"]鳄鱼皮外衣[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 皮甲[/th][/tr][/table]81 护甲[br /]+7 耐力[br /]需要等级 17[br /]物品等级 22
+</code>
+</item>
+<item id="6198" class="4.2.9" icon="inv_bracer_01" quality="2">
+<name>侏罗纪护腕</name>
+<screenshot>88839</screenshot>
+<code>
+[span class="name q2"]侏罗纪护腕[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 皮甲[/th][/tr][/table]41 护甲[br /]+2 力量[br /]+5 敏捷[br /]需要等级 25[br /]物品等级 30
+</code>
+</item>
+<item id="6199" class="4.-2" icon="inv_misc_monsterspidercarapace_01" quality="2">
+<name>黑寡妇指环</name>
+<code>
+[span class="name q2"]黑寡妇指环[/span][br /]装备后绑定[br /]装备唯一[br /]手指[br /]-5 耐力[br /]+7 智力[br /]需要等级 19[br /]物品等级 24
+</code>
+</item>
+<item id="6200" class="4.3.6" icon="inv_belt_09" quality="2">
+<name>加内格的腰带</name>
+<screenshot>89598</screenshot>
+<code>
+[span class="name q2"]加内格的腰带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 锁甲[/th][/tr][/table]110 护甲[br /]+7 力量[br /]+2 耐力[br /]需要等级 24[br /]物品等级 29
+</code>
+</item>
+<item id="6201" class="4.2.8" icon="inv_boots_05" quality="1">
+<name>柔软的靴子</name>
+<screenshot>78049</screenshot>
+<code>
+[span class="name q1"]柔软的靴子[/span][table][tr][td]脚[/td][th] 皮甲[/th][/tr][/table]36 护甲[br /]需要等级 5[br /]物品等级 10
+</code>
+</item>
+<item id="6202" class="4.1.10" icon="inv_gauntlets_05" quality="1">
+<name>露指手套</name>
+<screenshot>63908</screenshot>
+<code>
+[span class="name q1"]露指手套[/span][table][tr][td]手[/td][th] 布甲[/th][/tr][/table]12 护甲[br /]需要等级 6[br /]物品等级 11
+</code>
+</item>
+<item id="6203" class="4.6" icon="inv_shield_09" quality="1">
+<name>暗杀之盾</name>
+<screenshot>133843</screenshot>
+<code>
+[span class="name q1"]暗杀之盾[/span][table][tr][td]副手[/td][th] 盾牌[/th][/tr][/table]189 护甲[br /]3 格挡[br /]需要等级 6[br /]物品等级 11
+</code>
+</item>
+<item id="6204" class="4.2.1" icon="inv_helmet_17" quality="2">
+<name>部落座狼头盔</name>
+<screenshot>78390</screenshot>
+<code>
+[span class="name q2"]部落座狼头盔[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 皮甲[/th][/tr][/table]79 护甲[br /]+7 敏捷[br /]+6 智力[br /]+6 精神[br /]需要等级 27[br /]物品等级 32
+</code>
+</item>
+<item id="6205" class="2.5" icon="inv_misc_shovel_01" quality="2">
+<name>挖地铲</name>
+<screenshot>73865</screenshot>
+<code>
+[span class="name q2"]挖地铲[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 锤[/th][/tr][tr][td]18 - 28 伤害[/td][th] 速度 2.30[/th][/tr][/table]（每秒伤害10.0）[br /]+4 敏捷[br /]需要等级 10[br /]物品等级 15
+</code>
+</item>
+<item id="6206" class="2.1" icon="inv_pick_02" quality="1">
+<name>切石斧</name>
+<screenshot>68993</screenshot>
+<code>
+[span class="name q1"]切石斧[/span][table][tr][td]双手[/td][th] 斧[/th][/tr][tr][td]25 - 38 伤害[/td][th] 速度 3.50[/th][/tr][/table]（每秒伤害9.0）[br /]需要等级 10[br /]物品等级 15
+</code>
+</item>
+<item id="6266" class="4.1.5" icon="inv_shirt_05" quality="2">
+<name>信徒外衣</name>
+<screenshot>59543</screenshot>
+<code>
+[span class="name q2"]信徒外衣[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 布甲[/th][/tr][/table]25 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 8[br /]物品等级 13
+</code>
+</item>
+<item id="6327" class="2.5" icon="inv_mace_09" quality="3">
+<name>抚慰者</name>
+<screenshot>20221</screenshot>
+<code>
+[span class="name q3"]抚慰者[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 锤[/th][/tr][tr][td]104 - 156 伤害[/td][th] 速度 4.00[/th][/tr][/table]（每秒伤害32.5）[br /]+18 力量[br /]+7 耐力[br /]需要等级 32[br /]物品等级 37
+</code>
+</item>
+<item id="6331" class="2.15" icon="inv_weapon_shortblade_15" quality="3">
+<name>哀嚎之刃</name>
+<screenshot>89591</screenshot>
+<code>
+[span class="name q3"]哀嚎之刃[/span][br /]装备后绑定[br /]装备唯一[table][tr][td]单手[/td][th] 匕首[/th][/tr][tr][td]23 - 44 伤害[/td][th] 速度 1.40[/th][/tr][/table]（每秒伤害23.9）[br /]需要等级 31[br /]物品等级 36[br /][span class="q2"]击中时可能： [span class="q2"]使目标的攻击强度降低30点，持续30秒。[/span]
+</code>
+</item>
+<item id="6332" class="4.-2" icon="inv_jewelry_ring_05" quality="3">
+<name>黑珍珠之戒</name>
+<code>
+[span class="name q3"]黑珍珠之戒[/span][br /]装备后绑定[br /]装备唯一[br /]手指[br /]+6 精神[br /]+1 智力[br /]+1 耐力[br /]需要等级 17[br /]物品等级 22
+</code>
+</item>
+<item id="6333" class="2.15" icon="inv_weapon_shortblade_10" quality="2">
+<name>刺尾匕首</name>
+<screenshot>70109</screenshot>
+<code>
+[span class="name q2"]刺尾匕首[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 匕首[/th][/tr][tr][td]14 - 28 伤害[/td][th] 速度 1.90[/th][/tr][/table]（每秒伤害11.1）[br /]+2 敏捷[br /]+2 耐力[br /]需要等级 17[br /]物品等级 22
+</code>
+</item>
+<item id="6508" class="4.-6" icon="inv_misc_cape_11" quality="1">
+<name>步兵披风</name>
+<screenshot>5962</screenshot>
+<code>
+[span class="name q1"]步兵披风[/span][table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]8 护甲[br /]需要等级 4[br /]物品等级 9
+</code>
+</item>
+<item id="6520" class="4.-6" icon="inv_misc_cape_03" quality="1">
+<name>先锋披风</name>
+<screenshot>59581</screenshot>
+<code>
+[span class="name q1"]先锋披风[/span][table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]8 护甲[br /]需要等级 4[br /]物品等级 9
+</code>
+</item>
+<item id="6541" class="4.1.10" icon="inv_gauntlets_23" quality="2">
+<name>柳木手套</name>
+<screenshot>8631</screenshot>
+<code>
+[span class="name q2"]柳木手套[/span][br /]装备后绑定[table][tr][td]手[/td][th] 布甲[/th][/tr][/table]18 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 11[br /]物品等级 16
+</code>
+</item>
+<item id="6547" class="4.3.10" icon="inv_gauntlets_12" quality="2">
+<name>士兵护手</name>
+<screenshot>4453</screenshot>
+<code>
+[span class="name q2"]士兵护手[/span][br /]装备后绑定[table][tr][td]手[/td][th] 锁甲[/th][/tr][/table]99 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 12[br /]物品等级 17
+</code>
+</item>
+<item id="6548" class="4.3.6" icon="inv_belt_25" quality="2">
+<name>士兵束带</name>
+<screenshot>4454</screenshot>
+<code>
+[span class="name q2"]士兵束带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 锁甲[/th][/tr][/table]85 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 11[br /]物品等级 16
+</code>
+</item>
+<item id="6553" class="4.2.7" icon="inv_pants_06" quality="2">
+<name>吟游诗人短裤</name>
+<screenshot>3610</screenshot>
+<code>
+[span class="name q2"]吟游诗人短裤[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 皮甲[/th][/tr][/table]65 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 13[br /]物品等级 18
+</code>
+</item>
+<item id="6557" class="4.2.8" icon="inv_boots_05" quality="2">
+<name>吟游诗人之靴</name>
+<screenshot>47937</screenshot>
+<code>
+[span class="name q2"]吟游诗人之靴[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 皮甲[/th][/tr][/table]49 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 11[br /]物品等级 16
+</code>
+</item>
+<item id="6562" class="4.1.8" icon="inv_boots_05" quality="2">
+<name>幻光战靴</name>
+<screenshot>5853</screenshot>
+<code>
+[span class="name q2"]幻光战靴[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 布甲[/th][/tr][/table]24 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 16[br /]物品等级 21
+</code>
+</item>
+<item id="6566" class="4.1.3" icon="inv_shoulder_13" quality="1">
+<name>幻光披肩</name>
+<screenshot>9288</screenshot>
+<code>
+[span class="name q1"]幻光披肩[/span][table][tr][td]肩部[/td][th] 布甲[/th][/tr][/table]27 护甲[br /]需要等级 19[br /]物品等级 24
+</code>
+</item>
+<item id="6573" class="4.3.8" icon="inv_boots_plate_01" quality="2">
+<name>防御者战靴</name>
+<screenshot>5895</screenshot>
+<code>
+[span class="name q2"]防御者战靴[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 锁甲[/th][/tr][/table]122 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 18[br /]物品等级 23
+</code>
+</item>
+<item id="6587" class="4.2.7" icon="inv_pants_02" quality="2">
+<name>斥候长裤</name>
+<screenshot>48453</screenshot>
+<code>
+[span class="name q2"]斥候长裤[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 皮甲[/th][/tr][/table]73 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 19[br /]物品等级 24
+</code>
+</item>
+<item id="6588" class="4.2.3" icon="inv_shoulder_27" quality="1">
+<name>斥候肩甲</name>
+<screenshot>7412</screenshot>
+<code>
+[span class="name q1"]斥候肩甲[/span][table][tr][td]肩部[/td][th] 皮甲[/th][/tr][/table]59 护甲[br /]需要等级 18[br /]物品等级 23
+</code>
+</item>
+<item id="6591" class="4.3.9" icon="inv_bracer_10" quality="2">
+<name>铸铁腕甲</name>
+<screenshot>76594</screenshot>
+<code>
+[span class="name q2"]铸铁腕甲[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 锁甲[/th][/tr][/table]83 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 22[br /]物品等级 27
+</code>
+</item>
+<item id="6600" class="4.2.6" icon="inv_belt_25" quality="2">
+<name>僧侣腰带</name>
+<screenshot>79217</screenshot>
+<code>
+[span class="name q2"]僧侣腰带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 皮甲[/th][/tr][/table]50 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 22[br /]物品等级 27
+</code>
+</item>
+<item id="6602" class="4.2.9" icon="inv_bracer_12" quality="2">
+<name>僧侣护腕</name>
+<screenshot>167792</screenshot>
+<code>
+[span class="name q2"]僧侣护腕[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 皮甲[/th][/tr][/table]39 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 22[br /]物品等级 27
+</code>
+</item>
+<item id="6622" class="2.7" icon="inv_sword_39" quality="3">
+<name>狂热之剑</name>
+<screenshot>18518</screenshot>
+<code>
+[span class="name q3"]狂热之剑[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 剑[/th][/tr][tr][td]81 - 151 伤害[/td][th] 速度 2.80[/th][/tr][/table]（每秒伤害41.4）[br /]需要等级 58[br /]物品等级 63[br /][span class="q2"]击中时可能： [span class="q2"]能量充满施法者全身，使他的攻击伤害提高10点，护甲提高150点，持续15秒。[/span]
+</code>
+</item>
+<item id="6628" class="4.1.10" icon="spell_nature_ravenform" quality="2">
+<name>乌鸦之爪</name>
+<screenshot>76587</screenshot>
+<code>
+[span class="name q2"]乌鸦之爪[/span][br /]装备后绑定[table][tr][td]手[/td][th] 布甲[/th][/tr][/table]22 护甲[br /]+4 耐力[br /]+3 智力[br /]需要等级 17[br /]物品等级 22
+</code>
+</item>
+<item id="6632" class="4.-6" icon="inv_misc_cape_02" quality="3">
+<name>灵鳞披风</name>
+<screenshot>22188</screenshot>
+<code>
+[span class="name q3"]灵鳞披风[/span][br /]拾取后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]19 护甲[br /]+4 耐力[br /]需要等级 15[br /]物品等级 20[br /][span class="q2"]装备: 法术强度提高5点。[/span]
+</code>
+</item>
+<item id="6641" class="2.8" icon="inv_sword_17" quality="3">
+<name>鬼魂之刃</name>
+<screenshot>30568</screenshot>
+<code>
+[span class="name q3"]鬼魂之刃[/span][br /]拾取后绑定[table][tr][td]双手[/td][th] 剑[/th][/tr][tr][td]66 - 99 伤害[/td][th] 速度 3.80[/th][/tr][/table]（每秒伤害21.7）[br /]需要等级 20[br /]物品等级 26[br /][span class="q2"]装备: 攻击强度提高28点。[/span]
+</code>
+</item>
+<item id="6642" class="4.3.5" icon="inv_chest_chain_05" quality="3">
+<name>幻影之甲</name>
+<screenshot>90011</screenshot>
+<code>
+[span class="name q3"]幻影之甲[/span][br /]拾取后绑定[table][tr][td]胸部[/td][th] 锁甲[/th][/tr][/table]201 护甲[br /]+5 精神[br /]+11 耐力[br /]+3 力量[br /]需要等级 20[br /]物品等级 25
+</code>
+</item>
+<item id="6679" class="2.6" icon="inv_spear_05" quality="3">
+<name>刺甲之矛</name>
+<screenshot>70931</screenshot>
+<code>
+[span class="name q3"]刺甲之矛[/span][br /]拾取后绑定[table][tr][td]双手[/td][th] 长柄武器[/th][/tr][tr][td]49 - 74 伤害[/td][th] 速度 2.60[/th][/tr][/table]（每秒伤害23.7）[br /]+16 敏捷[br /]需要等级 24[br /]物品等级 29
+</code>
+</item>
+<item id="6688" class="4.2.1" icon="inv_helmet_17" quality="3">
+<name>轻风头饰</name>
+<screenshot>64498</screenshot>
+<code>
+[span class="name q3"]轻风头饰[/span][br /]拾取后绑定[table][tr][td]头部[/td][th] 皮甲[/th][/tr][/table]86 护甲[br /]+3 耐力[br /]+7 智力[br /]+7 精神[br /]需要等级 27[br /]物品等级 32[br /][span class="q2"]装备: 法术强度提高14点。[/span]
+</code>
+</item>
+<item id="6689" class="2.10" icon="inv_staff_01" quality="3">
+<name>风灵法杖</name>
+<screenshot>101348</screenshot>
+<code>
+[span class="name q3"]风灵法杖[/span][br /]拾取后绑定[table][tr][td]双手[/td][th] 法杖[/th][/tr][tr][td]70 - 106 伤害[/td][th] 速度 3.30[/th][/tr][/table]（每秒伤害26.7）[br /]+5 智力[br /]+15 精神[br /]+3 耐力[br /]需要等级 27[br /]物品等级 32
+</code>
+</item>
+<item id="6695" class="4.-3" icon="inv_jewelry_necklace_04" quality="3">
+<name>冥骨护符</name>
+<code>
+[span class="name q3"]冥骨护符[/span][br /]拾取后绑定[br /]颈部[br /]+8 精神[br /]+4 耐力[br /]需要等级 27[br /]物品等级 32
+</code>
+</item>
+<item id="6696" class="2.2" icon="inv_weapon_bow_12" quality="3">
+<name>夜行者之弓</name>
+<screenshot>35929</screenshot>
+<code>
+[span class="name q3"]夜行者之弓[/span][br /]拾取后绑定[table][tr][td]弓[/td][th] 弓[/th][/tr][tr][td]24 - 45 伤害[/td][th] 速度 1.70[/th][/tr][/table]（每秒伤害20.3）[br /]+3 敏捷[br /]需要等级 27[br /]物品等级 32
+</code>
+</item>
+<item id="6697" class="4.1.3" icon="inv_shoulder_05" quality="3">
+<name>蝙蝠之翼</name>
+<screenshot>67855</screenshot>
+<code>
+[span class="name q3"]蝙蝠之翼[/span][br /]拾取后绑定[table][tr][td]肩部[/td][th] 布甲[/th][/tr][/table]37 护甲[br /]+5 精神[br /]+10 智力[br /]需要等级 27[br /]物品等级 32[br /][span class="q2"]装备: 法术强度提高4点。[/span]
+</code>
+</item>
+<item id="7413" class="4.2.1" icon="inv_helmet_15" quality="2">
+<name>间谍军帽</name>
+<screenshot>57899</screenshot>
+<code>
+[span class="name q2"]间谍军帽[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 皮甲[/th][/tr][/table]80 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 28[br /]物品等级 33
+</code>
+</item>
+<item id="7443" class="4.2.10" icon="inv_gauntlets_05" quality="2">
+<name>卫戍手套</name>
+<screenshot>125763</screenshot>
+<code>
+[span class="name q2"]卫戍手套[/span][br /]装备后绑定[table][tr][td]手[/td][th] 皮甲[/th][/tr][/table]65 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 32[br /]物品等级 37
+</code>
+</item>
+<item id="7477" class="4.2.5" icon="inv_chest_leather_08" quality="2">
+<name>游侠外套</name>
+<screenshot>166759</screenshot>
+<code>
+[span class="name q2"]游侠外套[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 皮甲[/th][/tr][/table]121 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 40[br /]物品等级 45
+</code>
+</item>
+<item id="7559" class="4.-5" icon="inv_staff_02" quality="2">
+<name>符文藤条</name>
+<screenshot>149862</screenshot>
+<code>
+[span class="name q2"]符文藤条[/span][br /]装备后绑定[br /]副手物品[br /]+3 耐力[br /]需要等级 12[br /]物品等级 17
+</code>
+</item>
+<item id="7686" class="4.-2" icon="inv_jewelry_ring_04" quality="3">
+<name>铁脊死灵之眼</name>
+<code>
+[span class="name q3"]铁脊死灵之眼[/span][br /]拾取后绑定[br /]装备唯一[br /]手指[br /]+9 敏捷[br /]+4 力量[br /]需要等级 30[br /]物品等级 35
+</code>
+</item>
+<item id="7687" class="2.4" icon="inv_hammer_19" quality="3">
+<name>铁脊死灵之拳</name>
+<screenshot>83501</screenshot>
+<code>
+[span class="name q3"]铁脊死灵之拳[/span][br /]拾取后绑定[table][tr][td]单手[/td][th] 锤[/th][/tr][tr][td]38 - 72 伤害[/td][th] 速度 2.40[/th][/tr][/table]（每秒伤害22.9）[br /]+7 力量[br /]需要等级 30[br /]物品等级 35
+</code>
+</item>
+<item id="7688" class="4.3.5" icon="inv_chest_plate15" quality="3">
+<name>铁脊死灵之肋</name>
+<screenshot>93287</screenshot>
+<code>
+[span class="name q3"]铁脊死灵之肋[/span][br /]拾取后绑定[table][tr][td]胸部[/td][th] 锁甲[/th][/tr][/table]235 护甲[br /]+17 耐力[br /]+6 力量[br /]+3 敏捷[br /]需要等级 30[br /]物品等级 35
+</code>
+</item>
+<item id="7689" class="2.8" icon="inv_sword_12" quality="3">
+<name>恐怖黎明</name>
+<screenshot>72178</screenshot>
+<code>
+[span class="name q3"]恐怖黎明[/span][br /]拾取后绑定[table][tr][td]双手[/td][th] 剑[/th][/tr][tr][td]70 - 105 伤害[/td][th] 速度 2.90[/th][/tr][/table]（每秒伤害30.2）[br /]+15 耐力[br /]+10 力量[br /]需要等级 30[br /]物品等级 35
+</code>
+</item>
+<item id="7690" class="4.2.10" icon="inv_gauntlets_32" quality="3">
+<name>乌木钳</name>
+<screenshot>71859</screenshot>
+<code>
+[span class="name q3"]乌木钳[/span][br /]拾取后绑定[table][tr][td]手[/td][th] 皮甲[/th][/tr][/table]70 护甲[br /]+4 力量[br /]+6 敏捷[br /]+8 耐力[br /]需要等级 30[br /]物品等级 35
+</code>
+</item>
+<item id="7691" class="4.1.1" icon="inv_helmet_28" quality="3">
+<name>裹尸布</name>
+<screenshot>62155</screenshot>
+<code>
+[span class="name q3"]裹尸布[/span][br /]拾取后绑定[table][tr][td]头部[/td][th] 布甲[/th][/tr][/table]42 护甲[br /]+11 智力[br /]+7 耐力[br /]需要等级 30[br /]物品等级 35[br /][span class="q2"]装备: 法术强度提高14点。[/span]
+</code>
+</item>
+<item id="7708" class="2.19" icon="inv_wand_04" quality="3">
+<name>腐坏魔杖</name>
+<screenshot>57768</screenshot>
+<code>
+[span class="name q3"]腐坏魔杖[/span][br /]拾取后绑定[table][tr][td]远程[/td][th] 魔杖[/th][/tr][tr][td]32 - 61 伤害[/td][th] 速度 1.40[/th][/tr][/table]（每秒伤害33.2）[br /]需要等级 30[br /]物品等级 35
+</code>
+</item>
+<item id="7709" class="4.1.7" icon="inv_pants_07" quality="3">
+<name>荒芜护腿</name>
+<screenshot>99498</screenshot>
+<code>
+[span class="name q3"]荒芜护腿[/span][br /]拾取后绑定[table][tr][td]腿部[/td][th] 布甲[/th][/tr][/table]45 护甲[br /]+7 耐力[br /]需要等级 30[br /]物品等级 35[br /][span class="q2"]装备: 法术强度提高20点。[/span]
+</code>
+</item>
+<item id="7731" class="4.-3" icon="inv_jewelry_necklace_06" quality="3">
+<name>鬼魅碎片护符</name>
+<code>
+[span class="name q3"]鬼魅碎片护符[/span][br /]拾取后绑定[br /]颈部[br /]+9 耐力[br /]需要等级 30[br /]物品等级 35[br /][span class="q2"]装备: 法术强度提高5点。[/span]
+</code>
+</item>
+<item id="8223" class="2.7" icon="inv_sword_43" quality="3">
+<name>石化蜥蜴之刃</name>
+<screenshot>98634</screenshot>
+<code>
+[span class="name q3"]石化蜥蜴之刃[/span][br /]装备后绑定[br /]装备唯一[table][tr][td]单手[/td][th] 剑[/th][/tr][tr][td]33 - 62 伤害[/td][th] 速度 1.90[/th][/tr][/table]（每秒伤害25.0）[br /]需要等级 32[br /]物品等级 37[br /][span class="q2"]击中时可能： [span class="q2"]防御等级提高50，持续5秒。[/span]
+</code>
+</item>
+<item id="8224" class="2.7" icon="inv_weapon_shortblade_26" quality="2">
+<name>异种蝎切割者</name>
+<screenshot>2499</screenshot>
+<code>
+[span class="name q2"]异种蝎切割者[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 剑[/th][/tr][tr][td]30 - 57 伤害[/td][th] 速度 2.30[/th][/tr][/table]（每秒伤害18.9）[br /]需要等级 31[br /]物品等级 36[br /][span class="q2"]击中时可能： [span class="q2"]使目标的伤口不断流血，在30秒内造成累计40点伤害。[/span]
+</code>
+</item>
+<item id="8491" class="15.2" icon="inv_box_petcarrier_01" quality="1">
+<name>猫笼（黑纹灰猫）</name>
+<screenshot>58390</screenshot>
+<code>
+[span class="name q1"]猫笼（黑纹灰猫）[/span][br /][span class="q2"]使用: 教你学会召唤这种小伙伴。[/span]
+</code>
+</item>
+<item id="9287" class="4.4.10" icon="inv_gauntlets_04" quality="2">
+<name>野战板甲护手</name>
+<screenshot>27996</screenshot>
+<code>
+[span class="name q2"]野战板甲护手[/span][br /]装备后绑定[table][tr][td]手[/td][th] 板甲[/th][/tr][/table]188 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 40[br /]物品等级 41
+</code>
+</item>
+<item id="9375" class="4.2.1" icon="inv_helmet_18" quality="3">
+<name>采金专家的头盔</name>
+<screenshot>81508</screenshot>
+<code>
+[span class="name q3"]采金专家的头盔[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 皮甲[/th][/tr][/table]95 护甲[br /]+6 耐力[br /]+5 敏捷[br /]需要等级 33[br /]物品等级 38[br /][span class="q2"]装备: 使你的精准等级提高17。 [/span]
+</code>
+</item>
+<item id="9378" class="2.0" icon="inv_pick_02" quality="3">
+<name>舒尔弗拉格的矿工斧</name>
+<screenshot>60740</screenshot>
+<code>
+[span class="name q3"]舒尔弗拉格的矿工斧[/span][br /]装备后绑定[br /]装备唯一[table][tr][td]单手[/td][th] 斧[/th][/tr][tr][td]50 - 94 伤害[/td][th] 速度 2.80[/th][/tr][/table]（每秒伤害25.7）[br /]+6 力量[br /]需要等级 33[br /]物品等级 38[br /][span class="q2"]装备: 攻击强度提高10点。[/span]
+</code>
+</item>
+<item id="9382" class="4.2.8" icon="inv_boots_08" quality="2">
+<name>矿工践踏靴</name>
+<screenshot>183485</screenshot>
+<code>
+[span class="name q2"]矿工践踏靴[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 皮甲[/th][/tr][/table]73 护甲[br /]+8 力量[br /]+7 耐力[br /]需要等级 33[br /]物品等级 38
+</code>
+</item>
+<item id="9402" class="4.2.7" icon="inv_pants_12" quality="3">
+<name>尘世褶裙</name>
+<screenshot>9751</screenshot>
+<code>
+[span class="name q3"]尘世褶裙[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 皮甲[/th][/tr][/table]148 护甲[br /]+29 精神[br /]+12 耐力[br /]需要等级 55[br /]物品等级 60
+</code>
+</item>
+<item id="9455" class="4.2.9" icon="inv_bracer_09" quality="3">
+<name>使者腕轮</name>
+<screenshot>16331</screenshot>
+<code>
+[span class="name q3"]使者腕轮[/span][br /]拾取后绑定[table][tr][td]手腕[/td][th] 皮甲[/th][/tr][/table]47 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]+5 奥术抗性[br /]需要等级 28[br /]物品等级 33
+</code>
+</item>
+<item id="9456" class="2.3" icon="inv_weapon_rifle_02" quality="3">
+<name>玻璃枪</name>
+<screenshot>16330</screenshot>
+<code>
+[span class="name q3"]玻璃枪[/span][br /]拾取后绑定[table][tr][td]远程[/td][th] 枪械[/th][/tr][tr][td]46 - 87 伤害[/td][th] 速度 2.90[/th][/tr][/table]（每秒伤害22.9）[br /]需要等级 30[br /]物品等级 35
+</code>
+</item>
+<item id="9457" class="2.4" icon="inv_mace_08" quality="3">
+<name>皇家外交官节杖</name>
+<screenshot>83507</screenshot>
+<code>
+[span class="name q3"]皇家外交官节杖[/span][br /]拾取后绑定[table][tr][td]单手[/td][th] 锤[/th][/tr][tr][td]37 - 69 伤害[/td][th] 速度 2.30[/th][/tr][/table]（每秒伤害23.0）[br /]+7 精神[br /]+2 耐力[br /]需要等级 30[br /]物品等级 35
+</code>
+</item>
+<item id="9756" class="4.2.7" icon="inv_pants_05" quality="2">
+<name>流浪者长裤</name>
+<screenshot>169406</screenshot>
+<code>
+[span class="name q2"]流浪者长裤[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 皮甲[/th][/tr][/table]60 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 9[br /]物品等级 14
+</code>
+</item>
+<item id="9760" class="4.3.9" icon="inv_bracer_12" quality="1">
+<name>军校护腕</name>
+<code>
+[span class="name q1"]军校护腕[/span][table][tr][td]手腕[/td][th] 锁甲[/th][/tr][/table]51 护甲[br /]需要等级 7[br /]物品等级 12
+</code>
+</item>
+<item id="9779" class="4.-6" icon="inv_misc_cape_19" quality="2">
+<name>歹徒披风</name>
+<screenshot>3613</screenshot>
+<code>
+[span class="name q2"]歹徒披风[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]16 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 13[br /]物品等级 18
+</code>
+</item>
+<item id="9785" class="4.3.9" icon="inv_bracer_13" quality="2">
+<name>奇袭者护腕</name>
+<screenshot>59584</screenshot>
+<code>
+[span class="name q2"]奇袭者护腕[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 锁甲[/th][/tr][/table]69 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 12[br /]物品等级 17
+</code>
+</item>
+<item id="9786" class="4.-6" icon="inv_misc_cape_18" quality="2">
+<name>奇袭者披风</name>
+<screenshot>5965</screenshot>
+<code>
+[span class="name q2"]奇袭者披风[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]15 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 11[br /]物品等级 16
+</code>
+</item>
+<item id="9788" class="4.3.6" icon="inv_belt_11" quality="2">
+<name>奇袭者腰带</name>
+<screenshot>3279</screenshot>
+<code>
+[span class="name q2"]奇袭者腰带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 锁甲[/th][/tr][/table]91 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 13[br /]物品等级 18
+</code>
+</item>
+<item id="9791" class="4.1.5" icon="inv_shirt_06" quality="2">
+<name>青布外套</name>
+<screenshot>158723</screenshot>
+<code>
+[span class="name q2"]青布外套[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 布甲[/th][/tr][/table]42 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 24[br /]物品等级 29
+</code>
+</item>
+<item id="9798" class="4.1.5" icon="inv_chest_cloth_42" quality="2">
+<name>青布长袍</name>
+<screenshot>7090</screenshot>
+<code>
+[span class="name q2"]青布长袍[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 布甲[/th][/tr][/table]42 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 24[br /]物品等级 29
+</code>
+</item>
+<item id="9799" class="4.1.6" icon="inv_belt_25" quality="2">
+<name>青布腰带</name>
+<screenshot>60667</screenshot>
+<code>
+[span class="name q2"]青布腰带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 布甲[/th][/tr][/table]22 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 21[br /]物品等级 26
+</code>
+</item>
+<item id="9806" class="4.2.10" icon="inv_gauntlets_05" quality="2">
+<name>超强手套</name>
+<screenshot>4962</screenshot>
+<code>
+[span class="name q2"]超强手套[/span][br /]装备后绑定[table][tr][td]手[/td][th] 皮甲[/th][/tr][/table]55 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 22[br /]物品等级 27
+</code>
+</item>
+<item id="9811" class="4.3.9" icon="inv_bracer_03" quality="2">
+<name>强化护腕</name>
+<screenshot>31855</screenshot>
+<code>
+[span class="name q2"]强化护腕[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 锁甲[/th][/tr][/table]79 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 19[br /]物品等级 24
+</code>
+</item>
+<item id="9812" class="4.-6" icon="inv_misc_cape_14" quality="2">
+<name>强化披风</name>
+<screenshot>10669</screenshot>
+<code>
+[span class="name q2"]强化披风[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]18 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 17[br /]物品等级 22
+</code>
+</item>
+<item id="9836" class="4.3.5" icon="inv_chest_plate04" quality="2">
+<name>镶带外套</name>
+<screenshot>59664</screenshot>
+<code>
+[span class="name q2"]镶带外套[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 锁甲[/th][/tr][/table]207 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 28[br /]物品等级 33
+</code>
+</item>
+<item id="9855" class="4.2.6" icon="inv_belt_03" quality="2">
+<name>射手腰带</name>
+<screenshot>61686</screenshot>
+<code>
+[span class="name q2"]射手腰带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 皮甲[/th][/tr][/table]57 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 30[br /]物品等级 35
+</code>
+</item>
+<item id="9892" class="4.2.10" icon="inv_gauntlets_15" quality="2">
+<name>猎户手套</name>
+<screenshot>4971</screenshot>
+<code>
+[span class="name q2"]猎户手套[/span][br /]装备后绑定[table][tr][td]手[/td][th] 皮甲[/th][/tr][/table]69 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 35[br /]物品等级 40
+</code>
+</item>
+<item id="9938" class="4.-6" icon="inv_misc_cape_16" quality="2">
+<name>誓言披风</name>
+<screenshot>63072</screenshot>
+<code>
+[span class="name q2"]誓言披风[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]31 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 43[br /]物品等级 48
+</code>
+</item>
+<item id="9962" class="4.3.8" icon="inv_boots_plate_08" quality="2">
+<name>好战者胫甲</name>
+<screenshot>101229</screenshot>
+<code>
+[span class="name q2"]好战者胫甲[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 锁甲[/th][/tr][/table]181 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 43[br /]物品等级 48
+</code>
+</item>
+<item id="9966" class="4.4.5" icon="inv_chest_leather_07" quality="2">
+<name>雕花板甲</name>
+<screenshot>183498</screenshot>
+<code>
+[span class="name q2"]雕花板甲[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 板甲[/th][/tr][/table]437 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 40[br /]物品等级 45
+</code>
+</item>
+<item id="10067" class="4.2.6" icon="inv_belt_16" quality="2">
+<name>正直护腰</name>
+<screenshot>30503</screenshot>
+<code>
+[span class="name q2"]正直护腰[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 皮甲[/th][/tr][/table]74 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 44[br /]物品等级 49
+</code>
+</item>
+<item id="10075" class="4.2.3" icon="inv_shoulder_13" quality="2">
+<name>正直肩甲</name>
+<screenshot>62137</screenshot>
+<code>
+[span class="name q2"]正直肩甲[/span][br /]装备后绑定[table][tr][td]肩部[/td][th] 皮甲[/th][/tr][/table]101 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 46[br /]物品等级 51
+</code>
+</item>
+<item id="10076" class="4.3.9" icon="inv_bracer_14" quality="2">
+<name>贵族臂甲</name>
+<screenshot>60148</screenshot>
+<code>
+[span class="name q2"]贵族臂甲[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 锁甲[/th][/tr][/table]117 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 44[br /]物品等级 49
+</code>
+</item>
+<item id="10077" class="4.3.5" icon="inv_chest_plate15" quality="2">
+<name>贵族胸甲</name>
+<screenshot>20284</screenshot>
+<code>
+[span class="name q2"]贵族胸甲[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 锁甲[/th][/tr][/table]288 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 48[br /]物品等级 53
+</code>
+</item>
+<item id="10092" class="4.4.3" icon="inv_shoulder_08" quality="2">
+<name>哥特板甲肩胄</name>
+<screenshot>9966</screenshot>
+<code>
+[span class="name q2"]哥特板甲肩胄[/span][br /]装备后绑定[table][tr][td]肩部[/td][th] 板甲[/th][/tr][/table]341 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 42[br /]物品等级 47
+</code>
+</item>
+<item id="10111" class="4.2.1" icon="inv_helmet_50" quality="2">
+<name>天使光环</name>
+<screenshot>62208</screenshot>
+<code>
+[span class="name q2"]天使光环[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 皮甲[/th][/tr][/table]120 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 52[br /]物品等级 57
+</code>
+</item>
+<item id="10121" class="4.3.10" icon="inv_gauntlets_10" quality="2">
+<name>神圣护手</name>
+<screenshot>28244</screenshot>
+<code>
+[span class="name q2"]神圣护手[/span][br /]装备后绑定[table][tr][td]手[/td][th] 锁甲[/th][/tr][/table]189 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 51[br /]物品等级 56
+</code>
+</item>
+<item id="10125" class="4.3.3" icon="inv_shoulder_02" quality="2">
+<name>神圣肩铠</name>
+<screenshot>50371</screenshot>
+<code>
+[span class="name q2"]神圣肩铠[/span][br /]装备后绑定[table][tr][td]肩部[/td][th] 锁甲[/th][/tr][/table]227 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 51[br /]物品等级 56
+</code>
+</item>
+<item id="10127" class="4.4.9" icon="inv_bracer_16" quality="2">
+<name>亡魂护腕</name>
+<screenshot>183615</screenshot>
+<code>
+[span class="name q2"]亡魂护腕[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 板甲[/th][/tr][/table]206 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 44[br /]物品等级 49
+</code>
+</item>
+<item id="10145" class="4.2.6" icon="inv_belt_12" quality="2">
+<name>巨力束带</name>
+<screenshot>57351</screenshot>
+<code>
+[span class="name q2"]巨力束带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 皮甲[/th][/tr][/table]86 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 54[br /]物品等级 59
+</code>
+</item>
+<item id="10208" class="4.4.7" icon="inv_pants_01" quality="2">
+<name>霸主腿铠</name>
+<screenshot>69662</screenshot>
+<code>
+[span class="name q2"]霸主腿铠[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 板甲[/th][/tr][/table]420 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 45[br /]物品等级 50
+</code>
+</item>
+<item id="10217" class="4.1.7" icon="inv_pants_06" quality="2">
+<name>优美护腿</name>
+<screenshot>6362</screenshot>
+<code>
+[span class="name q2"]优美护腿[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 布甲[/th][/tr][/table]69 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 56[br /]物品等级 61
+</code>
+</item>
+<item id="10224" class="4.-6" icon="inv_misc_cape_02" quality="2">
+<name>噩梦披风</name>
+<screenshot>35466</screenshot>
+<code>
+[span class="name q2"]噩梦披风[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]37 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 52[br /]物品等级 57
+</code>
+</item>
+<item id="10235" class="4.3.1" icon="inv_helmet_08" quality="2">
+<name>雕饰头盔</name>
+<screenshot>8593</screenshot>
+<code>
+[span class="name q2"]雕饰头盔[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 锁甲[/th][/tr][/table]258 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 54[br /]物品等级 59
+</code>
+</item>
+<item id="10247" class="4.1.8" icon="inv_boots_05" quality="2">
+<name>大师长靴</name>
+<screenshot>51709</screenshot>
+<code>
+[span class="name q2"]大师长靴[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 布甲[/th][/tr][/table]56 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 58[br /]物品等级 63
+</code>
+</item>
+<item id="10274" class="4.3.3" icon="inv_shoulder_23" quality="2">
+<name>乌贼肩铠</name>
+<screenshot>121300</screenshot>
+<code>
+[span class="name q2"]乌贼肩铠[/span][br /]装备后绑定[table][tr][td]肩部[/td][th] 锁甲[/th][/tr][/table]253 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 58[br /]物品等级 63
+</code>
+</item>
+<item id="10380" class="4.4.10" icon="inv_gauntlets_32" quality="2">
+<name>恶魔板甲护手</name>
+<screenshot>62549</screenshot>
+<code>
+[span class="name q2"]恶魔板甲护手[/span][br /]装备后绑定[table][tr][td]手[/td][th] 板甲[/th][/tr][/table]356 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 55[br /]物品等级 60
+</code>
+</item>
+<item id="10553" class="4.1.5" icon="inv_shirt_05" quality="2">
+<name>工头外衣</name>
+<screenshot>169414</screenshot>
+<code>
+[span class="name q2"]工头外衣[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 布甲[/th][/tr][/table]21 护甲[br /]需要等级 6[br /]物品等级 11[br /][span class="q2"]装备: 法术强度提高2点。[/span]
+</code>
+</item>
+<item id="10554" class="4.1.7" icon="inv_pants_07" quality="2">
+<name>工头短裤</name>
+<screenshot>59549</screenshot>
+<code>
+[span class="name q2"]工头短裤[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 布甲[/th][/tr][/table]18 护甲[br /]+1 耐力[br /]需要等级 6[br /]物品等级 11[br /][span class="q2"]装备: 法术强度提高1点。[/span]
+</code>
+</item>
+<item id="11207" class="9.8" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔武器 - 灼热武器</name>
+<screenshot>33906</screenshot>
+<code>
+[span class="name q2"]公式：附魔武器 - 灼热武器[/span][br /]需要附魔 (265)[br /][span class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其经常可以对敌人造成40点额外的火焰伤害。[/span]
+</code>
+</item>
+<item id="11603" class="2.13" icon="ability_whirlwind" quality="3">
+<name>污染之爪</name>
+<screenshot>30832</screenshot>
+<code>
+[span class="name q3"]污染之爪[/span][br /]装备后绑定[table][tr][td]主手[/td][th] 拳套[/th][/tr][tr][td]33 - 62 伤害[/td][th] 速度 1.40[/th][/tr][/table]（每秒伤害33.9）[br /]需要等级 46[br /]物品等级 51[br /][span class="q2"]击中时可能： [span class="q2"]对目标造成75点伤害。[/span]
+</code>
+</item>
+<item id="11747" class="4.2.5" icon="inv_chest_cloth_07" quality="3">
+<name>烈焰行者长袍</name>
+<screenshot>61830</screenshot>
+<code>
+[span class="name q3"]烈焰行者长袍[/span][br /]拾取后绑定[table][tr][td]胸部[/td][th] 皮甲[/th][/tr][/table]153 护甲[br /]+16 精神[br /]+5 耐力[br /]+6 智力[br /]需要等级 48[br /]物品等级 53[br /][span class="q2"]装备: 命中等级提高10。 [/span][br /][span class="q2"]装备: 法术强度提高20点。[/span]
+</code>
+</item>
+<item id="11748" class="2.19" icon="inv_staff_13" quality="3">
+<name>燃烧手杖</name>
+<screenshot>12554</screenshot>
+<code>
+[span class="name q3"]燃烧手杖[/span][br /]拾取后绑定[table][tr][td]远程[/td][th] 魔杖[/th][/tr][tr][td]66 - 123 伤害[/td][th] 速度 1.80[/th][/tr][/table]（每秒伤害52.5）[br /]需要等级 48[br /]物品等级 53[br /][span class="q2"]装备: 法术强度提高11点。[/span]
+</code>
+</item>
+<item id="11749" class="4.3.7" icon="inv_pants_03" quality="3">
+<name>灼鳞护腿</name>
+<screenshot>9718</screenshot>
+<code>
+[span class="name q3"]灼鳞护腿[/span][br /]拾取后绑定[table][tr][td]腿部[/td][th] 锁甲[/th][/tr][/table]277 护甲[br /]+13 敏捷[br /]+13 智力[br /]+13 耐力[br /]需要等级 48[br /]物品等级 53[br /][span class="q2"]装备: 攻击强度提高20点。[/span][br /][span class="q2"]装备: 每5秒恢复5点法力值。[/span]
+</code>
+</item>
+<item id="11750" class="2.10" icon="inv_staff_18" quality="3">
+<name>引火手杖</name>
+<screenshot>11280</screenshot>
+<code>
+[span class="name q3"]引火手杖[/span][br /]拾取后绑定[table][tr][td]双手[/td][th] 法杖[/th][/tr][tr][td]106 - 160 伤害[/td][th] 速度 2.90[/th][/tr][/table]（每秒伤害45.9）[br /]+10 精神[br /]+10 耐力[br /]+12 智力[br /]需要等级 48[br /]物品等级 53[br /][span class="q2"]装备: 爆击等级提高14。 [/span][br /][span class="q2"]装备: 法术强度提高15点。[/span]
+</code>
+</item>
+<item id="11755" class="4.-3" icon="inv_misc_bandage_14" quality="3">
+<name>维雷克的镣铐</name>
+<code>
+[span class="name q3"]维雷克的镣铐[/span][br /]拾取后绑定[br /]颈部[br /]+6 力量[br /]+7 耐力[br /]需要等级 51[br /]物品等级 56[br /][span class="q2"]装备: 使你的躲闪等级提高12。[/span]
+</code>
+</item>
+<item id="11782" class="4.1.3" icon="inv_shoulder_02" quality="3">
+<name>北地衬肩</name>
+<screenshot>43647</screenshot>
+<code>
+[span class="name q3"]北地衬肩[/span][br /]拾取后绑定[table][tr][td]肩部[/td][th] 布甲[/th][/tr][/table]61 护甲[br /]+8 智力[br /]+5 耐力[br /]需要等级 52[br /]物品等级 57[br /][span class="q2"]装备: 法术强度提高23点。[/span]
+</code>
+</item>
+<item id="11783" class="4.3.6" icon="inv_belt_33" quality="3">
+<name>寒钢束腰</name>
+<screenshot>61111</screenshot>
+<code>
+[span class="name q3"]寒钢束腰[/span][br /]拾取后绑定[table][tr][td]腰部[/td][th] 锁甲[/th][/tr][/table]190 护甲[br /]+7 智力[br /]需要等级 52[br /]物品等级 57[br /][span class="q2"]装备: 每5秒恢复5点法力值。[/span][br /][span class="q2"]装备: 法术强度提高23点。[/span]
+</code>
+</item>
+<item id="11784" class="2.7" icon="inv_sword_23" quality="3">
+<name>仲裁者之刃</name>
+<screenshot>135199</screenshot>
+<code>
+[span class="name q3"]仲裁者之刃[/span][br /]拾取后绑定[table][tr][td]主手[/td][th] 剑[/th][/tr][tr][td]59 - 110 伤害[/td][th] 速度 2.40[/th][/tr][/table]（每秒伤害35.2）[br /]+5 智力[br /]+8 耐力[br /]需要等级 48[br /]物品等级 53[br /][span class="q2"]装备: 法术强度提高8点。[/span]
+</code>
+</item>
+<item id="11785" class="4.6" icon="inv_shield_06" quality="3">
+<name>石傀儡之盾</name>
+<screenshot>56304</screenshot>
+<code>
+[span class="name q3"]石傀儡之盾[/span][br /]拾取后绑定[table][tr][td]副手[/td][th] 盾牌[/th][/tr][/table]1994 护甲[br /]36 格挡[br /]+10 耐力[br /]+10 自然抗性[br /]+10 奥术抗性[br /]需要等级 53[br /]物品等级 58
+</code>
+</item>
+<item id="11786" class="2.8" icon="inv_sword_47" quality="3">
+<name>大地之石</name>
+<code>
+[span class="name q3"]大地之石[/span][br /]拾取后绑定[table][tr][td]双手[/td][th] 剑[/th][/tr][tr][td]123 - 185 伤害[/td][th] 速度 3.20[/th][/tr][/table]（每秒伤害48.1）[br /]280 护甲[br /]+12 耐力[br /]需要等级 51[br /]物品等级 56
+</code>
+</item>
+<item id="11787" class="4.4.8" icon="inv_boots_plate_01" quality="3">
+<name>岩壳长靴</name>
+<screenshot>60268</screenshot>
+<code>
+[span class="name q3"]岩壳长靴[/span][br /]拾取后绑定[table][tr][td]脚[/td][th] 板甲[/th][/tr][/table]417 护甲[br /]+5 耐力[br /]需要等级 53[br /]物品等级 58[br /][span class="q2"]装备: 使你的躲闪等级提高24。[/span]
+</code>
+</item>
+<item id="12470" class="4.2.8" icon="inv_bracer_04" quality="3">
+<name>沙行者护足</name>
+<screenshot>10658</screenshot>
+<code>
+[span class="name q3"]沙行者护足[/span][br /]拾取后绑定[table][tr][td]脚[/td][th] 皮甲[/th][/tr][/table]95 护甲[br /]+17 敏捷[br /]+3 精神[br /]+6 力量[br /]需要等级 42[br /]物品等级 47
+</code>
+</item>
+<item id="12471" class="4.-5" icon="inv_staff_21" quality="3">
+<name>沙漠行者藤条</name>
+<screenshot>2522</screenshot>
+<code>
+[span class="name q3"]沙漠行者藤条[/span][br /]拾取后绑定[br /]副手物品[br /]+13 精神[br /]+4 智力[br /]+5 耐力[br /]需要等级 42[br /]物品等级 47
+</code>
+</item>
+<item id="12604" class="4.1.1" icon="inv_crown_02" quality="3">
+<name>星火头冠</name>
+<code>
+[span class="name q3"]星火头冠[/span][br /]拾取后绑定[table][tr][td]头部[/td][th] 布甲[/th][/tr][/table]69 护甲[br /]+10 精神[br /]+28 智力[br /]需要等级 55[br /]物品等级 60[br /][span class="q2"]装备: 法术强度提高12点。[/span]
+</code>
+</item>
+<item id="12605" class="2.19" icon="inv_misc_bone_elfskull_01" quality="3">
+<name>蜿蜒骨杖</name>
+<screenshot>7992</screenshot>
+<code>
+[span class="name q3"]蜿蜒骨杖[/span][br /]拾取后绑定[table][tr][td]远程[/td][th] 魔杖[/th][/tr][tr][td]53 - 100 伤害[/td][th] 速度 1.40[/th][/tr][/table]（每秒伤害54.6）[br /]需要等级 51[br /]物品等级 56[br /][span class="q2"]装备: 命中等级提高10。 [/span]
+</code>
+</item>
+<item id="12608" class="4.-6" icon="inv_misc_cape_18" quality="3">
+<name>屠夫披风</name>
+<screenshot>103838</screenshot>
+<code>
+[span class="name q3"]屠夫披风[/span][br /]拾取后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]41 护甲[br /]+7 耐力[br /]需要等级 53[br /]物品等级 58[br /][span class="q2"]装备: 爆击等级提高16。 [/span]
+</code>
+</item>
+<item id="12621" class="2.0" icon="inv_weapon_halberd_11" quality="3">
+<name>恶魔之叉</name>
+<screenshot>80846</screenshot>
+<code>
+[span class="name q3"]恶魔之叉[/span][br /]拾取后绑定[table][tr][td]单手[/td][th] 斧[/th][/tr][tr][td]76 - 142 伤害[/td][th] 速度 2.80[/th][/tr][/table]（每秒伤害38.9）[br /]需要等级 54[br /]物品等级 59[br /][span class="q2"]击中时可能： [span class="q2"]每5秒钟吸取目标10点生命值，并将其转移给施法者，持续25秒。[/span]
+</code>
+</item>
+<item id="12634" class="4.3.6" icon="inv_belt_13" quality="3">
+<name>凿刻束带</name>
+<screenshot>89280</screenshot>
+<code>
+[span class="name q3"]凿刻束带[/span][br /]拾取后绑定[table][tr][td]腰部[/td][th] 锁甲[/th][/tr][/table]199 护甲[br /]+6 敏捷[br /]+6 耐力[br /]需要等级 55[br /]物品等级 60[br /][span class="q2"]装备: 攻击强度提高44点。[/span]
+</code>
+</item>
+<item id="12637" class="4.4.10" icon="inv_gauntlets_26" quality="3">
+<name>班诺克护手</name>
+<screenshot>10491</screenshot>
+<code>
+[span class="name q3"]班诺克护手[/span][br /]拾取后绑定[table][tr][td]手[/td][th] 板甲[/th][/tr][/table]392 护甲[br /]+15 力量[br /]+15 耐力[br /]需要等级 55[br /]物品等级 60[br /][span class="q2"]装备: 命中等级提高9。 [/span]
+</code>
+</item>
+<item id="12719" class="9.4" icon="inv_scroll_03" quality="2">
+<name>设计图：符文板甲护腿</name>
+<code>
+[span class="name q2"]设计图：符文板甲护腿[/span][br /]拾取后绑定[br /]需要锻造 (300)[br /]使用: 教你学会制作符文板甲护腿。[br /][br /][span class="name q2"]符文板甲护腿[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 板甲[/th][/tr][/table]665 护甲[br /]+14 火焰抗性[br /]+14 自然抗性[br /]需要等级 57[br /]物品等级 62
+</code>
+</item>
+<item id="12728" class="9.4" icon="inv_scroll_03" quality="4">
+<name>设计图：免伤锁甲</name>
+<code>
+[span class="name q4"]设计图：免伤锁甲[/span][br /]需要锻造 (300)[br /]使用: 教你学会制作免伤锁甲。[br /][br /][span class="name q4"]免伤锁甲[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 锁甲[/th][/tr][/table]611 护甲[br /]需要等级 57[br /]物品等级 63[br /][span class="q2"]装备: 有5%的几率在被击中之后完全不受物理攻击的伤害，持续3秒。这种效果每30秒只能激活一次。[/span][br /][span class="q2"]装备: 防御等级提高20。[/span]
+</code>
+</item>
+<item id="12828" class="9.4" icon="inv_scroll_06" quality="2">
+<name>设计图：火山战锤</name>
+<code>
+[span class="name q2"]设计图：火山战锤[/span][br /]需要锻造 (290)[br /]使用: 教你学会制作火山战锤。[br /][br /][span class="name q2"]火山战锤[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 锤[/th][/tr][tr][td]60 - 113 伤害[/td][th] 速度 2.50[/th][/tr][/table]（每秒伤害34.6）[br /]需要等级 53[br /]物品等级 58[br /][span class="q2"]击中时可能： [span class="q2"]发射一枚火球攻击目标，对其造成100至128点火焰伤害，并在6秒内造成额外的15点伤害。[/span]
+</code>
+</item>
+<item id="12834" class="9.4" icon="inv_scroll_03" quality="3">
+<name>设计图：奥金勇士剑</name>
+<code>
+[span class="name q3"]设计图：奥金勇士剑[/span][br /]需要锻造 (300)[br /]使用: 教你学会制作奥金勇士剑。[br /][br /][span class="name q3"]奥金勇士剑[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 剑[/th][/tr][tr][td]129 - 194 伤害[/td][th] 速度 3.00[/th][/tr][/table]（每秒伤害53.8）[br /]需要等级 58[br /]物品等级 63[br /][span class="q2"]击中时可能： [span class="q2"]为自己恢复270至450点生命值，并使力量提高120点，持续30秒。[/span]
+</code>
+</item>
+<item id="12836" class="9.4" icon="inv_scroll_03" quality="3">
+<name>设计图：寒冰护卫者</name>
+<code>
+[span class="name q3"]设计图：寒冰护卫者[/span][br /]需要锻造 (300)[br /]使用: 教你学会制作寒冰护卫者。[br /][br /][span class="name q3"]寒冰护卫者[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 剑[/th][/tr][tr][td]66 - 124 伤害[/td][th] 速度 2.30[/th][/tr][/table]（每秒伤害41.3）[br /]需要等级 58[br /]物品等级 63[br /][span class="q2"]击中时可能： [span class="q2"]目标的移动速度降低30%，攻击间隔延长25%。持续5秒。[/span]
+</code>
+</item>
+<item id="12837" class="9.4" icon="inv_scroll_03" quality="3">
+<name>设计图：精工风暴战锤</name>
+<code>
+[span class="name q3"]设计图：精工风暴战锤[/span][br /]需要锻造 (300)[br /]使用: 教你学会制作精工风暴战锤。[br /][br /][span class="name q3"]精工风暴战锤[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 锤[/th][/tr][tr][td]58 - 108 伤害[/td][th] 速度 2.00[/th][/tr][/table]（每秒伤害41.5）[br /]需要等级 57[br /]物品等级 63[br /][span class="q2"]击中时可能： [span class="q2"]对最多3个目标造成105至145点自然伤害。[/span]
+</code>
+</item>
+<item id="12838" class="9.4" icon="inv_scroll_03" quality="3">
+<name>设计图：奥金斧</name>
+<code>
+[span class="name q3"]设计图：奥金斧[/span][br /]需要锻造 (300)[br /]使用: 教你学会制作奥金斧。[br /][br /][span class="name q3"]奥金斧[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 斧[/th][/tr][tr][td]153 - 256 伤害[/td][th] 速度 3.80[/th][/tr][/table]（每秒伤害53.8）[br /]+13 耐力[br /]需要等级 58[br /]物品等级 63[br /][span class="q2"]装备: 攻击强度提高62点。[/span]
+</code>
+</item>
+<item id="12930" class="4.-4" icon="inv_misc_root_02" quality="3">
+<name>石楠之环</name>
+<code>
+[span class="name q3"]石楠之环[/span][br /]拾取后绑定[br /]装备唯一[br /]饰品[br /]需要等级 55[br /]物品等级 60[br /][span class="q2"]装备: 法术强度提高29点。[/span]
+</code>
+</item>
+<item id="13000" class="2.10" icon="inv_staff_23" quality="3">
+<name>魔法火焰之杖</name>
+<screenshot>3201</screenshot>
+<code>
+[span class="name q3"]魔法火焰之杖[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 法杖[/th][/tr][tr][td]140 - 210 伤害[/td][th] 速度 3.30[/th][/tr][/table]（每秒伤害53.0）[br /]+22 精神[br /]+25 智力[br /]需要等级 57[br /]物品等级 62
+</code>
+</item>
+<item id="13001" class="4.-2" icon="inv_jewelry_ring_12" quality="3">
+<name>处女之戒</name>
+<code>
+[span class="name q3"]处女之戒[/span][br /]装备后绑定[br /]手指[br /]+6 精神[br /]+7 智力[br /]需要等级 55[br /]物品等级 61[br /][span class="q2"]装备: 法术强度提高18点。[/span]
+</code>
+</item>
+<item id="13002" class="4.-3" icon="inv_jewelry_amulet_03" quality="3">
+<name>艾莉贝丝的坠饰</name>
+<code>
+[span class="name q3"]艾莉贝丝的坠饰[/span][br /]装备后绑定[br /]颈部[br /]+15 精神[br /]+8 耐力[br /]需要等级 54[br /]物品等级 59
+</code>
+</item>
+<item id="13004" class="2.19" icon="inv_wand_11" quality="3">
+<name>奥斯丁的火炬</name>
+<screenshot>2985</screenshot>
+<code>
+[span class="name q3"]奥斯丁的火炬[/span][br /]装备后绑定[table][tr][td]远程[/td][th] 魔杖[/th][/tr][tr][td]55 - 104 伤害[/td][th] 速度 1.40[/th][/tr][/table]（每秒伤害56.8）[br /]+10 火焰抗性[br /]需要等级 53[br /]物品等级 58
+</code>
+</item>
+<item id="13006" class="2.4" icon="inv_hammer_17" quality="3">
+<name>玛克迦文之锤</name>
+<screenshot>19169</screenshot>
+<code>
+[span class="name q3"]玛克迦文之锤[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 锤[/th][/tr][tr][td]80 - 149 伤害[/td][th] 速度 2.80[/th][/tr][/table]（每秒伤害40.9）[br /]+10 力量[br /]+10 耐力[br /]需要等级 57[br /]物品等级 62
+</code>
+</item>
+<item id="13015" class="2.0" icon="inv_axe_08" quality="3">
+<name>塞拉希尔</name>
+<screenshot>1937</screenshot>
+<code>
+[span class="name q3"]塞拉希尔[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 斧[/th][/tr][tr][td]53 - 99 伤害[/td][th] 速度 1.90[/th][/tr][/table]（每秒伤害40.0）[br /]100 护甲[br /]+9 力量[br /]需要等级 56[br /]物品等级 61
+</code>
+</item>
+<item id="13023" class="2.2" icon="inv_weapon_bow_11" quality="3">
+<name>鹰角长弓</name>
+<code>
+[span class="name q3"]鹰角长弓[/span][br /]装备后绑定[table][tr][td]弓[/td][th] 弓[/th][/tr][tr][td]51 - 96 伤害[/td][th] 速度 1.80[/th][/tr][/table]（每秒伤害40.8）[br /]+10 敏捷[br /]+4 耐力[br /]需要等级 58[br /]物品等级 63
+</code>
+</item>
+<item id="13028" class="2.4" icon="inv_hammer_19" quality="3">
+<name>巨头石锤</name>
+<screenshot>83482</screenshot>
+<code>
+[span class="name q3"]巨头石锤[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 锤[/th][/tr][tr][td]59 - 110 伤害[/td][th] 速度 2.10[/th][/tr][/table]（每秒伤害40.2）[br /]+12 精神[br /]+5 耐力[br /]需要等级 56[br /]物品等级 61
+</code>
+</item>
+<item id="13036" class="2.7" icon="inv_sword_42" quality="3">
+<name>刺杀之刃</name>
+<screenshot>12939</screenshot>
+<code>
+[span class="name q3"]刺杀之刃[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 剑[/th][/tr][tr][td]71 - 132 伤害[/td][th] 速度 2.70[/th][/tr][/table]（每秒伤害37.6）[br /]+3 力量[br /]需要等级 52[br /]物品等级 57[br /][span class="q2"]装备: 使你的爆击等级提高14。[/span]
+</code>
+</item>
+<item id="13044" class="2.8" icon="inv_sword_03" quality="3">
+<name>斩魔剑</name>
+<screenshot>19094</screenshot>
+<code>
+[span class="name q3"]斩魔剑[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 剑[/th][/tr][tr][td]121 - 182 伤害[/td][th] 速度 3.10[/th][/tr][/table]（每秒伤害48.9）[br /]需要等级 52[br /]物品等级 57[br /][span class="q2"]装备: 对恶魔的攻击强度提高99点。[/span]
+</code>
+</item>
+<item id="13047" class="2.5" icon="inv_mace_13" quality="3">
+<name>世界之树的嫩枝</name>
+<screenshot>70165</screenshot>
+<code>
+[span class="name q3"]世界之树的嫩枝[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 锤[/th][/tr][tr][td]147 - 221 伤害[/td][th] 速度 3.70[/th][/tr][/table]（每秒伤害49.7）[br /]+14 力量[br /]+12 精神[br /]+21 耐力[br /]需要等级 53[br /]物品等级 58
+</code>
+</item>
+<item id="13053" class="2.8" icon="inv_sword_01" quality="3">
+<name>厄运制造者</name>
+<screenshot>8380</screenshot>
+<code>
+[span class="name q3"]厄运制造者[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 剑[/th][/tr][tr][td]115 - 173 伤害[/td][th] 速度 2.80[/th][/tr][/table]（每秒伤害51.4）[br /]需要等级 55[br /]物品等级 60[br /][span class="q2"]击中时可能： [span class="q2"]向目标射出一支暗影箭，对其造成125至275点暗影伤害。[/span]
+</code>
+</item>
+<item id="13060" class="2.6" icon="inv_spear_08" quality="3">
+<name>缝衣针</name>
+<screenshot>123390</screenshot>
+<code>
+[span class="name q3"]缝衣针[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 长柄武器[/th][/tr][tr][td]90 - 136 伤害[/td][th] 速度 2.20[/th][/tr][/table]（每秒伤害51.4）[br /]需要等级 55[br /]物品等级 60[br /][span class="q2"]击中时可能： [span class="q2"]对目标造成75点伤害。[/span]
+</code>
+</item>
+<item id="13070" class="4.4.8" icon="inv_boots_plate_05" quality="3">
+<name>萨菲隆的鳞片长靴</name>
+<screenshot>97</screenshot>
+<code>
+[span class="name q3"]萨菲隆的鳞片长靴[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 板甲[/th][/tr][/table]417 护甲[br /]+9 敏捷[br /]+14 力量[br /]+14 耐力[br /]需要等级 53[br /]物品等级 58
+</code>
+</item>
+<item id="13072" class="4.4.10" icon="inv_gauntlets_03" quality="3">
+<name>握石护手</name>
+<screenshot>125769</screenshot>
+<code>
+[span class="name q3"]握石护手[/span][br /]装备后绑定[table][tr][td]手[/td][th] 板甲[/th][/tr][/table]392 护甲[br /]+9 力量[br /]+14 耐力[br /]需要等级 55[br /]物品等级 60[br /][span class="q2"]装备: 防御等级提高15。[/span]
+</code>
+</item>
+<item id="13075" class="4.4.7" icon="inv_pants_04" quality="3">
+<name>魔翼护腿</name>
+<code>
+[span class="name q3"]魔翼护腿[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 板甲[/th][/tr][/table]575 护甲[br /]+15 力量[br /]+16 耐力[br /]+16 精神[br /]+15 敏捷[br /]需要等级 58[br /]物品等级 63
+</code>
+</item>
+<item id="13083" class="4.6" icon="inv_shield_05" quality="3">
+<name>加瑞特家族徽记</name>
+<screenshot>3124</screenshot>
+<code>
+[span class="name q3"]加瑞特家族徽记[/span][br /]装备后绑定[table][tr][td]副手[/td][th] 盾牌[/th][/tr][/table]2121 护甲[br /]39 格挡[br /]+5 敏捷[br /]+4 智力[br /]+17 精神[br /]需要等级 57[br /]物品等级 62
+</code>
+</item>
+<item id="13091" class="4.-3" icon="inv_jewelry_talisman_08" quality="3">
+<name>莫里斯元帅的勋章</name>
+<code>
+[span class="name q3"]莫里斯元帅的勋章[/span][br /]装备后绑定[br /]颈部[br /]+7 耐力[br /]需要等级 52[br /]物品等级 57[br /][span class="q2"]装备: 防御等级提高15。[/span]
+</code>
+</item>
+<item id="13096" class="4.-2" icon="inv_jewelry_ring_17" quality="3">
+<name>圣者指环</name>
+<code>
+[span class="name q3"]圣者指环[/span][br /]装备后绑定[br /]装备唯一[br /]手指[br /]+11 精神[br /]+10 智力[br /]+7 耐力[br /]需要等级 55[br /]物品等级 60
+</code>
+</item>
+<item id="13101" class="4.1.8" icon="inv_boots_05" quality="3">
+<name>驭狼者软鞋</name>
+<screenshot>5087</screenshot>
+<code>
+[span class="name q3"]驭狼者软鞋[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 布甲[/th][/tr][/table]58 护甲[br /]+11 耐力[br /]+11 精神[br /]+11 智力[br /]需要等级 54[br /]物品等级 59[br /][span class="q2"]装备: 法术强度提高13点。[/span]
+</code>
+</item>
+<item id="13113" class="4.2.1" icon="inv_helmet_04" quality="3">
+<name>羽月头饰</name>
+<screenshot>170376</screenshot>
+<code>
+[span class="name q3"]羽月头饰[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 皮甲[/th][/tr][/table]143 护甲[br /]+21 精神[br /]+20 智力[br /]+13 耐力[br /]需要等级 58[br /]物品等级 63
+</code>
+</item>
+<item id="13116" class="4.2.3" icon="inv_shoulder_18" quality="3">
+<name>无目者护肩</name>
+<screenshot>8674</screenshot>
+<code>
+[span class="name q3"]无目者护肩[/span][br /]装备后绑定[table][tr][td]肩部[/td][th] 皮甲[/th][/tr][/table]129 护甲[br /]+22 敏捷[br /]+4 智力[br /]+7 耐力[br /]需要等级 56[br /]物品等级 61
+</code>
+</item>
+<item id="13123" class="4.3.5" icon="inv_chest_chain_06" quality="3">
+<name>踏梦者护甲</name>
+<code>
+[span class="name q3"]踏梦者护甲[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 锁甲[/th][/tr][/table]365 护甲[br /]+20 精神[br /]+17 耐力[br /]+20 智力[br /]需要等级 57[br /]物品等级 62
+</code>
+</item>
+<item id="13133" class="4.3.3" icon="inv_shoulder_23" quality="3">
+<name>龙火肩饰</name>
+<screenshot>94658</screenshot>
+<code>
+[span class="name q3"]龙火肩饰[/span][br /]装备后绑定[table][tr][td]肩部[/td][th] 锁甲[/th][/tr][/table]270 护甲[br /]+14 智力[br /]+5 耐力[br /]+15 精神[br /]+10 火焰抗性[br /]需要等级 56[br /]物品等级 61
+</code>
+</item>
+<item id="13135" class="4.3.9" icon="inv_bracer_17" quality="3">
+<name>气派护臂</name>
+<screenshot>76609</screenshot>
+<code>
+[span class="name q3"]气派护臂[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 锁甲[/th][/tr][/table]153 护甲[br /]+7 力量[br /]+8 精神[br /]+8 耐力[br /]+7 智力[br /]+7 敏捷[br /]需要等级 54[br /]物品等级 59
+</code>
+</item>
+<item id="13146" class="2.3" icon="inv_weapon_rifle_08" quality="3">
+<name>散弹发射器</name>
+<screenshot>71233</screenshot>
+<code>
+[span class="name q3"]散弹发射器[/span][br /]装备后绑定[table][tr][td]远程[/td][th] 枪械[/th][/tr][tr][td]61 - 114 伤害[/td][th] 速度 2.30[/th][/tr][/table]（每秒伤害38.0）[br /]需要等级 53[br /]物品等级 58[br /][span class="q2"]装备: 有一定几率对你的远程攻击目标造成18至26点火焰伤害。[/span]
+</code>
+</item>
+<item id="13181" class="4.1.10" icon="inv_gauntlets_15" quality="3">
+<name>魔皮手套</name>
+<screenshot>87504</screenshot>
+<code>
+[span class="name q3"]魔皮手套[/span][br /]拾取后绑定[table][tr][td]手[/td][th] 布甲[/th][/tr][/table]51 护甲[br /]+9 耐力[br /]+9 智力[br /]需要等级 52[br /]物品等级 57[br /][span class="q2"]装备: 法术强度提高20点。[/span]
+</code>
+</item>
+<item id="13182" class="2.7" icon="inv_sword_36" quality="3">
+<name>相位之刃</name>
+<screenshot>57930</screenshot>
+<code>
+[span class="name q3"]相位之刃[/span][br /]拾取后绑定[table][tr][td]单手[/td][th] 剑[/th][/tr][tr][td]55 - 103 伤害[/td][th] 速度 2.10[/th][/tr][/table]（每秒伤害37.6）[br /]+12 耐力[br /]+7 力量[br /]需要等级 52[br /]物品等级 57
+</code>
+</item>
+<item id="13184" class="4.2.10" icon="inv_gauntlets_13" quality="3">
+<name>落木护手</name>
+<screenshot>66470</screenshot>
+<code>
+[span class="name q3"]落木护手[/span][br /]拾取后绑定[table][tr][td]手[/td][th] 皮甲[/th][/tr][/table]107 护甲[br /]+11 精神[br /]+12 智力[br /]+11 耐力[br /]需要等级 56[br /]物品等级 61[br /][span class="q2"]装备: 法术强度提高11点。[/span]
+</code>
+</item>
+<item id="13185" class="4.1.3" icon="inv_shoulder_02" quality="3">
+<name>碎裂先知衬肩</name>
+<screenshot>10010</screenshot>
+<code>
+[span class="name q3"]碎裂先知衬肩[/span][br /]拾取后绑定[table][tr][td]肩部[/td][th] 布甲[/th][/tr][/table]65 护甲[br /]+11 智力[br /]+7 精神[br /]+4 耐力[br /]需要等级 56[br /]物品等级 61[br /][span class="q2"]装备: 法术强度提高20点。[/span]
+</code>
+</item>
+<item id="13198" class="2.13" icon="inv_gauntlets_11" quality="3">
+<name>巴什古德拳套</name>
+<screenshot>6303</screenshot>
+<code>
+[span class="name q3"]巴什古德拳套[/span][br /]拾取后绑定[table][tr][td]单手[/td][th] 拳套[/th][/tr][tr][td]49 - 93 伤害[/td][th] 速度 1.80[/th][/tr][/table]（每秒伤害39.4）[br /]需要等级 55[br /]物品等级 60[br /][span class="q2"]击中时可能： [span class="q2"]将目标打傻2秒。[/span]
+</code>
+</item>
+<item id="13203" class="4.-6" icon="inv_misc_cape_19" quality="3">
+<name>振奋披风</name>
+<screenshot>166493</screenshot>
+<code>
+[span class="name q3"]振奋披风[/span][br /]拾取后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]43 护甲[br /]+15 耐力[br /]需要等级 55[br /]物品等级 60[br /][span class="q2"]装备: 攻击强度提高16点。[/span]
+</code>
+</item>
+<item id="13204" class="2.4" icon="inv_mace_15" quality="3">
+<name>巴什古德之锤</name>
+<screenshot>83478</screenshot>
+<code>
+[span class="name q3"]巴什古德之锤[/span][br /]拾取后绑定[table][tr][td]单手[/td][th] 锤[/th][/tr][tr][td]49 - 93 伤害[/td][th] 速度 1.80[/th][/tr][/table]（每秒伤害39.4）[br /]+9 力量[br /]需要等级 55[br /]物品等级 60[br /][span class="q2"]击中时可能： [span class="q2"]使目标的护甲降低200点，可叠加3次。[/span]
+</code>
+</item>
+<item id="13218" class="2.15" icon="inv_weapon_shortblade_16" quality="3">
+<name>水晶蜘蛛之牙</name>
+<screenshot>103572</screenshot>
+<code>
+[span class="name q3"]水晶蜘蛛之牙[/span][br /]拾取后绑定[br /]装备唯一[table][tr][td]单手[/td][th] 匕首[/th][/tr][tr][td]45 - 84 伤害[/td][th] 速度 1.60[/th][/tr][/table]（每秒伤害40.3）[br /]需要等级 56[br /]物品等级 61[br /][span class="q2"]击中时可能：使目标的施法速度、近战和远程攻击的攻击间隔延长10%，持续10秒。[/span][/th][/tr][/table][br /][br /][span class="q"]蜘蛛之吻 (0/2)[/span][br /][span class="q0"]- 水晶蜘蛛之牙[/span][br /][span class="q0"]- 喷毒者[br /][br /](2) 套装: 击中时可能：使目标无法移动，并使其护甲值降低100点，持续10秒。[/span]
+</code>
+</item>
+<item id="13261" class="4.-5" icon="inv_wand_09" quality="3">
+<name>德萨克之球</name>
+<code>
+[span class="name q3"]德萨克之球[/span][br /]拾取后绑定[br /]副手物品[br /]+5 耐力[br /]+7 智力[br /]需要等级 54[br /]物品等级 59[br /][span class="q2"]装备: 爆击等级提高16。 [/span][br /][span class="q"]"法师颅骨的能量使它隐隐发光。"[/span]
+</code>
+</item>
+<item id="13282" class="4.1.8" icon="inv_boots_05" quality="3">
+<name>食人魔先知长靴</name>
+<code>
+[span class="name q3"]食人魔先知长靴[/span][br /]拾取后绑定[table][tr][td]脚[/td][th] 布甲[/th][/tr][/table]58 护甲[br /]+13 智力[br /]+13 耐力[br /]需要等级 54[br /]物品等级 59[br /][span class="q2"]装备: 爆击等级提高13。 [/span]
+</code>
+</item>
+<item id="13283" class="4.-2" icon="spell_holy_innerfire" quality="3">
+<name>首席法师之戒</name>
+<code>
+[span class="name q3"]首席法师之戒[/span][br /]拾取后绑定[br /]装备唯一[br /]手指[br /]+7 智力[br /]+8 耐力[br /]需要等级 54[br /]物品等级 59[br /][span class="q2"]装备: 爆击等级提高12。 [/span]
+</code>
+</item>
+<item id="13284" class="4.3.8" icon="inv_boots_01" quality="3">
+<name>迅捷战靴</name>
+<screenshot>89863</screenshot>
+<code>
+[span class="name q3"]迅捷战靴[/span][br /]拾取后绑定[table][tr][td]脚[/td][th] 锁甲[/th][/tr][/table]236 护甲[br /]+9 耐力[br /]+17 敏捷[br /]+10 智力[br /]需要等级 53[br /]物品等级 58
+</code>
+</item>
+<item id="13285" class="2.1" icon="inv_weapon_halberd_11" quality="3">
+<name>刀片斧</name>
+<screenshot>5439</screenshot>
+<code>
+[span class="name q3"]刀片斧[/span][br /]拾取后绑定[table][tr][td]双手[/td][th] 斧[/th][/tr][tr][td]159 - 239 伤害[/td][th] 速度 4.00[/th][/tr][/table]（每秒伤害49.8）[br /]需要等级 53[br /]物品等级 58[br /][span class="q2"]击中时可能： [span class="q2"]对目标造成50至150点伤害，并在接下来的25秒内每1秒造成6点伤害。[/span]
+</code>
+</item>
+<item id="13286" class="2.0" icon="inv_pick_05" quality="3">
+<name>刺灵之矛</name>
+<screenshot>70018</screenshot>
+<code>
+[span class="name q3"]刺灵之矛[/span][br /]拾取后绑定[table][tr][td]单手[/td][th] 斧[/th][/tr][tr][td]77 - 144 伤害[/td][th] 速度 2.90[/th][/tr][/table]（每秒伤害38.1）[br /]需要等级 53[br /]物品等级 58[br /][span class="q2"]击中时可能： [span class="q2"]使目标的护甲降低200点，可叠加3次。[/span]
+</code>
+</item>
+<item id="13378" class="4.2.5" icon="inv_chest_cloth_38" quality="3">
+<name>百灵上衣</name>
+<screenshot>66662</screenshot>
+<code>
+[span class="name q3"]百灵上衣[/span][br /]拾取后绑定[table][tr][td]胸部[/td][th] 皮甲[/th][/tr][/table]165 护甲[br /]+13 敏捷[br /]+13 精神[br /]+13 力量[br /]+13 智力[br /]+13 耐力[br /]需要等级 53[br /]物品等级 58
+</code>
+</item>
+<item id="13379" class="4.-4" icon="inv_misc_flute_01" quality="3">
+<name>烈焰短笛</name>
+<screenshot>174824</screenshot>
+<code>
+[span class="name q3"]烈焰短笛[/span][br /]拾取后绑定[br /]饰品[br /]需要等级 53[br /]物品等级 58[br /][span class="q2"]使用: 使附近的玩家开始跳舞。(1分钟冷却) [/span]
+</code>
+</item>
+<item id="13383" class="4.3.7" icon="inv_pants_14" quality="3">
+<name>吟游诗人热裤</name>
+<screenshot>62108</screenshot>
+<code>
+[span class="name q3"]吟游诗人热裤[/span][br /]拾取后绑定[table][tr][td]腿部[/td][th] 锁甲[/th][/tr][/table]301 护甲[br /]+12 耐力[br /]+10 智力[br /]需要等级 53[br /]物品等级 58[br /][span class="q2"]装备: 每5秒恢复13点法力值。[/span]
+</code>
+</item>
+<item id="13384" class="4.4.6" icon="inv_belt_30" quality="3">
+<name>彩虹束带</name>
+<screenshot>81362</screenshot>
+<code>
+[span class="name q3"]彩虹束带[/span][br /]拾取后绑定[table][tr][td]腰部[/td][th] 板甲[/th][/tr][/table]341 护甲[br /]+10 力量[br /]+10 耐力[br /]+9 精神[br /]+10 智力[br /]+9 敏捷[br /]需要等级 53[br /]物品等级 58
+</code>
+</item>
+<item id="13394" class="4.4.5" icon="inv_chest_chain_15" quality="3">
+<name>斯库尔的寒冷拥抱</name>
+<screenshot>101243</screenshot>
+<code>
+[span class="name q3"]斯库尔的寒冷拥抱[/span][br /]拾取后绑定[table][tr][td]胸部[/td][th] 板甲[/th][/tr][/table]617 护甲[br /]+20 耐力[br /]+19 力量[br /]+10 冰霜抗性[br /]需要等级 54[br /]物品等级 59[br /][span class="q2"]装备: 防御等级提高9。[/span]
+</code>
+</item>
+<item id="13395" class="4.2.10" icon="inv_gauntlets_27" quality="3">
+<name>斯库尔的骨爪</name>
+<screenshot>31832</screenshot>
+<code>
+[span class="name q3"]斯库尔的骨爪[/span][br /]拾取后绑定[table][tr][td]手[/td][th] 皮甲[/th][/tr][/table]105 护甲[br /]+10 耐力[br /]需要等级 54[br /]物品等级 59[br /][span class="q2"]装备: 攻击强度提高40点。[/span]
+</code>
+</item>
+<item id="13396" class="2.19" icon="inv_misc_bone_elfskull_01" quality="3">
+<name>斯库尔的苍白之触</name>
+<code>
+[span class="name q3"]斯库尔的苍白之触[/span][br /]拾取后绑定[table][tr][td]远程[/td][th] 魔杖[/th][/tr][tr][td]70 - 131 伤害[/td][th] 速度 1.80[/th][/tr][/table]（每秒伤害55.8）[br /]需要等级 52[br /]物品等级 57[br /][span class="q2"]装备: 法术强度提高12点。[/span]
+</code>
+</item>
+<item id="13397" class="4.-6" icon="inv_misc_cape_19" quality="3">
+<name>石像鬼斗篷</name>
+<screenshot>10424</screenshot>
+<code>
+[span class="name q3"]石像鬼斗篷[/span][br /]拾取后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]43 护甲[br /]+8 敏捷[br /]+7 力量[br /]+14 耐力[br /]需要等级 56[br /]物品等级 61[br /][span class="q"]"它是白色的，而且比你的其它披风要长一些。"[/span]
+</code>
+</item>
+<item id="13399" class="2.13" icon="inv_gauntlets_11" quality="3">
+<name>石像鬼之爪</name>
+<screenshot>3245</screenshot>
+<code>
+[span class="name q3"]石像鬼之爪[/span][br /]拾取后绑定[table][tr][td]副手[/td][th] 拳套[/th][/tr][tr][td]49 - 91 伤害[/td][th] 速度 1.80[/th][/tr][/table]（每秒伤害38.9）[br /]需要等级 54[br /]物品等级 59[br /][span class="q2"]击中时可能： [span class="q2"]使目标的伤口不断流血，在30秒内造成累计100点伤害。[/span]
+</code>
+</item>
+<item id="13498" class="4.4.7" icon="inv_pants_04" quality="3">
+<name>手工精制护腿</name>
+<screenshot>166478</screenshot>
+<code>
+[span class="name q3"]手工精制护腿[/span][br /]拾取后绑定[table][tr][td]腿部[/td][th] 板甲[/th][/tr][/table]548 护甲[br /]+29 力量[br /]+12 耐力[br /]需要等级 55[br /]物品等级 60
+</code>
+</item>
+<item id="13502" class="4.4.6" icon="inv_belt_23" quality="3">
+<name>手工精制束带</name>
+<screenshot>161948</screenshot>
+<code>
+[span class="name q3"]手工精制束带[/span][br /]拾取后绑定[table][tr][td]腰部[/td][th] 板甲[/th][/tr][/table]519 护甲[br /]+11 力量[br /]+10 耐力[br /]+10 敏捷[br /]需要等级 58[br /]物品等级 63
+</code>
+</item>
+<item id="13954" class="4.2.8" icon="inv_boots_08" quality="3">
+<name>翠绿足垫</name>
+<screenshot>66694</screenshot>
+<code>
+[span class="name q3"]翠绿足垫[/span][br /]拾取后绑定[table][tr][td]脚[/td][th] 皮甲[/th][/tr][/table]118 护甲[br /]需要等级 56[br /]物品等级 61[br /][span class="q2"]装备: 法术强度提高28点。[/span]
+</code>
+</item>
+<item id="15003" class="4.2.6" icon="inv_belt_23" quality="1">
+<name>原始腰带</name>
+<screenshot>3614</screenshot>
+<code>
+[span class="name q1"]原始腰带[/span][table][tr][td]腰部[/td][th] 皮甲[/th][/tr][/table]25 护甲[br /]需要等级 3[br /]物品等级 8
+</code>
+</item>
+<item id="15007" class="4.-6" icon="inv_misc_cape_03" quality="1">
+<name>原始斗篷</name>
+<screenshot>78442</screenshot>
+<code>
+[span class="name q1"]原始斗篷[/span][table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]7 护甲[br /]需要等级 3[br /]物品等级 8
+</code>
+</item>
+<item id="15259" class="2.5" icon="inv_hammer_16" quality="2">
+<name>有力战锤</name>
+<screenshot>49137</screenshot>
+<code>
+[span class="name q2"]有力战锤[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 锤[/th][/tr][tr][td]43 - 65 伤害[/td][th] 速度 3.20[/th][/tr][/table]（每秒伤害16.9）[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 20[br /]物品等级 25
+</code>
+</item>
+<item id="16039" class="2.8" icon="inv_sword_41" quality="3">
+<name>塔基尔萨歌唱之剑</name>
+<screenshot>16540</screenshot>
+<code>
+[span class="name q3"]塔基尔萨歌唱之剑[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 剑[/th][/tr][tr][td]129 - 194 伤害[/td][th] 速度 3.30[/th][/tr][/table]+ 1 - 20 伤害[br /]（每秒伤害52.1）[br /]需要等级 52[br /]物品等级 57
+</code>
+</item>
+<item id="16682" class="4.1.8" icon="inv_boots_02" quality="3">
+<name>博学者长靴</name>
+<screenshot>12266</screenshot>
+<code>
+[span class="name q3"]博学者长靴[/span][br /]拾取后绑定[table][tr][td]脚[/td][th] 布甲[/th][/tr][/table]58 护甲[br /]+14 精神[br /]+14 智力[br /]+9 耐力[br /]需要等级 54[br /]物品等级 59[br /][br /][span class="q"]博学者的徽记 (0/8)[/span][br /]- 博学者腰带[br /]- 博学者腕轮[br /]- 博学者头冠[br /]- 博学者手套[br /]- 博学者护腿[br /]- 博学者衬肩[br /][span class="q0"]- 博学者长袍[br /]- 博学者长靴[br /][br /](2) 套装: +200 护甲。[br /](4) 套装: 法术强度提高23点。[br /](6) 套装: 被击中之后有一定几率令攻击者冻结在原地，持续3秒。[br /](8) 套装: +8 所有抗性。[/span][br /]
+</code>
+</item>
+<item id="17050" class="4.1.5" icon="inv_chest_cloth_04" quality="3">
+<name>附魔师的长袍</name>
+<screenshot>183451</screenshot>
+<code>
+[span class="name q3"]附魔师的长袍[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 布甲[/th][/tr][/table]75 护甲[br /]+20 耐力[br /]+10 精神[br /]+10 智力[br /]+5 自然抗性[br /]需要等级 47[br /]物品等级 52
+</code>
+</item>
+<item id="17054" class="2.7" icon="inv_sword_41" quality="3">
+<name>方弗罗的怜悯</name>
+<screenshot>69948</screenshot>
+<code>
+[span class="name q3"]方弗罗的怜悯[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 剑[/th][/tr][tr][td]49 - 91 伤害[/td][th] 速度 2.10[/th][/tr][/table]（每秒伤害33.3）[br /]需要等级 45[br /]物品等级 50[br /][span class="q2"]击中时可能： [span class="q2"]冲击目标，对其造成70点奥术伤害。[/span]
+</code>
+</item>
+<item id="17055" class="2.4" icon="inv_hammer_17" quality="3">
+<name>卡古克之锤</name>
+<screenshot>83483</screenshot>
+<code>
+[span class="name q3"]卡古克之锤[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 锤[/th][/tr][tr][td]44 - 83 伤害[/td][th] 速度 1.90[/th][/tr][/table]（每秒伤害33.4）[br /]+6 耐力[br /]+6 智力[br /]+5 精神[br /]需要等级 45[br /]物品等级 50
+</code>
+</item>
+<item id="17741" class="4.1.5" icon="inv_chest_cloth_15" quality="3">
+<name>自然的拥抱</name>
+<screenshot>8512</screenshot>
+<code>
+[span class="name q3"]自然的拥抱[/span][br /]拾取后绑定[table][tr][td]胸部[/td][th] 布甲[/th][/tr][/table]73 护甲[br /]需要等级 46[br /]物品等级 51[br /][span class="q2"]装备: 法术强度提高23点。[/span][br /][span class="q2"]装备: 每5秒恢复10点法力值。[/span]
+</code>
+</item>
+<item id="17742" class="4.2.5" icon="inv_chest_leather_08" quality="3">
+<name>蘑菇护甲</name>
+<screenshot>84270</screenshot>
+<code>
+[span class="name q3"]蘑菇护甲[/span][br /]拾取后绑定[table][tr][td]胸部[/td][th] 皮甲[/th][/tr][/table]148 护甲[br /]+25 敏捷[br /]+10 耐力[br /]需要等级 46[br /]物品等级 51
+</code>
+</item>
+<item id="17767" class="4.3.1" icon="inv_helmet_17" quality="3">
+<name>花苗头饰</name>
+<screenshot>68160</screenshot>
+<code>
+[span class="name q3"]花苗头饰[/span][br /]拾取后绑定[table][tr][td]头部[/td][th] 锁甲[/th][/tr][/table]249 护甲[br /]+18 耐力[br /]+10 敏捷[br /]需要等级 46[br /]物品等级 51[br /][span class="q2"]装备: 攻击强度提高36点。[/span]
+</code>
+</item>
+<item id="17922" class="4.2.5" icon="inv_chest_fur" quality="2">
+<name>狮皮护甲</name>
+<screenshot>69611</screenshot>
+<code>
+[span class="name q2"]狮皮护甲[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 皮甲[/th][/tr][/table]55 护甲[br /]+1 智力[br /]需要等级 5[br /]物品等级 10
+</code>
+</item>
+<item id="18047" class="4.3.8" icon="inv_boots_02" quality="3">
+<name>烈焰行者</name>
+<screenshot>118425</screenshot>
+<code>
+[span class="name q3"]烈焰行者[/span][br /]拾取后绑定[table][tr][td]脚[/td][th] 锁甲[/th][/tr][/table]251 护甲[br /]+10 耐力[br /]+18 敏捷[br /]需要等级 57[br /]物品等级 62[br /][span class="q2"]装备: 攻击强度提高24点。[/span]
+</code>
+</item>
+<item id="18048" class="2.4" icon="inv_hammer_06" quality="3">
+<name>大铸甲师之锤</name>
+<screenshot>83502</screenshot>
+<code>
+[span class="name q3"]大铸甲师之锤[/span][br /]拾取后绑定[table][tr][td]主手[/td][th] 锤[/th][/tr][tr][td]66 - 123 伤害[/td][th] 速度 2.40[/th][/tr][/table]（每秒伤害39.4）[br /]+5 智力[br /]需要等级 55[br /]物品等级 60[br /][span class="q2"]装备: 法术强度提高14点。[/span]
+</code>
+</item>
+<item id="18345" class="4.-2" icon="inv_jewelry_ring_15" quality="2">
+<name>低语戒指</name>
+<code>
+[span class="name q2"]低语戒指[/span][br /]拾取后绑定[br /]手指[br /]+10 智力[br /]需要等级 55[br /]物品等级 60[br /][span class="q2"]装备: 任何沉默或打断效果对装备者的影响时间缩短10%。这个效果不与其它同类效果叠加。[/span]
+</code>
+</item>
+<item id="18346" class="4.1.7" icon="inv_pants_09" quality="2">
+<name>无丝长裤</name>
+<code>
+[span class="name q2"]无丝长裤[/span][br /]拾取后绑定[table][tr][td]腿部[/td][th] 布甲[/th][/tr][/table]68 护甲[br /]+13 耐力[br /]需要等级 55[br /]物品等级 60[br /][span class="q2"]装备: 对亡灵的法术强度提高35点。[/span]
+</code>
+</item>
+<item id="18387" class="4.1.10" icon="inv_gauntlets_16" quality="3">
+<name>火花手套</name>
+<screenshot>4676</screenshot>
+<code>
+[span class="name q3"]火花手套[/span][br /]拾取后绑定[table][tr][td]手[/td][th] 布甲[/th][/tr][/table]53 护甲[br /]+15 智力[br /]+9 耐力[br /]需要等级 55[br /]物品等级 60[br /][span class="q2"]装备: 爆击等级提高14。 [/span]
+</code>
+</item>
+<item id="18610" class="2.7" icon="inv_sword_16" quality="1">
+<name>锋利弯刀</name>
+<screenshot>49147</screenshot>
+<code>
+[span class="name q1"]锋利弯刀[/span][br /]装备后绑定[table][tr][td]主手[/td][th] 剑[/th][/tr][tr][td]3 - 6 伤害[/td][th] 速度 1.80[/th][/tr][/table]（每秒伤害2.5）
+</code>
+</item>
+<item id="18611" class="4.2.7" icon="inv_pants_02" quality="1">
+<name>瘤背护腿</name>
+<screenshot>54844</screenshot>
+<code>
+[span class="name q1"]瘤背护腿[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 皮甲[/th][/tr][/table]36 护甲[br /]需要等级 2[br /]物品等级 7
+</code>
+</item>
+<item id="18612" class="4.3.8" icon="inv_boots_01" quality="1">
+<name>血腥链甲战靴</name>
+<screenshot>167782</screenshot>
+<code>
+[span class="name q1"]血腥链甲战靴[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 锁甲[/th][/tr][/table]61 护甲[br /]需要等级 3[br /]物品等级 8
+</code>
+</item>
+<item id="18754" class="4.4.9" icon="inv_bracer_15" quality="3">
+<name>魔能护腕</name>
+<code>
+[span class="name q3"]魔能护腕[/span][br /]拾取后绑定[table][tr][td]手腕[/td][th] 板甲[/th][/tr][/table]283 护甲[br /]+12 力量[br /]+12 耐力[br /]需要等级 57[br /]物品等级 62[br /][span class="q2"]装备: 防御等级提高5。[/span]
+</code>
+</item>
+<item id="18755" class="2.3" icon="inv_weapon_rifle_03" quality="3">
+<name>克索诺斯火棍</name>
+<screenshot>6652</screenshot>
+<code>
+[span class="name q3"]克索诺斯火棍[/span][br /]拾取后绑定[table][tr][td]远程[/td][th] 枪械[/th][/tr][tr][td]73 - 137 伤害[/td][th] 速度 2.60[/th][/tr][/table]（每秒伤害40.4）[br /]+6 耐力[br /]+4 敏捷[br /]+6 暗影抗性[br /]需要等级 57[br /]物品等级 62
+</code>
+</item>
+<item id="18756" class="4.6" icon="inv_shield_17" quality="3">
+<name>恐怖卫士之盾</name>
+<screenshot>65680</screenshot>
+<code>
+[span class="name q3"]恐怖卫士之盾[/span][br /]拾取后绑定[table][tr][td]副手[/td][th] 盾牌[/th][/tr][/table]2121 护甲[br /]39 格挡[br /]+18 力量[br /]+5 耐力[br /]需要等级 57[br /]物品等级 62
+</code>
+</item>
+<item id="18757" class="4.1.3" icon="inv_shoulder_25" quality="3">
+<name>恶魔衬肩</name>
+<screenshot>89593</screenshot>
+<code>
+[span class="name q3"]恶魔衬肩[/span][br /]拾取后绑定[table][tr][td]肩部[/td][th] 布甲[/th][/tr][/table]66 护甲[br /]+16 耐力[br /]需要等级 57[br /]物品等级 62[br /][span class="q2"]装备: 每5秒恢复10点法力值。[/span]
+</code>
+</item>
+<item id="20768" class="15.0" icon="inv_misc_bag_12" quality="1">
+<name>沾满淤泥的袋子</name>
+<code>
+[span class="name q1"]沾满淤泥的袋子[/span]
+</code>
+</item>
+<item id="22241" class="4.2.3" icon="inv_shoulder_07" quality="3">
+<name>黑暗守望者肩甲</name>
+<screenshot>4700</screenshot>
+<code>
+[span class="name q3"]黑暗守望者肩甲[/span][br /]拾取后绑定[table][tr][td]肩部[/td][th] 皮甲[/th][/tr][/table]122 护甲[br /]+17 敏捷[br /]+11 力量[br /]+7 耐力[br /]需要等级 52[br /]物品等级 57
+</code>
+</item>
+<item id="22242" class="4.3.6" icon="inv_belt_18" quality="3">
+<name>维雷克的束缚</name>
+<screenshot>161961</screenshot>
+<code>
+[span class="name q3"]维雷克的束缚[/span][br /]拾取后绑定[table][tr][td]腰部[/td][th] 锁甲[/th][/tr][/table]187 护甲[br /]+8 敏捷[br /]+8 智力[br /]+8 耐力[br /]需要等级 51[br /]物品等级 56[br /][span class="q2"]装备: 攻击强度提高24点。[/span][br /][span class="q2"]装备: 每5秒恢复4点法力值。[/span]
+</code>
+</item>
+<item id="22245" class="4.1.8" icon="inv_boots_cloth_05" quality="3">
+<name>煤烟护足</name>
+<code>
+[span class="name q3"]煤烟护足[/span][br /]拾取后绑定[table][tr][td]脚[/td][th] 布甲[/th][/tr][/table]55 护甲[br /]+9 智力[br /]+8 耐力[br /]+14 精神[br /]需要等级 51[br /]物品等级 56[br /][span class="q2"]装备: 法术强度提高11点。[/span]
+</code>
+</item>
+<item id="23197" class="4.11" icon="inv_relics_idolofrejuvenation" quality="3">
+<name>月亮神像</name>
+<code>
+[span class="name q3"]月亮神像[/span][br /]装备后绑定[br /]唯一[br /]圣物 神像[br /]需要等级 60[br /]物品等级 65[br /][span class="q2"]装备: 使你的月火术的法术强度提高33点。[/span]
+</code>
+</item>
+<item id="23199" class="4.11" icon="inv_relics_totemofrage" quality="3">
+<name>风暴图腾</name>
+<code>
+[span class="name q3"]风暴图腾[/span][br /]装备后绑定[br /]唯一[br /]圣物 图腾[br /]需要等级 60[br /]物品等级 65[br /][span class="q2"]装备: 闪电链和闪电箭的法术强度提高33点。[/span][br /][span class="q"]"可以作为空气图腾、大地图腾、火焰图腾和水之图腾使用。"[/span]
+</code>
+</item>
+<item id="23203" class="4.11" icon="inv_relics_libramoftruth" quality="3">
+<name>热情圣契</name>
+<code>
+[span class="name q3"]热情圣契[/span][br /]装备后绑定[br /]唯一[br /]圣物 圣契[br /]需要等级 60[br /]物品等级 65[br /][span class="q2"]装备: 使你的圣印法术的基础法力值消耗降低22点。[/span]
+</code>
+</item>
+<item id="24222" class="2.15" icon="inv_weapon_shortblade_18" quality="3">
+<name>黑暗刺剑</name>
+<screenshot>11195</screenshot>
+<code>
+[span class="name q3"]黑暗刺剑[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 匕首[/th][/tr][tr][td]47 - 88 伤害[/td][th] 速度 1.80[/th][/tr][/table]（每秒伤害37.5）[br /]+8 耐力[br /]需要等级 52[br /]物品等级 57[br /][span class="q2"]装备: 攻击强度提高18点。[/span]
+</code>
+</item>
+<item id="30675" class="4.1.6" icon="inv_belt_03" quality="4">
+<name>潜伏者束腰</name>
+<screenshot>55834</screenshot>
+<code>
+[span class="name q4"]潜伏者束腰[/span][br /]拾取后绑定[table][tr][td]腰部[/td][th] 布甲[/th][/tr][/table]109 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 70[br /]物品等级 115
+</code>
+</item>
+<item id="30676" class="4.2.6" icon="inv_belt_25" quality="4">
+<name>潜伏者护腰</name>
+<screenshot>119406</screenshot>
+<code>
+[span class="name q4"]潜伏者护腰[/span][br /]拾取后绑定[table][tr][td]腰部[/td][th] 皮甲[/th][/tr][/table]205 护甲[br /][span class="q2"]&amp;lt;随机&amp;gt;[/span][br /]需要等级 70[br /]物品等级 115
+</code>
+</item>
+<item id="30677" class="4.3.6" icon="inv_belt_03" quality="4">
+<name>潜伏者腰带</name>
+<code>
+[span class="name q4"]潜伏者腰带[/span][br /]拾取后绑定[table][tr][td]腰部[/td][th] 锁甲[/th][/tr][/table]457 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 70[br /]物品等级 115
+</code>
+</item>
+<item id="30678" class="4.4.6" icon="inv_belt_22" quality="4">
+<name>潜伏者束带</name>
+<code>
+[span class="name q4"]潜伏者束带[/span][br /]拾取后绑定[table][tr][td]腰部[/td][th] 板甲[/th][/tr][/table]816 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 70[br /]物品等级 115
+</code>
+</item>
+<item id="30680" class="4.1.8" icon="inv_boots_05" quality="4">
+<name>滑翔者的裹足</name>
+<screenshot>58063</screenshot>
+<code>
+[span class="name q4"]滑翔者的裹足[/span][br /]拾取后绑定[table][tr][td]脚[/td][th] 布甲[/th][/tr][/table]134 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 70[br /]物品等级 115
+</code>
+</item>
+<item id="30681" class="4.2.8" icon="inv_boots_05" quality="4">
+<name>滑翔者的长靴</name>
+<screenshot>55894</screenshot>
+<code>
+[span class="name q4"]滑翔者的长靴[/span][br /]拾取后绑定[table][tr][td]脚[/td][th] 皮甲[/th][/tr][/table]250 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 70[br /]物品等级 115
+</code>
+</item>
+<item id="30682" class="4.3.8" icon="inv_boots_chain_05" quality="4">
+<name>滑翔者的战靴</name>
+<code>
+[span class="name q4"]滑翔者的战靴[/span][br /]拾取后绑定[table][tr][td]脚[/td][th] 锁甲[/th][/tr][/table]558 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 70[br /]物品等级 115
+</code>
+</item>
+<item id="30683" class="4.4.8" icon="inv_boots_plate_04" quality="4">
+<name>滑翔者的胫甲</name>
+<code>
+[span class="name q4"]滑翔者的胫甲[/span][br /]拾取后绑定[table][tr][td]脚[/td][th] 板甲[/th][/tr][/table]997 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 70[br /]物品等级 115
+</code>
+</item>
+<item id="30684" class="4.1.9" icon="inv_bracer_10" quality="4">
+<name>蹂躏者护腕</name>
+<screenshot>55864</screenshot>
+<code>
+[span class="name q4"]蹂躏者护腕[/span][br /]拾取后绑定[table][tr][td]手腕[/td][th] 布甲[/th][/tr][/table]85 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 70[br /]物品等级 115
+</code>
+</item>
+<item id="30685" class="4.2.9" icon="inv_bracer_07" quality="4">
+<name>蹂躏者裹腕</name>
+<screenshot>124011</screenshot>
+<code>
+[span class="name q4"]蹂躏者裹腕[/span][br /]拾取后绑定[table][tr][td]手腕[/td][th] 皮甲[/th][/tr][/table]159 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 70[br /]物品等级 115
+</code>
+</item>
+<item id="30686" class="4.3.9" icon="inv_bracer_02" quality="4">
+<name>蹂躏者腕环</name>
+<code>
+[span class="name q4"]蹂躏者腕环[/span][br /]拾取后绑定[table][tr][td]手腕[/td][th] 锁甲[/th][/tr][/table]355 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 70[br /]物品等级 115
+</code>
+</item>
+<item id="30687" class="4.4.9" icon="inv_bracer_07" quality="4">
+<name>蹂躏者腕甲</name>
+<code>
+[span class="name q4"]蹂躏者腕甲[/span][br /]拾取后绑定[table][tr][td]手腕[/td][th] 板甲[/th][/tr][/table]634 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 70[br /]物品等级 115
+</code>
+</item>
+<item id="31155" class="4.4.5" icon="inv_chest_plate14" quality="3">
+<name>幼龙鳞片胸甲</name>
+<screenshot>84045</screenshot>
+<code>
+[span class="name q3"]幼龙鳞片胸甲[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 板甲[/th][/tr][/table]1106 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31156" class="4.3.5" icon="inv_chest_plate04" quality="3">
+<name>幼龙鳞片护胸</name>
+<screenshot>20004</screenshot>
+<code>
+[span class="name q3"]幼龙鳞片护胸[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 锁甲[/th][/tr][/table]619 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31157" class="4.2.5" icon="inv_chest_leather_03" quality="3">
+<name>龙皮外套</name>
+<code>
+[span class="name q3"]龙皮外套[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 皮甲[/th][/tr][/table]278 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31158" class="4.1.5" icon="inv_chest_cloth_48" quality="3">
+<name>龙纹外衣</name>
+<screenshot>125397</screenshot>
+<code>
+[span class="name q3"]龙纹外衣[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 布甲[/th][/tr][/table]148 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31159" class="4.4.3" icon="inv_shoulder_28" quality="3">
+<name>魔石肩铠</name>
+<code>
+[span class="name q3"]魔石肩铠[/span][br /]装备后绑定[table][tr][td]肩部[/td][th] 板甲[/th][/tr][/table]829 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31160" class="4.3.3" icon="inv_shoulder_23" quality="3">
+<name>魔石肩饰</name>
+<screenshot>17823</screenshot>
+<code>
+[span class="name q3"]魔石肩饰[/span][br /]装备后绑定[table][tr][td]肩部[/td][th] 锁甲[/th][/tr][/table]464 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31161" class="4.2.3" icon="inv_shoulder_30" quality="3">
+<name>魔石肩甲</name>
+<screenshot>158722</screenshot>
+<code>
+[span class="name q3"]魔石肩甲[/span][br /]装备后绑定[table][tr][td]肩部[/td][th] 皮甲[/th][/tr][/table]208 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31162" class="4.1.3" icon="inv_shoulder_30" quality="3">
+<name>魔石衬肩</name>
+<screenshot>70575</screenshot>
+<code>
+[span class="name q3"]魔石衬肩[/span][br /]装备后绑定[table][tr][td]肩部[/td][th] 布甲[/th][/tr][/table]111 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31163" class="4.4.10" icon="inv_gauntlets_22" quality="3">
+<name>虚空钢铸手甲</name>
+<screenshot>80018</screenshot>
+<code>
+[span class="name q3"]虚空钢铸手甲[/span][br /]装备后绑定[table][tr][td]手[/td][th] 板甲[/th][/tr][/table]655 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 66[br /]物品等级 103
+</code>
+</item>
+<item id="31164" class="4.3.10" icon="inv_gauntlets_17" quality="3">
+<name>虚空钢铸护手</name>
+<screenshot>48558</screenshot>
+<code>
+[span class="name q3"]虚空钢铸护手[/span][br /]装备后绑定[table][tr][td]手[/td][th] 锁甲[/th][/tr][/table]367 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 66[br /]物品等级 103
+</code>
+</item>
+<item id="31165" class="4.2.10" icon="inv_gauntlets_15" quality="3">
+<name>虚空钢纹手套</name>
+<screenshot>169409</screenshot>
+<code>
+[span class="name q3"]虚空钢纹手套[/span][br /]装备后绑定[table][tr][td]手[/td][th] 皮甲[/th][/tr][/table]164 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 66[br /]物品等级 103
+</code>
+</item>
+<item id="31166" class="4.1.10" icon="inv_gauntlets_15" quality="3">
+<name>虚空钢丝裹手</name>
+<screenshot>91761</screenshot>
+<code>
+[span class="name q3"]虚空钢丝裹手[/span][br /]装备后绑定[table][tr][td]手[/td][th] 布甲[/th][/tr][/table]88 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 66[br /]物品等级 103
+</code>
+</item>
+<item id="31168" class="4.4.5" icon="inv_chest_plate12" quality="3">
+<name>恶魔熔铸护胸</name>
+<screenshot>87500</screenshot>
+<code>
+[span class="name q3"]恶魔熔铸护胸[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 板甲[/th][/tr][/table]844 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 60[br /]物品等级 82
+</code>
+</item>
+<item id="31170" class="4.3.5" icon="inv_chest_chain_07" quality="3">
+<name>恶魔熔铸战甲</name>
+<screenshot>87502</screenshot>
+<code>
+[span class="name q3"]恶魔熔铸战甲[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 锁甲[/th][/tr][/table]475 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 60[br /]物品等级 82
+</code>
+</item>
+<item id="31172" class="4.2.5" icon="inv_chest_samurai" quality="3">
+<name>恶魔皮革外套</name>
+<screenshot>25539</screenshot>
+<code>
+[span class="name q3"]恶魔皮革外套[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 皮甲[/th][/tr][/table]219 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 60[br /]物品等级 82
+</code>
+</item>
+<item id="31174" class="4.1.5" icon="inv_chest_cloth_25" quality="3">
+<name>恶魔编制外衣</name>
+<screenshot>182149</screenshot>
+<code>
+[span class="name q3"]恶魔编制外衣[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 布甲[/th][/tr][/table]114 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 60[br /]物品等级 82
+</code>
+</item>
+<item id="31176" class="4.4.10" icon="inv_gauntlets_10" quality="3">
+<name>岩虫板甲护手</name>
+<code>
+[span class="name q3"]岩虫板甲护手[/span][br /]装备后绑定[table][tr][td]手[/td][th] 板甲[/th][/tr][/table]582 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 62[br /]物品等级 91
+</code>
+</item>
+<item id="31177" class="4.3.10" icon="inv_gauntlets_11" quality="3">
+<name>岩虫鳞片护手</name>
+<screenshot>22934</screenshot>
+<code>
+[span class="name q3"]岩虫鳞片护手[/span][br /]装备后绑定[table][tr][td]手[/td][th] 锁甲[/th][/tr][/table]327 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 62[br /]物品等级 91
+</code>
+</item>
+<item id="31179" class="4.2.10" icon="inv_gauntlets_21" quality="3">
+<name>岩虫外皮手套</name>
+<code>
+[span class="name q3"]岩虫外皮手套[/span][br /]装备后绑定[table][tr][td]手[/td][th] 皮甲[/th][/tr][/table]149 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 62[br /]物品等级 91
+</code>
+</item>
+<item id="31181" class="4.1.10" icon="inv_gauntlets_16" quality="3">
+<name>岩虫外皮护手</name>
+<code>
+[span class="name q3"]岩虫外皮护手[/span][br /]装备后绑定[table][tr][td]手[/td][th] 布甲[/th][/tr][/table]78 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 62[br /]物品等级 91
+</code>
+</item>
+<item id="31182" class="4.4.1" icon="inv_helmet_08" quality="3">
+<name>军团头盔</name>
+<screenshot>73350</screenshot>
+<code>
+[span class="name q3"]军团头盔[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 板甲[/th][/tr][/table]709 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 60[br /]物品等级 85
+</code>
+</item>
+<item id="31183" class="4.3.1" icon="inv_helmet_24" quality="3">
+<name>军团头巾</name>
+<screenshot>182659</screenshot>
+<code>
+[span class="name q3"]军团头巾[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 锁甲[/th][/tr][/table]399 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 60[br /]物品等级 85
+</code>
+</item>
+<item id="31184" class="4.2.1" icon="inv_helmet_08" quality="3">
+<name>军团头甲</name>
+<code>
+[span class="name q3"]军团头甲[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 皮甲[/th][/tr][/table]183 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 60[br /]物品等级 85
+</code>
+</item>
+<item id="31185" class="4.1.1" icon="inv_crown_02" quality="3">
+<name>军团头冠</name>
+<screenshot>177337</screenshot>
+<code>
+[span class="name q3"]军团头冠[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 布甲[/th][/tr][/table]96 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 60[br /]物品等级 85
+</code>
+</item>
+<item id="31188" class="4.4.9" icon="inv_bracer_06" quality="3">
+<name>鳄鱼鳞片臂甲</name>
+<screenshot>137710</screenshot>
+<code>
+[span class="name q3"]鳄鱼鳞片臂甲[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 板甲[/th][/tr][/table]420 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 63[br /]物品等级 94
+</code>
+</item>
+<item id="31189" class="4.3.9" icon="inv_bracer_12" quality="3">
+<name>鳄鱼鳞片腕甲</name>
+<screenshot>185556</screenshot>
+<code>
+[span class="name q3"]鳄鱼鳞片腕甲[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 锁甲[/th][/tr][/table]236 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 63[br /]物品等级 94
+</code>
+</item>
+<item id="31191" class="4.2.9" icon="inv_bracer_12" quality="3">
+<name>鳄鱼皮护腕</name>
+<code>
+[span class="name q3"]鳄鱼皮护腕[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 皮甲[/th][/tr][/table]107 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 63[br /]物品等级 94
+</code>
+</item>
+<item id="31192" class="4.1.9" icon="inv_bracer_12" quality="3">
+<name>鳄鱼皮束腕</name>
+<code>
+[span class="name q3"]鳄鱼皮束腕[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 布甲[/th][/tr][/table]56 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 63[br /]物品等级 94
+</code>
+</item>
+<item id="31194" class="4.-3" icon="inv_jewelry_necklace_19" quality="3">
+<name>戈隆祝福念珠</name>
+<code>
+[span class="name q3"]戈隆祝福念珠[/span][br /]装备后绑定[br /]颈部[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 64[br /]物品等级 97
+</code>
+</item>
+<item id="31195" class="4.4.6" icon="inv_belt_13" quality="3">
+<name>空洞板甲腰带</name>
+<screenshot>116615</screenshot>
+<code>
+[span class="name q3"]空洞板甲腰带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 板甲[/th][/tr][/table]589 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 66[br /]物品等级 103
+</code>
+</item>
+<item id="31197" class="4.3.6" icon="inv_belt_32" quality="3">
+<name>空洞鳞片腰带</name>
+<code>
+[span class="name q3"]空洞鳞片腰带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 锁甲[/th][/tr][/table]330 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 66[br /]物品等级 103
+</code>
+</item>
+<item id="31198" class="4.2.6" icon="inv_belt_09" quality="3">
+<name>空洞皮甲腰带</name>
+<code>
+[span class="name q3"]空洞皮甲腰带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 皮甲[/th][/tr][/table]148 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 66[br /]物品等级 103
+</code>
+</item>
+<item id="31199" class="4.1.6" icon="inv_belt_08" quality="3">
+<name>虚纹外衣</name>
+<screenshot>44302</screenshot>
+<code>
+[span class="name q3"]虚纹外衣[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 布甲[/th][/tr][/table]79 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 66[br /]物品等级 103
+</code>
+</item>
+<item id="31201" class="4.-6" icon="inv_misc_cape_20" quality="3">
+<name>伊利达雷披风</name>
+<screenshot>37799</screenshot>
+<code>
+[span class="name q3"]伊利达雷披风[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]70 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 66[br /]物品等级 103
+</code>
+</item>
+<item id="31203" class="4.-2" icon="inv_jewelry_ring_57" quality="3">
+<name>奥法指环</name>
+<code>
+[span class="name q3"]奥法指环[/span][br /]装备后绑定[br /]手指[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 66[br /]物品等级 103
+</code>
+</item>
+<item id="31209" class="4.4.7" icon="inv_pants_plate_01" quality="3">
+<name>奇美拉鳞片腿铠</name>
+<screenshot>137701</screenshot>
+<code>
+[span class="name q3"]奇美拉鳞片腿铠[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 板甲[/th][/tr][/table]968 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31210" class="4.3.7" icon="inv_pants_mail_08" quality="3">
+<name>奇美拉鳞片护腿</name>
+<code>
+[span class="name q3"]奇美拉鳞片护腿[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 锁甲[/th][/tr][/table]542 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31211" class="4.2.7" icon="inv_pants_leather_01" quality="3">
+<name>奇美拉皮革短裤</name>
+<screenshot>85344</screenshot>
+<code>
+[span class="name q3"]奇美拉皮革短裤[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 皮甲[/th][/tr][/table]243 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31212" class="4.1.7" icon="inv_pants_cloth_06" quality="3">
+<name>奇美拉皮革护腿</name>
+<code>
+[span class="name q3"]奇美拉皮革护腿[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 布甲[/th][/tr][/table]130 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31213" class="4.4.8" icon="inv_boots_plate_04" quality="3">
+<name>深渊板甲长靴</name>
+<screenshot>182904</screenshot>
+<code>
+[span class="name q3"]深渊板甲长靴[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 板甲[/th][/tr][/table]760 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31214" class="4.3.8" icon="inv_boots_chain_08" quality="3">
+<name>深渊锁甲护胫</name>
+<screenshot>72837</screenshot>
+<code>
+[span class="name q3"]深渊锁甲护胫[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 锁甲[/th][/tr][/table]426 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31215" class="4.2.8" icon="inv_boots_cloth_02" quality="3">
+<name>深渊皮甲长靴</name>
+<screenshot>9002</screenshot>
+<code>
+[span class="name q3"]深渊皮甲长靴[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 皮甲[/th][/tr][/table]191 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31216" class="4.1.8" icon="inv_boots_cloth_05" quality="3">
+<name>深渊布质裹足</name>
+<code>
+[span class="name q3"]深渊布质裹足[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 布甲[/th][/tr][/table]102 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31217" class="4.4.1" icon="inv_misc_eye_01" quality="3">
+<name>赤红眼魔之眼</name>
+<screenshot>74005</screenshot>
+<code>
+[span class="name q3"]赤红眼魔之眼[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 板甲[/th][/tr][/table]898 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31218" class="4.3.1" icon="inv_misc_eye_01" quality="3">
+<name>烈焰眼魔之眼</name>
+<screenshot>66080</screenshot>
+<code>
+[span class="name q3"]烈焰眼魔之眼[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 锁甲[/th][/tr][/table]503 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31219" class="4.2.1" icon="inv_misc_eye_01" quality="3">
+<name>翡翠眼魔之眼</name>
+<screenshot>91332</screenshot>
+<code>
+[span class="name q3"]翡翠眼魔之眼[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 皮甲[/th][/tr][/table]226 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31220" class="4.1.1" icon="inv_misc_eye_01" quality="3">
+<name>紫晶眼魔之眼</name>
+<screenshot>23683</screenshot>
+<code>
+[span class="name q3"]紫晶眼魔之眼[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 布甲[/th][/tr][/table]120 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 68[br /]物品等级 109
+</code>
+</item>
+<item id="31221" class="4.4.9" icon="inv_bracer_14" quality="3">
+<name>伊利达雷腕甲</name>
+<screenshot>16453</screenshot>
+<code>
+[span class="name q3"]伊利达雷腕甲[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 板甲[/th][/tr][/table]458 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 66[br /]物品等级 103
+</code>
+</item>
+<item id="31223" class="4.3.9" icon="inv_bracer_17" quality="3">
+<name>伊利达雷护臂</name>
+<code>
+[span class="name q3"]伊利达雷护臂[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 锁甲[/th][/tr][/table]257 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 66[br /]物品等级 103
+</code>
+</item>
+<item id="31224" class="4.2.9" icon="inv_bracer_18" quality="3">
+<name>伊利达雷护腕</name>
+<screenshot>118508</screenshot>
+<code>
+[span class="name q3"]伊利达雷护腕[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 皮甲[/th][/tr][/table]115 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 66[br /]物品等级 103
+</code>
+</item>
+<item id="31225" class="4.1.9" icon="inv_bracer_10" quality="3">
+<name>伊利达雷束腕</name>
+<screenshot>59254</screenshot>
+<code>
+[span class="name q3"]伊利达雷束腕[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 布甲[/th][/tr][/table]61 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 66[br /]物品等级 103
+</code>
+</item>
+<item id="31227" class="4.4.6" icon="inv_belt_23" quality="3">
+<name>羽饰束带</name>
+<code>
+[span class="name q3"]羽饰束带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 板甲[/th][/tr][/table]524 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 62[br /]物品等级 91
+</code>
+</item>
+<item id="31228" class="4.3.6" icon="inv_belt_22" quality="3">
+<name>羽饰腰带</name>
+<code>
+[span class="name q3"]羽饰腰带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 锁甲[/th][/tr][/table]294 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 62[br /]物品等级 91
+</code>
+</item>
+<item id="31229" class="4.2.6" icon="inv_belt_25" quality="3">
+<name>羽饰腰环</name>
+<screenshot>35252</screenshot>
+<code>
+[span class="name q3"]羽饰腰环[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 皮甲[/th][/tr][/table]134 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 62[br /]物品等级 91
+</code>
+</item>
+<item id="31231" class="4.1.6" icon="inv_belt_23" quality="3">
+<name>羽饰腰布</name>
+<code>
+[span class="name q3"]羽饰腰布[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 布甲[/th][/tr][/table]70 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 62[br /]物品等级 91
+</code>
+</item>
+<item id="31232" class="4.4.8" icon="inv_boots_plate_06" quality="3">
+<name>冷酷马靴</name>
+<screenshot>46743</screenshot>
+<code>
+[span class="name q3"]冷酷马靴[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 板甲[/th][/tr][/table]641 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 62[br /]物品等级 91
+</code>
+</item>
+<item id="31233" class="4.3.8" icon="inv_boots_chain_05" quality="3">
+<name>冷酷胫甲</name>
+<code>
+[span class="name q3"]冷酷胫甲[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 锁甲[/th][/tr][/table]360 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 62[br /]物品等级 91
+</code>
+</item>
+<item id="31235" class="4.2.8" icon="inv_boots_05" quality="3">
+<name>冷酷软靴</name>
+<screenshot>177858</screenshot>
+<code>
+[span class="name q3"]冷酷软靴[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 皮甲[/th][/tr][/table]163 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 62[br /]物品等级 91
+</code>
+</item>
+<item id="31236" class="4.1.8" icon="inv_boots_cloth_14" quality="3">
+<name>冷酷便鞋</name>
+<code>
+[span class="name q3"]冷酷便鞋[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 布甲[/th][/tr][/table]86 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 62[br /]物品等级 91
+</code>
+</item>
+<item id="31238" class="4.-2" icon="inv_jewelry_ring_66" quality="3">
+<name>龙骨指环</name>
+<code>
+[span class="name q3"]龙骨指环[/span][br /]装备后绑定[br /]装备唯一[br /]手指[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 63[br /]物品等级 94
+</code>
+</item>
+<item id="31242" class="4.4.7" icon="inv_pants_plate_13" quality="3">
+<name>纳迦鳞片腿铠</name>
+<screenshot>184995</screenshot>
+<code>
+[span class="name q3"]纳迦鳞片腿铠[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 板甲[/th][/tr][/table]790 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 61[br /]物品等级 88
+</code>
+</item>
+<item id="31243" class="4.3.7" icon="inv_pants_mail_12" quality="3">
+<name>纳迦鳞片腿甲</name>
+<screenshot>14361</screenshot>
+<code>
+[span class="name q3"]纳迦鳞片腿甲[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 锁甲[/th][/tr][/table]444 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 61[br /]物品等级 88
+</code>
+</item>
+<item id="31244" class="4.2.7" icon="inv_pants_leather_16" quality="3">
+<name>纳迦皮质短裤</name>
+<screenshot>84780</screenshot>
+<code>
+[span class="name q3"]纳迦皮质短裤[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 皮甲[/th][/tr][/table]203 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 61[br /]物品等级 88
+</code>
+</item>
+<item id="31246" class="4.1.7" icon="inv_pants_cloth_10" quality="3">
+<name>纳迦皮质护腿</name>
+<screenshot>84683</screenshot>
+<code>
+[span class="name q3"]纳迦皮质护腿[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 布甲[/th][/tr][/table]106 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 61[br /]物品等级 88
+</code>
+</item>
+<item id="31247" class="4.4.3" icon="inv_shoulder_18" quality="3">
+<name>泥沼肩铠</name>
+<screenshot>21489</screenshot>
+<code>
+[span class="name q3"]泥沼肩铠[/span][br /]装备后绑定[table][tr][td]肩部[/td][th] 板甲[/th][/tr][/table]677 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 61[br /]物品等级 88
+</code>
+</item>
+<item id="31248" class="4.3.3" icon="inv_shoulder_22" quality="3">
+<name>泥沼肩甲</name>
+<screenshot>137700</screenshot>
+<code>
+[span class="name q3"]泥沼肩甲[/span][br /]装备后绑定[table][tr][td]肩部[/td][th] 锁甲[/th][/tr][/table]380 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 61[br /]物品等级 88
+</code>
+</item>
+<item id="31249" class="4.2.3" icon="inv_shoulder_05" quality="3">
+<name>泥沼护肩</name>
+<screenshot>88842</screenshot>
+<code>
+[span class="name q3"]泥沼护肩[/span][br /]装备后绑定[table][tr][td]肩部[/td][th] 皮甲[/th][/tr][/table]174 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 61[br /]物品等级 88
+</code>
+</item>
+<item id="31250" class="4.1.3" icon="inv_shoulder_04" quality="3">
+<name>泥沼衬肩</name>
+<screenshot>185347</screenshot>
+<code>
+[span class="name q3"]泥沼衬肩[/span][br /]装备后绑定[table][tr][td]肩部[/td][th] 布甲[/th][/tr][/table]91 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 61[br /]物品等级 88
+</code>
+</item>
+<item id="31254" class="4.-6" icon="inv_misc_cape_09" quality="3">
+<name>阔步者披风</name>
+<screenshot>30618</screenshot>
+<code>
+[span class="name q3"]阔步者披风[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]66 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 64[br /]物品等级 97
+</code>
+</item>
+<item id="31256" class="4.3.5" icon="inv_chest_chain_07" quality="2">
+<name>银月护甲</name>
+<screenshot>22655</screenshot>
+<code>
+[span class="name q2"]银月护甲[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 锁甲[/th][/tr][/table]162 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 13[br /]物品等级 18
+</code>
+</item>
+<item id="31263" class="4.2.5" icon="inv_chest_leather_08" quality="2">
+<name>银月外套</name>
+<screenshot>86981</screenshot>
+<code>
+[span class="name q2"]银月外套[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 皮甲[/th][/tr][/table]74 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 13[br /]物品等级 18
+</code>
+</item>
+<item id="31264" class="4.1.5" icon="inv_chest_cloth_25" quality="2">
+<name>银月长袍</name>
+<screenshot>76277</screenshot>
+<code>
+[span class="name q2"]银月长袍[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 布甲[/th][/tr][/table]32 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 13[br /]物品等级 18
+</code>
+</item>
+<item id="31268" class="2.0" icon="inv_axe_23" quality="2">
+<name>憎恶之斧</name>
+<screenshot>73792</screenshot>
+<code>
+[span class="name q2"]憎恶之斧[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 斧[/th][/tr][tr][td]13 - 18 伤害[/td][th] 速度 1.70[/th][/tr][/table]（每秒伤害9.1）[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 13[br /]物品等级 18
+</code>
+</item>
+<item id="31269" class="2.4" icon="inv_hammer_17" quality="2">
+<name>食尸鬼之锤</name>
+<screenshot>77383</screenshot>
+<code>
+[span class="name q2"]食尸鬼之锤[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 锤[/th][/tr][tr][td]15 - 29 伤害[/td][th] 速度 2.40[/th][/tr][/table]（每秒伤害9.2）[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 13[br /]物品等级 18
+</code>
+</item>
+<item id="31270" class="2.19" icon="inv_wand_12" quality="2">
+<name>女妖魔棒</name>
+<code>
+[span class="name q2"]女妖魔棒[/span][br /]装备后绑定[table][tr][td]远程[/td][th] 魔杖[/th][/tr][tr][td]13 - 25 伤害[/td][th] 速度 1.40[/th][/tr][/table]（每秒伤害13.6）[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 13[br /]物品等级 18
+</code>
+</item>
+<item id="38513" class="4.2.7" icon="inv_pants_12" quality="2">
+<name>野猪皮护腿</name>
+<screenshot>108735</screenshot>
+<code>
+[span class="name q2"]野猪皮护腿[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 皮甲[/th][/tr][/table]57 护甲[br /]+2 敏捷[br /]需要等级 8[br /]物品等级 13[br /][span class="q2"]装备: 攻击强度提高4点。[/span]
+</code>
+</item>
+
+<item id="44168" class="15.-7" icon="ability_mount_drake_proto" quality="4">
+<name>迷失始祖幼龙的缰绳</name>
+<screenshot>124576</screenshot>
+<code>
+[span class="name q4"]迷失始祖幼龙的缰绳[/span][br /]拾取后绑定[br /]唯一[br /]需要等级 80[br /]物品等级 70[br /]需要骑术 (300)[br /][span class="q2"]使用: 教你学会召唤这种坐骑。只能在外域或诺森德进行召唤。这是一种速度非常快的坐骑。[/span]
+</code>
+</item>
+<item id="44649" class="4.4.10" icon="inv_gauntlets_29" quality="3">
+<name>水晶树皮的趾甲</name>
+<code>
+[span class="name q3"]水晶树皮的趾甲[/span][br /]装备后绑定[table][tr][td]手[/td][th] 板甲[/th][/tr][/table]1126 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 70[br /]物品等级 159
+</code>
+</item>
+<item id="44663" class="15.0" icon="inv_misc_bag_15" quality="1">
+<name>被遗弃的冒险者背包</name>
+<code>
+[span class="name q1"]被遗弃的冒险者背包[/span]
+</code>
+</item>
+<item id="44666" class="4.2.5" icon="inv_chest_leather_01" quality="3">
+<name>方卜拉布的座垫</name>
+<screenshot>169410</screenshot>
+<code>
+[span class="name q3"]方卜拉布的座垫[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 皮甲[/th][/tr][/table]453 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 70[br /]物品等级 159
+</code>
+</item>
+<item id="44667" class="4.1.1" icon="inv_helmet_125" quality="3">
+<name>猛犸毛发之冠</name>
+<screenshot>130548</screenshot>
+<code>
+[span class="name q3"]猛犸毛发之冠[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 布甲[/th][/tr][/table]196 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 70[br /]物品等级 159
+</code>
+</item>
+<item id="44668" class="4.1.5" icon="inv_chest_cloth_28" quality="3">
+<name>孵卵毛毯</name>
+<screenshot>105395</screenshot>
+<code>
+[span class="name q3"]孵卵毛毯[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 布甲[/th][/tr][/table]241 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 70[br /]物品等级 159
+</code>
+</item>
+<item id="44669" class="4.3.9" icon="inv_bracer_28" quality="3">
+<name>狼人伤痕镣铐</name>
+<screenshot>185551</screenshot>
+<code>
+[span class="name q3"]狼人伤痕镣铐[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 锁甲[/th][/tr][/table]441 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 70[br /]物品等级 159
+</code>
+</item>
+<item id="44670" class="4.4.6" icon="inv_belt_36" quality="3">
+<name>灵魂封印腰带</name>
+<screenshot>116606</screenshot>
+<code>
+[span class="name q3"]灵魂封印腰带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 板甲[/th][/tr][/table]1013 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 70[br /]物品等级 159
+</code>
+</item>
+<item id="44671" class="4.3.7" icon="inv_pants_mail_07" quality="3">
+<name>血色领主的钉皮护腿</name>
+<code>
+[span class="name q3"]血色领主的钉皮护腿[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 锁甲[/th][/tr][/table]929 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 72[br /]物品等级 167
+</code>
+</item>
+<item id="44672" class="4.2.3" icon="inv_shoulder_75" quality="3">
+<name>海豹皮肩甲</name>
+<screenshot>139206</screenshot>
+<code>
+[span class="name q3"]海豹皮肩甲[/span][br /]装备后绑定[table][tr][td]肩部[/td][th] 皮甲[/th][/tr][/table]358 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 72[br /]物品等级 167
+</code>
+</item>
+<item id="44673" class="4.1.8" icon="inv_boots_cloth_11" quality="3">
+<name>猛犸骑乘之靴</name>
+<code>
+[span class="name q3"]猛犸骑乘之靴[/span][br /]装备后绑定[table][tr][td]脚[/td][th] 布甲[/th][/tr][/table]175 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 72[br /]物品等级 167
+</code>
+</item>
+<item id="44674" class="4.1.9" icon="inv_bracer_12" quality="3">
+<name>腐液裹腕</name>
+<screenshot>158546</screenshot>
+<code>
+[span class="name q3"]腐液裹腕[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 布甲[/th][/tr][/table]111 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 72[br /]物品等级 167
+</code>
+</item>
+<item id="44675" class="4.3.10" icon="inv_gauntlets_11" quality="3">
+<name>岩石巨人的尖指手套</name>
+<code>
+[span class="name q3"]岩石巨人的尖指手套[/span][br /]装备后绑定[table][tr][td]手[/td][th] 锁甲[/th][/tr][/table]664 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 72[br /]物品等级 167
+</code>
+</item>
+<item id="44676" class="4.2.7" icon="inv_pants_leather_12" quality="3">
+<name>希蕾娜的护腿</name>
+<screenshot>129059</screenshot>
+<code>
+[span class="name q3"]希蕾娜的护腿[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 皮甲[/th][/tr][/table]418 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 72[br /]物品等级 167
+</code>
+</item>
+<item id="44677" class="4.4.7" icon="inv_pants_plate_16" quality="3">
+<name>永恒观察者腿铠</name>
+<screenshot>182063</screenshot>
+<code>
+[span class="name q3"]永恒观察者腿铠[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 板甲[/th][/tr][/table]1735 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 74[br /]物品等级 174[br /][span class="q2"]装备: 使你的精准等级提高30。 [/span]
+</code>
+</item>
+<item id="44681" class="4.-2" icon="inv_misc_gear_01" quality="3">
+<name>泰坦神铁齿轮</name>
+<code>
+[span class="name q3"]泰坦神铁齿轮[/span][br /]装备后绑定[br /]装备唯一[br /]手指[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 76[br /]物品等级 183
+</code>
+</item>
+<item id="44682" class="4.-3" icon="inv_jewelry_necklace_30" quality="3">
+<name>时光流动护符</name>
+<code>
+[span class="name q3"]时光流动护符[/span][br /]装备后绑定[br /]颈部[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 76[br /]物品等级 183[br /]10次
+</code>
+</item>
+<item id="44683" class="4.-2" icon="inv_jewelry_ring_ahnqiraj_02" quality="3">
+<name>暴龙王的眼圈</name>
+<code>
+[span class="name q3"]暴龙王的眼圈[/span][br /]装备后绑定[br /]装备唯一[br /]手指[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 74[br /]物品等级 175
+</code>
+</item>
+<item id="44685" class="4.3.3" icon="inv_shoulder_77" quality="3">
+<name>石化蛛网护肩</name>
+<code>
+[span class="name q3"]石化蛛网护肩[/span][br /]装备后绑定[table][tr][td]肩部[/td][th] 锁甲[/th][/tr][/table]837 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 74[br /]物品等级 175
+</code>
+</item>
+<item id="44686" class="4.2.10" icon="inv_gauntlets_05" quality="3">
+<name>永恒恐惧裹手</name>
+<screenshot>169408</screenshot>
+<code>
+[span class="name q3"]永恒恐惧裹手[/span][br /]装备后绑定[table][tr][td]手[/td][th] 皮甲[/th][/tr][/table]314 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 74[br /]物品等级 175
+</code>
+</item>
+<item id="44687" class="4.-6" icon="inv_misc_cape_21" quality="3">
+<name>洛卡纳哈之皮</name>
+<screenshot>113520</screenshot>
+<code>
+[span class="name q3"]洛卡纳哈之皮[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]134 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 74[br /]物品等级 175
+</code>
+</item>
+<item id="44688" class="4.-3" icon="inv_jewelry_necklace_34" quality="3">
+<name>洛卡纳哈之牙</name>
+<code>
+[span class="name q3"]洛卡纳哈之牙[/span][br /]装备后绑定[br /]颈部[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 74[br /]物品等级 175
+</code>
+</item>
+<item id="44691" class="4.4.9" icon="inv_bracer_14" quality="3">
+<name>奥图纳的项圈</name>
+<code>
+[span class="name q3"]奥图纳的项圈[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 板甲[/th][/tr][/table]873 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 74[br /]物品等级 175
+</code>
+</item>
+<item id="44695" class="4.4.1" icon="inv_helmet_105" quality="3">
+<name>侵蚀面甲</name>
+<screenshot>144236</screenshot>
+<code>
+[span class="name q3"]侵蚀面甲[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 板甲[/th][/tr][/table]1681 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 76[br /]物品等级 183
+</code>
+</item>
+<item id="44696" class="4.2.9" icon="inv_bracer_15" quality="3">
+<name>巨人的裹趾</name>
+<screenshot>137705</screenshot>
+<code>
+[span class="name q3"]巨人的裹趾[/span][br /]装备后绑定[table][tr][td]手腕[/td][th] 皮甲[/th][/tr][/table]228 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 76[br /]物品等级 183
+</code>
+</item>
+<item id="44697" class="4.3.5" icon="inv_chest_chain_09" quality="3">
+<name>瓦格雷外套</name>
+<screenshot>110098</screenshot>
+<code>
+[span class="name q3"]瓦格雷外套[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 锁甲[/th][/tr][/table]1158 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 76[br /]物品等级 183
+</code>
+</item>
+<item id="44708" class="2.5" icon="inv_gizmo_02" quality="3">
+<name>迪尔奇的机械臂</name>
+<screenshot>123454</screenshot>
+<code>
+[span class="name q3"]迪尔奇的机械臂[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 锤[/th][/tr][tr][td]412 - 618 伤害[/td][th] 速度 3.30[/th][/tr][/table]（每秒伤害156.1）[br /][span class='orangename'](1417 野性攻击强度)[/span][br /]+99 耐力[br /]需要等级 80[br /]物品等级 187[br /][span class="q2"]装备: 爆击等级提高44。 [/span][br /][span class="q2"]装备: 攻击强度提高114点。[/span][br /][span class="q2"]装备: 使你的护甲穿透等级提高59。 [/span]
+</code>
+</item>
+<item id="44732" class="4.2.1" icon="inv_helmet_86" quality="3">
+<name>碧蓝龙皮头盔</name>
+<screenshot>129605</screenshot>
+<code>
+[span class="name q3"]碧蓝龙皮头盔[/span][br /]装备后绑定[table][tr][td]头部[/td][th] 皮甲[/th][/tr][/table]423 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 78[br /]物品等级 183
+</code>
+</item>
+<item id="45052" class="4.2.7" icon="inv_pants_12" quality="2">
+<name>粗鳞护腿</name>
+<screenshot>166805</screenshot>
+<code>
+[span class="name q2"]粗鳞护腿[/span][br /]装备后绑定[table][tr][td]腿部[/td][th] 皮甲[/th][/tr][/table]126 护甲[br /]+16 敏捷[br /]需要等级 48[br /]物品等级 55[br /][span class="q2"]装备: 攻击强度提高32点。[/span]
+</code>
+</item>
+<item id="46324" class="4.-2" icon="inv_jewelry_ring_62" quality="3">
+<name>古德利亚的幽灵爪</name>
+<code>
+[span class="name q3"]古德利亚的幽灵爪[/span][br /]装备后绑定[br /]装备唯一[br /]手指[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 77[br /]物品等级 175
+</code>
+</item>
+<item id="48112" class="15.2" icon="ability_hunter_pet_raptor" quality="1">
+<name>小达尔特</name>
+<screenshot>138644</screenshot>
+<code>
+[span class="name q1"]小达尔特[/span][br /][span class="q2"]使用: 教你学会召唤这种小伙伴。[/span]
+</code>
+</item>
+<item id="48118" class="15.2" icon="ability_mount_raptor" quality="1">
+<name>小塔克</name>
+<screenshot>144941</screenshot>
+<code>
+[span class="name q1"]小塔克[/span][br /][span class="q2"]使用: 教你学会召唤这种小伙伴。[/span]
+</code>
+</item>
+<item id="48122" class="15.2" icon="ability_mount_raptor" quality="1">
+<name>暴掠幼龙</name>
+<screenshot>143835</screenshot>
+<code>
+[span class="name q1"]暴掠幼龙[/span][br /][span class="q2"]使用: 教你学会召唤这种小伙伴。[/span]
+</code>
+</item>
+<item id="48124" class="15.2" icon="ability_hunter_pet_raptor" quality="1">
+<name>刺喉幼龙</name>
+<screenshot>138646</screenshot>
+<code>
+[span class="name q1"]刺喉幼龙[/span][br /][span class="q2"]使用: 教你学会召唤这种小伙伴。[/span]
+</code>
+</item>
+<item id="49227" class="2.15" icon="inv_weapon_shortblade_70" quality="3">
+<name>逐日之牙</name>
+<screenshot>163177</screenshot>
+<code>
+[span class="name q3"]逐日之牙[/span][br /]装备后绑定[table][tr][td]主手[/td][th] 匕首[/th][/tr][tr][td]55.64 - 178.64 伤害[/td][th] 速度 1.70[/th][/tr][/table]（每秒伤害68.9）[br /][span class='orangename'](197 野性攻击强度)[/span][br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 78[br /]物品等级 187[br /][span class="q2"]装备: 法术强度提高315点。[/span]
+</code>
+</item>
+<item id="51958" class="4.2.5" icon="inv_chest_fur" quality="3">
+<name>原始星光熊皮</name>
+<screenshot>181267</screenshot>
+<code>
+[span class="name q3"]原始星光熊皮[/span][br /]装备后绑定[table][tr][td]胸部[/td][th] 皮甲[/th][/tr][/table]477 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 72[br /]物品等级 167
+</code>
+</item>
+
+<item id="1307" class="12.0" icon="inv_scroll_03" quality="1">
+<name>采金日程表</name>
+<code>
+[span class="name q1"]采金日程表[/span][br/]拾取后绑定[br/]唯一[br/]该物品将触发一个任务[br/]需要等级 7[br /]物品等级 7
+</code>
+</item>
+<item id="10621" class="0.0" icon="inv_scroll_03" quality="1">
+<name>符文卷轴</name>
+<code>
+[span class="name q1"]符文卷轴[/span][br/]拾取后绑定[br/]唯一[br/]该物品将触发一个任务[br/]需要等级 15[br /]物品等级 15
+</code>
+</item>
+<item id="5138" class="12.0" icon="inv_misc_monsterspidercarapace_01" quality="1">
+<name>收割者的头颅</name>
+<code>
+[span class="name q1"]收割者的头颅[/span][br/]拾取后绑定[br/]唯一[br/]该物品将触发一个任务[br/]需要等级 10[br /]物品等级 10
+</code>
+</item>
+
+
+
+<item id="10801" class="4.2.8" icon="inv_boots_07" quality="3">
+<name>滑鳞长靴</name>
+<screenshot>63681</screenshot>
+<code>
+[span class="name q3"]滑鳞长靴[/span][br /]拾取后绑定[table][tr][td]脚[/td][th] 皮甲[/th][/tr][/table]104 护甲[br /]+12 耐力[br /]+5 精神[br /]需要等级 47[br /]物品等级 52[br /][span class="q2"]装备: 每5秒恢复8点法力值。[/span]
+</code>
+</item>
+<item id="10802" class="4.-6" icon="inv_misc_cape_02" quality="3">
+<name>翼膜披风</name>
+<screenshot>66653</screenshot>
+<code>
+[span class="name q3"]翼膜披风[/span][br /]拾取后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]37 护甲[br /]+12 精神[br /]需要等级 47[br /]物品等级 52[br /][span class="q2"]装备: 法术强度提高12点。[/span]
+</code>
+</item>
+<item id="13409" class="4.1.9" icon="inv_bracer_13" quality="3">
+<name>泪泉护腕</name>
+<screenshot>47181</screenshot>
+<code>
+[span class="name q3"]泪泉护腕[/span][br /]拾取后绑定[table][tr][td]手腕[/td][th] 布甲[/th][/tr][/table]35 护甲[br /][span class="q2"]&amp;lt;随机附魔&amp;gt;[/span][br /]需要等级 52[br /]物品等级 57
+</code>
+</item>
+<item id="13408" class="2.0" icon="inv_weapon_halberd_05" quality="3">
+<name>破灵者</name>
+<screenshot>177538</screenshot>
+<code>
+[span class="name q3"]破灵者[/span][br /]拾取后绑定[table][tr][td]单手[/td][th] 斧[/th][/tr][tr][td]42 - 78 伤害[/td][th] 速度 1.60[/th][/tr][/table]（每秒伤害37.5）[br /]需要等级 52[br /]物品等级 57[br /][span class="q2"]击中时可能： [span class="q2"]令目标每3秒损失12点生命值和法力值，持续30秒。[/span]
+</code>
+</item>
+<item id="13405" class="4.4.3" icon="inv_shoulder_25" quality="3">
+<name>哀嚎肩甲</name>
+<screenshot>10483</screenshot>
+<code>
+[span class="name q3"]哀嚎肩甲[/span][br /]拾取后绑定[table][tr][td]肩部[/td][th] 板甲[/th][/tr][/table]448 护甲[br /]+14 耐力[br /]+14 力量[br /]+10 暗影抗性[br /]需要等级 52[br /]物品等级 57[br /][span class="q2"]装备: 防御等级提高5。[/span]
+</code>
+</item>
+<item id="16717" class="4.2.10" icon="inv_gauntlets_17" quality="3">
+<name>野性之心手套</name>
+<screenshot>21288</screenshot>
+<code>
+[span class="name q3"]野性之心手套[/span][br /]装备后绑定[table][tr][td]手[/td][th] 皮甲[/th][/tr][/table]105 护甲[br /]+21 精神[br /]+9 智力[br /]需要等级 54[br /]物品等级 59[br /][br /][span class="q"]野性之心 (0/8)[/span][br /]- 野性之心腰带[br /]- 野性之心长靴[br /]- 野性之心护腕[br /]- 野性之心兜帽[br /]- 野性之心外衣[br /]- 野性之心肩甲[br /]- 野性之心褶裙[br /]- 野性之心手套[br /][br /](2) 套装: [span class="q2"]+200 护甲。[/span][br /](4) 套装: [span class="q2"]攻击强度提高26点。[/span][br /](4) 套装: [span class="q2"]法术强度提高15点。[/span][br /](6) 套装: [span class="q2"]在战斗中被击中之后有一定几率回复300点法力值或10点怒气值，或40点能量值。[/span][br /](8) 套装: [span class="q2"]+8 所有抗性。[/span][br /]
+</code>
+</item>
+<item id="13404" class="4.2.1" icon="inv_misc_bandana_01" quality="3">
+<name>不可宽恕者的面具</name>
+<screenshot>74605</screenshot>
+<code>
+[span class="name q3"]不可宽恕者的面具[/span][br /]拾取后绑定[table][tr][td]头部[/td][th] 皮甲[/th][/tr][/table]132 护甲[br /]+12 耐力[br /]需要等级 52[br /]物品等级 57[br /][span class="q2"]装备: 命中等级提高20。 [/span][br /][span class="q2"]装备: 爆击等级提高14。 [/span]
+</code>
+</item>
+<item id="13391" class="4.1.8" icon="inv_boots_02" quality="3">
+<name>邮差的布靴</name>
+<screenshot>67665</screenshot>
+<code>
+[span class="name q3"]邮差的布靴[/span][br /]拾取后绑定[table][tr][td]脚[/td][th] 布甲[/th][/tr][/table]60 护甲[br /]+15 智力[br /]+6 精神[br /]+14 耐力[br /]需要等级 56[br /]物品等级 61[br /][span class="q2"]装备: 法术强度提高7点。[/span][br /][br /][span class="q"]邮差 (0/5)[/span][br /]- 邮差头环[br /]- 邮差外套[br /]- 邮差的布靴[br /]- 邮差徽记[br /]- 邮差长裤[br /][br /](2) 套装: [span class="q2"]+50 护甲值。[/span][br /](3) 套装: [span class="q2"]+10 火焰抗性。[/span][br /](3) 套装: [span class="q2"]+10 奥术抗性。[/span][br /](4) 套装: [span class="q2"]法术强度提高12点。[/span][br /](5) 套装: [span class="q2"]使你的奔跑速度提高5%。[/span][br /](5) 套装: [span class="q2"]+10 智力。[/span][br /]
+</code>
+</item>
+<item id="13393" class="2.5" icon="inv_mace_01" quality="3">
+<name>马龙之肘</name>
+<screenshot>82513</screenshot>
+<code>
+[span class="name q3"]马龙之肘[/span][br /]拾取后绑定[table][tr][td]双手[/td][th] 锤[/th][/tr][tr][td]158 - 238 伤害[/td][th] 速度 3.80[/th][/tr][/table]（每秒伤害52.1）[br /]需要等级 56[br /]物品等级 61[br /][span class="q2"]击中时可能： [span class="q2"]将目标打傻2秒，力量提高50点，持续30秒。[/span]
+</code>
+</item>
+<item id="13392" class="4.-2" icon="inv_jewelry_ring_23" quality="3">
+<name>邮差徽记</name>
+<code>
+[span class="name q3"]邮差徽记[/span][br /]拾取后绑定[br /]装备唯一[br /]手指[br /]+17 精神[br /]+6 耐力[br /]+3 智力[br /]需要等级 56[br /]物品等级 61[br /][br /][span class="q"]邮差 (0/5)[/span][br /]- 邮差头环[br /]- 邮差外套[br /]- 邮差的布靴[br /]- 邮差徽记[br /]- 邮差长裤[br /][br /](2) 套装: [span class="q2"]+50 护甲值。[/span][br /](3) 套装: [span class="q2"]+10 火焰抗性。[/span][br /](3) 套装: [span class="q2"]+10 奥术抗性。[/span][br /](4) 套装: [span class="q2"]法术强度提高12点。[/span][br /](5) 套装: [span class="q2"]使你的奔跑速度提高5%。[/span][br /](5) 套装: [span class="q2"]+10 智力。[/span][br /]
+</code>
+</item>
+<item id="13388" class="4.1.5" icon="inv_chest_leather_10" quality="3">
+<name>邮差外套</name>
+<screenshot>84416</screenshot>
+<code>
+[span class="name q3"]邮差外套[/span][br /]拾取后绑定[table][tr][td]胸部[/td][th] 布甲[/th][/tr][/table]87 护甲[br /]+10 精神[br /]+13 耐力[br /]+20 智力[br /]需要等级 56[br /]物品等级 61[br /][span class="q2"]装备: 法术强度提高15点。[/span][br /][br /][span class="q"]邮差 (0/5)[/span][br /]- 邮差头环[br /]- 邮差外套[br /]- 邮差的布靴[br /]- 邮差徽记[br /]- 邮差长裤[br /][br /](2) 套装: [span class="q2"]+50 护甲值。[/span][br /](3) 套装: [span class="q2"]+10 火焰抗性。[/span][br /](3) 套装: [span class="q2"]+10 奥术抗性。[/span][br /](4) 套装: [span class="q2"]法术强度提高12点。[/span][br /](5) 套装: [span class="q2"]使你的奔跑速度提高5%。[/span][br /](5) 套装: [span class="q2"]+10 智力。[/span][br /]
+</code>
+</item>
+<item id="13389" class="4.1.7" icon="inv_pants_06" quality="3">
+<name>邮差长裤</name>
+<screenshot>102932</screenshot>
+<code>
+[span class="name q3"]邮差长裤[/span][br /]拾取后绑定[table][tr][td]腿部[/td][th] 布甲[/th][/tr][/table]76 护甲[br /]+12 耐力[br /]+20 精神[br /]+20 智力[br /]需要等级 56[br /]物品等级 61[br /][br /][span class="q"]邮差 (0/5)[/span][br /]- 邮差头环[br /]- 邮差外套[br /]- 邮差的布靴[br /]- 邮差徽记[br /]- 邮差长裤[br /][br /](2) 套装: [span class="q2"]+50 护甲值。[/span][br /](3) 套装: [span class="q2"]+10 火焰抗性。[/span][br /](3) 套装: [span class="q2"]+10 奥术抗性。[/span][br /](4) 套装: [span class="q2"]法术强度提高12点。[/span][br /](5) 套装: [span class="q2"]使你的奔跑速度提高5%。[/span][br /](5) 套装: [span class="q2"]+10 智力。[/span][br /]
+</code>
+</item>
+<item id="13390" class="4.1.1" icon="inv_misc_bandage_15" quality="3">
+<name>邮差头环</name>
+<screenshot>154768</screenshot>
+<code>
+[span class="name q3"]邮差头环[/span][br /]拾取后绑定[table][tr][td]头部[/td][th] 布甲[/th][/tr][/table]70 护甲[br /]+25 智力[br /]+10 耐力[br /]+10 精神[br /]需要等级 56[br /]物品等级 61[br /][span class="q2"]装备: 法术强度提高14点。[/span][br /][br /][span class="q"]邮差 (0/5)[/span][br /]- 邮差头环[br /]- 邮差外套[br /]- 邮差的布靴[br /]- 邮差徽记[br /]- 邮差长裤[br /][br /](2) 套装: [span class="q2"]+50 护甲值。[/span][br /](3) 套装: [span class="q2"]+10 火焰抗性。[/span][br /](3) 套装: [span class="q2"]+10 奥术抗性。[/span][br /](4) 套装: [span class="q2"]法术强度提高12点。[/span][br /](5) 套装: [span class="q2"]使你的奔跑速度提高5%。[/span][br /](5) 套装: [span class="q2"]+10 智力。[/span][br /]
+</code>
+</item>
+
+<item id="1680" class="2.1" icon="inv_axe_17" quality="2">
+<name>剁头斧</name>
+<screenshot>83333</screenshot>
+<code>
+[span class="name q2"]剁头斧[/span][br /]装备后绑定[table][tr][td]双手[/td][th] 斧[/th][/tr][tr][td]78 - 117 伤害[/td][th] 速度 2.90[/th][/tr][/table]（每秒伤害33.6）[br /]+9 力量[br /]需要等级 39[br /]物品等级 44[br /][span class="q2"]装备: 使你的爆击等级提高14。[/span]
+</code>
+</item>
+<item id="18674" class="4.-2" icon="inv_jewelry_ring_14" quality="2">
+<name>硬石指环</name>
+<code>
+[span class="name q2"]硬石指环[/span][br /]装备后绑定[br /]手指[br /]+8 力量[br /]+8 耐力[br /]需要等级 54[br /]物品等级 59[br /][span class="q2"]装备: 防御等级提高5。[/span]
+</code>
+</item>
+<item id="18673" class="4.6" icon="inv_shield_03" quality="3">
+<name>阿瓦兰奇奥的石皮</name>
+<screenshot>1513</screenshot>
+<code>
+[span class="name q3"]阿瓦兰奇奥的石皮[/span][br /]装备后绑定[table][tr][td]副手[/td][th] 盾牌[/th][/tr][/table]2026 护甲[br /]37 格挡[br /]+16 耐力[br /]需要等级 54[br /]物品等级 59[br /][span class="q2"]装备: 使你的盾牌格挡值提高20点。[/span]
+</code>
+</item>
+<item id="18672" class="4.-5" icon="inv_misc_orb_05" quality="2">
+<name>元素灰烬</name>
+<screenshot>153736</screenshot>
+<code>
+[span class="name q2"]元素灰烬[/span][br /]装备后绑定[br /]副手物品[br /]+10 耐力[br /]需要等级 54[br /]物品等级 59[br /][span class="q2"]装备: 法术强度提高11点。[/span]
+</code>
+</item>
+<item id="18671" class="2.4" icon="inv_mace_08" quality="3">
+<name>火焰男爵查尔的节杖</name>
+<screenshot>83476</screenshot>
+<code>
+[span class="name q3"]火焰男爵查尔的节杖[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 锤[/th][/tr][tr][td]70 - 132 伤害[/td][th] 速度 2.60[/th][/tr][/table]（每秒伤害38.8）[br /]+5 力量[br /]需要等级 54[br /]物品等级 59[br /][span class="q2"]击中时可能： [span class="q2"]冲击目标，对其造成35点火焰伤害。[/span]
+</code>
+</item>
+<item id="21548" class="9.1" icon="inv_scroll_03" quality="3">
+<name>图样：雷暴手套</name>
+<code>
+[span class="name q3"]图样：雷暴手套[/span][br /]需要制皮 (300)[br /][span]使用: 教你学会制作雷暴手套。[/span][br /][br /][span class="name q3"]雷暴手套[/span][br /]装备后绑定[table][tr][td]手[/td][th] 皮甲[/th][/tr][/table]99 护甲[br /]需要等级 50[br /]物品等级 62[br /][span class="q2"]装备: 爆击等级提高19。 [/span][br /][span class="q2"]装备: 命中等级提高10。 [/span][br /][br /][span class="q"]雷暴 (0/4)[/span][br /][span class="q0"]- 雷暴护甲[br /]- 雷暴短裤[br /]- 雷暴护肩[br /]- 雷暴手套[br /][br /](2) 套装: 有5%的几率在成功击中目标时对其造成15至25点自然伤害。[br /](3) 套装: 有2%的几率在进行近战攻击时回复30点能量值。[br /](4) 套装: 攻击强度提高14点。[/span][br /]
+</code>
+</item>
+<item id="18679" class="4.-2" icon="inv_jewelry_ring_29" quality="2">
+<name>寒冷戒指</name>
+<code>
+[span class="name q2"]寒冷戒指[/span][br /]装备后绑定[br /]手指[br /]+10 智力[br /]需要等级 56[br /]物品等级 61[br /][span class="q2"]装备: 法术强度提高12点。[/span]
+</code>
+</item>
+<item id="18678" class="4.-3" icon="inv_jewelry_necklace_03" quality="3">
+<name>泰比斯蒂亚的寒冰项链</name>
+<code>
+[span class="name q3"]泰比斯蒂亚的寒冰项链[/span][br /]装备后绑定[br /]颈部[br /]+8 耐力[br /]+5 智力[br /]+15 冰霜抗性[br /]需要等级 56[br /]物品等级 61
+</code>
+</item>
+<item id="5319" class="4.2.3" icon="inv_shoulder_07" quality="1">
+<name>重击肩铠</name>
+<screenshot>29765</screenshot>
+<code>
+[span class="name q1"]重击肩铠[/span][table][tr][td]肩部[/td][th] 皮甲[/th][/tr][/table]55 护甲[br /]需要等级 15[br /]物品等级 20
+</code>
+</item>
+<item id="4949" class="2.0" icon="inv_axe_20" quality="2">
+<name>兽人之斧</name>
+<screenshot>56788</screenshot>
+<code>
+[span class="name q2"]兽人之斧[/span][br /]装备后绑定[table][tr][td]单手[/td][th] 斧[/th][/tr][tr][td]13 - 25 伤害[/td][th] 速度 1.80[/th][/tr][/table]（每秒伤害10.6）[br /]+1 力量[br /]需要等级 16[br /]物品等级 21
+</code>
+</item>
+<item id="18677" class="4.-6" icon="inv_misc_cape_13" quality="2">
+<name>微风斗篷</name>
+<screenshot>61451</screenshot>
+<code>
+[span class="name q2"]微风斗篷[/span][br /]装备后绑定[table][tr][td]背部[/td][th] 布甲[/th][/tr][/table]39 护甲[br /]+15 自然抗性[br /]需要等级 56[br /]物品等级 61
+</code>
+</item>
+<item id="18676" class="4.3.6" icon="inv_belt_31" quality="3">
+<name>烈风掠夺者腰带</name>
+<screenshot>119407</screenshot>
+<code>
+[span class="name q3"]烈风掠夺者腰带[/span][br /]装备后绑定[table][tr][td]腰部[/td][th] 锁甲[/th][/tr][/table]202 护甲[br /]+7 智力[br /]+7 精神[br /]+6 耐力[br /]需要等级 56[br /]物品等级 61[br /][span class="q2"]装备: 法术强度提高23点。[/span]
+</code>
+</item>
+<item id="10768" class="4.3.6" icon="inv_belt_11" quality="3">
+<name>野猪人勇士腰带</name>
+<screenshot>62971</screenshot>
+<code>
+[span class="name q3"]野猪人勇士腰带[/span][br /]拾取后绑定[table][tr][td]腰部[/td][th] 锁甲[/th][/tr][/table]147 护甲[br /]+15 力量[br /]+6 耐力[br /]需要等级 37[br /]物品等级 42
+</code>
+</item>
+<item id="10767" class="4.6" icon="inv_shield_17" quality="3">
+<name>野猪之盾</name>
+<screenshot>55062</screenshot>
+<code>
+[span class="name q3"]野猪之盾[/span][br /]拾取后绑定[table][tr][td]副手[/td][th] 盾牌[/th][/tr][/table]1287 护甲[br /]22 格挡[br /]+11 力量[br /]+6 耐力[br /]需要等级 37[br /]物品等级 42
+</code>
+</item>
+<item id="10758" class="2.8" icon="inv_sword_45" quality="3">
+<name>石猪剑</name>
+<screenshot>79448</screenshot>
+<code>
+[span class="name q3"]石猪剑[/span][br /]拾取后绑定[table][tr][td]双手[/td][th] 剑[/th][/tr][tr][td]98 - 148 伤害[/td][th] 速度 3.30[/th][/tr][/table]（每秒伤害37.3）[br /]+20 力量[br /]+8 耐力[br /]需要等级 35[br /]物品等级 42
+</code>
+</item>
+<item id="12553" class="4.2.8" icon="inv_boots_02" quality="3">
+<name>迅捷长靴</name>
+<screenshot>66712</screenshot>
+<code>
+[span class="name q3"]迅捷长靴[/span][br /]拾取后绑定[table][tr][td]脚[/td][th] 皮甲[/th][/tr][/table]115 护甲[br /]+21 敏捷[br /]+7 耐力[br /]+4 力量[br /]需要等级 54[br /]物品等级 59
+</code>
+</item>
+<item id="12554" class="4.1.10" icon="inv_gauntlets_32" quality="3">
+<name>传令官之手</name>
+<code>
+[span class="name q3"]传令官之手[/span][br /]拾取后绑定[table][tr][td]手[/td][th] 布甲[/th][/tr][/table]52 护甲[br /]+13 智力[br /]+12 精神[br /]需要等级 54[br /]物品等级 59[br /][span class="q2"]装备: 法术强度提高18点。[/span]
+</code>
+</item>
+<item id="12557" class="4.4.3" icon="inv_shoulder_25" quality="3">
+<name>乌钢肩甲</name>
+<code>
+[span class="name q3"]乌钢肩甲[/span][br /]拾取后绑定[table][tr][td]肩部[/td][th] 板甲[/th][/tr][/table]553 护甲[br /]+16 耐力[br /]+7 敏捷[br /]+6 力量[br /]需要等级 54[br /]物品等级 59
+</code>
+</item>
+<item id="12556" class="4.1.8" icon="inv_boots_wolf" quality="3">
+<name>高阶女祭司之靴</name>
+<screenshot>60267</screenshot>
+<code>
+[span class="name q3"]高阶女祭司之靴[/span][br /]拾取后绑定[table][tr][td]脚[/td][th] 布甲[/th][/tr][/table]58 护甲[br /]+20 耐力[br /]+7 精神[br /]需要等级 54[br /]物品等级 59[br /][span class="q2"]装备: 法术强度提高12点。[/span]
+</code>
+</item>
+<item id="12531" class="2.15" icon="inv_weapon_shortblade_03" quality="3">
+<name>灼热之针</name>
+<screenshot>18933</screenshot>
+<code>
+[span class="name q3"]灼热之针[/span][br /]装备后绑定[br /]唯一[table][tr][td]单手[/td][th] 匕首[/th][/tr][tr][td]42 - 80 伤害[/td][th] 速度 1.80[/th][/tr][/table]（每秒伤害33.9）[br /]需要等级 46[br /]物品等级 51[br /][span class="q2"]击中时可能： [span class="q2"]对目标造成60点火焰伤害，并使其在受到火焰系技能的攻击时所承受的伤害提高10点，持续30秒。[/span]
+</code>
+</item>
+<item id="8244" class="12.0" icon="inv_ore_arcanite_02" quality="3">
+<name>无瑕的德莱尼水晶球</name>
+<code>
+[span class="name q3"]无瑕的德莱尼水晶球[/span]
+</code>
+</item>
+<item id="16782" class="12.0" icon="spell_shadow_teleport" quality="2">
+<name>奇怪的水球</name>
+<code>
+[span class="name q2"]奇怪的水球[/span][br/]拾取后绑定[br/]唯一[br/]该物品将触发一个任务[br/]需要等级 21[br /]物品等级 21
+</code>
+</item>
+<item id="18987" class="12.0" icon="inv_letter_17" quality="1">
+<name>黑手的命令</name>
+<code>
+[span class="name q1"]黑手的命令[/span][br/]拾取后绑定[br/]唯一[br/]该物品将触发一个任务[br/]需要等级 55[br /]物品等级 55[br /][span class="q"]“大酋长雷德·黑手的命令”[/span]
+</code>
+</item>
+</items>

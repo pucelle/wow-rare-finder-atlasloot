@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<npcs>
+<npc id="6109" class="2" type="boss" level="??" health="916,025" A="1" H="1">
+<name>艾索雷葛斯</name>
+<screenshot>74451</screenshot>
+<at map="16" xy="555 560" />
+</npc>
+</npcs>

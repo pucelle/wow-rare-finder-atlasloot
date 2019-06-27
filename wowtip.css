@@ -1,0 +1,358 @@
+﻿
+
+/*定义tooltip样式*/
+table.tip{
+	border-collapse: collapse;
+	border-spacing: 0px;
+	position: absolute;
+	z-index: 200;
+}
+table.tip th{padding-left: 10px;}
+td.cc{
+	color: #ddd;
+	text-align: left;
+}
+td.tl, td.tc, td.tr, td.bl, td.bc, td.br{height: 12px;}
+td.tl, td.tr, td.cl, td.cr, td.bl, td.br{width: 12px;}
+td.tl{background-image:url("background/tip-01.png");}
+td.tc{background-image:url("background/tip-02.png");}
+td.tr{background-image:url("background/tip-03.png");}
+td.cl{background-image:url("background/tip-04.png");}
+td.cc{background-image:url("background/tip-05.png");}
+td.cr{background-image:url("background/tip-06.png");}
+td.bl{background-image:url("background/tip-07.png");}
+td.bc{background-image:url("background/tip-08.png");}
+td.br{background-image:url("background/tip-09.png");}
+.cc table{width: 100%;}
+.cc img{display:block;}
+
+/*鼠标样式*/
+body, a			{cursor:url("cursor/Point.cur"),auto;}	/*IE,对文件夹的层次会以html为准*/
+.cur-attack		{cursor:url("cursor/Attack.cur"),auto;}
+.cur-buy		{cursor:url("cursor/Buy.cur"),auto;}
+.cur-complete	{cursor:url("cursor/QuestTurnIn.cur"),auto;}
+.cur-daily		{cursor:url("cursor/QuestRepeatable.cur"),auto;}
+.cur-direction	{cursor:url("cursor/Directions.cur"),auto;}
+.cur-drive		{cursor:url("cursor/Drive.cur"),auto;}
+.cur-gather		{cursor:url("cursor/GatherHerbs.cur"),auto;}
+.cur-inspect	{cursor:url("cursor/Inspect.cur"),auto;}
+.cur-interact	{cursor:url("cursor/Interact.cur"),auto;}
+.cur-lock		{cursor:url("cursor/PickLock.cur"),auto;}
+.cur-loot		{cursor:url("cursor/Pickup.cur"),auto;}
+.cur-mail		{cursor:url("cursor/Mail.cur"),auto;}
+.cur-mine		{cursor:url("cursor/Mine.cur"),auto;}
+.cur-quest		{cursor:url("cursor/Quest.cur"),auto;}
+.cur-repair		{cursor:url("cursor/Repair.cur"),auto;}
+.cur-skin		{cursor:url("cursor/skin.cur"),auto;}
+.cur-speak		{cursor:url("cursor/Speak.cur"),auto;}
+.cur-taxi		{cursor:url("cursor/Taxi.cur"),auto;}
+.cur-train		{cursor:url("cursor/Trainer.cur"),auto;}
+.cur-fish		{cursor:url("cursor/Fishing.cur"),auto;}
+
+
+/*小图标,居右*/
+.si-honor, .si-gold, .si-silver, .si-copper, .si-arena{
+	padding:0px 16px 0px 2px;
+	background-repeat:no-repeat;
+	background-position:2px 0px;
+}
+.alliance .si-honor, .si-alliance		{background-image:url("background/money-alliance.png");}
+.horde .si-honor, .si-horde		{background-image:url("background/money-horde.png");}
+.si-gold				{background-image:url("background/money-gold.png");}
+.si-silver				{background-image:url("background/money-silver.png");}
+.si-copper				{background-image:url("background/money-copper.png");}
+.si-arena				{background-image:url("background/money-arena.png");}
+/*图标居左*/
+.si-buy, .si-train, .si-loot, .si-quest, .si-qwords, .si-talk, .si-interact, .si-whell, .si-alliance, .si-horde, .si-daily, .socket-red, .socket-yellow, .socket-blue, .socket-meta{
+	padding:0px 2px 0px 19px;
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+}
+.socket-red, .socket-yellow, .socket-blue, .socket-meta{color:#9d9d9d;}
+.si-indent	{padding-left:18px;}	/*定义一块缩进区域,不要和其他的si混合使用*/
+.si-buy		{background-image:url("background/buy.png");}
+.si-train	{background-image:url("background/train.png");}
+.si-loot	{background-image:url("background/loot.png");}
+.si-quest	{background-image:url("background/quest-start.png");}
+.si-qwords	{background-image:url("background/questwords.png");}
+.si-talk	{background-image:url("background/talk.png");}
+.si-alliance{background-image:url("background/money-alliance.png");}
+.si-horde	{background-image:url("background/money-horde.png");}
+.si-interact{background-image:url("background/interact.png");}
+.si-whell	{background-image:url("background/whell.png");}
+.si-daily	{background-image:url("background/daily.png");}
+.socket-red	{background-image:url("background/socket-red.png");}
+.socket-yellow	{background-image:url("background/socket-yellow.png");}
+.socket-blue	{background-image:url("background/socket-blue.png");}
+.socket-meta	{background-image:url("background/socket-meta.png");}
+
+
+/*一般样式*/
+body{
+	background-color:#000;
+	background-position:top center;
+	background-repeat:no-repeat;
+	font-family:Arial,Verdana,Sans-Serif;
+	font-size:12px; 
+	color:#eee;
+	margin:0px;
+	padding:0px;
+	height:100%;
+	overflow-y:scroll;
+	*overflow-y:visible;
+	padding-top:10px;
+}
+table{
+	border-collapse:collapse;
+	border-spacing:0px;
+}
+td{padding:0px;}
+th{
+	padding:0px;
+	font-weight:normal;
+	text-align:right;
+}
+a{outline:none;}
+.b{font-weight:bold;}
+
+
+/*通用的截图属性*/
+.screenshot-tip{}
+.screenshot-name{color:#ffd100;}
+.screenshot-no{margin-bottom:3px; width:100%; text-align:center; background-color:transparent; *margin-bottom:6px;}
+.screenshot-no img{margin:0px auto;} /*似乎对img用radius不管用*/
+/*为npc和object准备的,底部补有空白*/
+
+
+/*定义各种颜色*/
+.q	{color:#ffd100;}	/*黄*/
+.q0	{color:#9d9d9d;}	/*灰*/
+.q1	{color:#dddddd;}	/*白*/
+.q2	{color:#1eff00;}	/*绿*/
+.q3	{color:#0070dd;}	/*蓝*/
+.q4	{color:#a335ee;}	/*紫*/
+.q5	{color:#ff8000;}	/*橙*/
+.q6	{color:#e5cc80;}	/*暗金色*/
+.q7	{color:#e5cc80;}	/*暗金色*/
+.q8	{color:#ffff98;}	/*传家宝*/
+.q9	{color:#71d5ff;}	/*淡蓝色*/
+.q10{color:#ff0000;}	/*红色*/
+
+/*react*/
+.r0	{color:#9d9d9d;}
+.r1	{color:#ffd100;}	/*中立*/
+.r2	{color:#1eff00;}	/*友善*/
+.r3	{color:#ff0000;}	/*仇恨*/
+
+/*difficulty*/
+.d0	{color:#ff0000;}	/*红*/
+.d1	{color:#ff8000;}
+.d2	{color:#ffd100;}
+.d3	{color:#1eff00;}
+.d4	{color:#9d9d9d;}	/*灰*/
+
+/*class*/
+.c1	{color:#c69b6d;}	/*warrior*/
+.c2	{color:#f48cba;}	/*paladin*/
+.c3	{color:#aad372;}	/*hunter*/
+.c4	{color:#fff468;}	/*rogue*/
+.c5	{color:#ffffff;}	/*priest*/
+.c6	{color:#c41e3b;}	/*DK*/
+.c7	{color:#2359ff;}	/*shaman*/
+.c8	{color:#68ccef;}	/*mage*/
+.c9	{color:#9382c9;}	/*warlock*/
+.c11{color:#ff7c0a;}	/*druid*/
+
+div#browser		{position:absolute; right:5px; top:5px; font-weight:bold; padding-left:108px; background:url(background/try.png) no-repeat;}
+div#browser a		{width:16px; height:16px; margin:0px 3px; display:block; float:left; *filter:alpha(opacity=50)}
+div#browser a:hover	{*filter:alpha(opacity=100);}
+div#browser span	{width:16px; height:16px; display:block;}
+#ff span{background-image:url("background/ff.png");}
+#op	span{background-image:url("background/op.png");}
+#ch	span{background-image:url("background/ch.png");}
+#sf	span{background-image:url("background/sf.png");}
+
+
+/*图标*/
+.icon, .icon-border, .icon-metal, .icon-medal, .icon a{
+	background-position:center center;
+	background-repeat:no-repeat;
+	width:42px;
+	height:42px;
+}
+.icon a {
+	display:block;
+	position:absolute;
+	_margin:2px 0px 0px 2px;
+}	/*经测试,使用a以外的伪类在IE7下速度奇慢无比*/
+.icon{
+	position:relative;
+	float:left;
+}
+.icon-border, .icon-metal, .icon-medal{
+	position:absolute;
+	left:0px;
+	z-index:2;
+}
+.icon-border a, .icon-metal a, .icon-medal a{left:0px;}
+.icon-border	{background-image:url("background/border-icon.png");_background-image:none;}
+.icon-metal		{background-image:url("background/border-metal.png");_background-image:none;}
+.icon-medal		{background-image:url("background/border-medal.png");_background-image:none;}
+.icon-border a:hover	{background-image:url("background/highlight.png"); _background-image:none;}
+.icon-metal a:hover		{background-image:url("background/highlight-1.png"); _background-image:none;}
+/*.icon-medal a:hover		{background-image:url("background/highlight-2.png"); _background-image:none;}*/
+.stroke{
+	position:absolute;
+	z-index:1;
+	right:5px;
+	bottom:7px;
+	_bottom:2px;
+	height:14px;
+	font-family:Palatino Linotype,Times New Roman,Book Antiqua,Symbol;
+	font-weight:bold;
+	font-size:14px;
+}
+.shadow1, .shadow2, .shadow3, .shadow4{position:absolute; color:#000; z-index:0;}
+.shadow1{top:-1px; left:0px;}
+.shadow2{top:0px; left:1px;}
+.shadow3{top:1px; left:0px;}
+.shadow4{top:0px; left:-1px;}
+.stance{color:#fff;}
+.icon-name{position:absolute; left:48px; white-space:nowrap; font-size:14px; height:30px; padding-top:12px; z-index:1;}	/*与图标对齐的名称*/
+
+/*物品窗口*/
+.item-name{white-space:nowrap;}
+.item-tip{line-height:16px; max-width:276px;}
+.item-tip .name{}
+.ilevel{color:#e5cc80;}
+.al-item{position:absolute; left:48px; white-space:nowrap; font-size:14px; height:38px; padding-top:4px; z-index:1;}
+.al-desc{position:absolute; left:48px; top:22px; white-space:nowrap; color:#9d9d9d;}
+
+
+/*地图*/
+.map-name{
+	/*font-weight:bold;*/
+	color:#ffd100;
+	white-space:nowrap;
+	/*cursor:url("cursor/Directions.cur"),auto;
+	*cursor:url("cursor/Directions.cur");*//*同样改由js控制*/
+}
+.map-tip{position:relative;}
+.map-tip img{width:300px;height:200px;}
+.coord-tip{position:absolute;}
+.coord{	/*单独的坐标*/
+	position:absolute;
+	width:16px;
+	height:16px;
+	background:url("background/mark-0.png") no-repeat;
+	opacity:0.7;
+}
+
+/*npc*/
+.alliance .a0{color:#9d9d9d;}
+.alliance .a1{color:#ffd100;}
+.alliance .a2{color:#1eff00;}
+.alliance .a3{
+	color:#ff0000;
+	cursor:url("cursor/Attack.cur"),auto;
+	*cursor:url("cursor/Attack.cur");
+}
+.horde .h0{color:#9d9d9d;}
+.horde .h1{color:#ffd100;}
+.horde .h2{color:#1eff00;}
+.horde .h3{
+	color:#ff0000;
+	cursor:url("cursor/Attack.cur"),auto;
+	*cursor:url("cursor/Attack.cur");
+}
+.npc-name{white-space:nowrap;}
+.npc-tip{text-align:center;}
+.npc-tip .name{}
+.rank{color:#9d9d9d;}
+.level{color:#ffd100;}
+.event{color:#ff8000;}
+.spawn{color:#ff8000; max-width:150px;}
+
+/*任务*/
+.quest-name{color:#ffd100;white-space:nowrap;}
+.quest-tip{}
+.quest-tip .name{color:#ffd100;}
+/*不能接受的任务换个颜色显示*/
+.alliance .side1, .alliance .side2, .horde .side1, .horde .side3 {color:#ffd100;}
+.alliance .side3, .horde .side2{color:#9d9d9d;}
+.alliance .side0, .horde .side0{color:#9d9d9d;}
+.quest-tip .desc{margin-top:0px;}
+
+
+/*成就*/
+.achievement-name{color:#ffd100;white-space:nowrap;}
+.achievement-tip{}
+.achievement-tip .name{font-weight:bold;color:#ffd100;margin-bottom:5px;}
+
+
+/*技能*/
+.spell-name{color:#ffd100;white-space:nowrap;}
+.spell-tip{}
+.spell-tip .name{color:#ffd100;margin-bottom:5px;}
+
+
+/*道具*/
+.object-name{
+	white-space:nowrap;
+	color:#ffd100;
+	/*cursor:url("cursor/Interact.cur"),auto;	这里设置的话,优先级最高,会覆盖诸如任务的样式,改由wowtip.name设置
+	*cursor:url("cursor/Interact.cur");*/
+}
+.object-tip{text-align:center;}
+.object-tip .name{color:#ffd100;}
+
+.alliance .camp2, .horde .camp1{display:none;}	/*1部落;2联盟,不属于自己阵营的元素被隐藏起来*/
+
+/*以下为al提供*/
+.si-wsg, .si-ab, .si-av, .si-eos, .si-markthrallmar, .si-markhhold, .si-halaabattle, .si-halaaresearch, .si-spiritshard, .si-wintergrasp, .si-wintergraspmark, .si-venturecoin, .si-heroic, .si-eofvalor, .si-eofheroism, .si-eofconquest, .si-eoftriumph, .si-eoffrost, .si-trophyofthecrusade, .si-darkmoon, .si-noblegarden, .si-brewfest, .si-ccombat, .si-champseal, .si-champwrit, .si-ctactical, .si-clogistics, .si-cremulos, .si-ccenarius, .si-zandalar, .si-glowcap, .si-ogrilashard, .si-ogrilacrystal, .si-winterfinclam, .si-fireflower, .si-t10mark, .si-valentineday, .si-valentineday2, .si-markthrallmarhhold{
+	height:14px;
+	padding:0px 2px 0px 16px;
+	background-repeat:no-repeat;
+	background-position:2px 0px;
+	font-size:14px;
+}
+.si-wsg	{background-image:url("background/inv_misc_rune_07.jpg");}
+.si-ab	{background-image:url("background/inv_jewelry_amulet_07.jpg");}
+.si-av	{background-image:url("background/inv_jewelry_necklace_21.jpg");}
+.si-eos	{background-image:url("background/spell_nature_eyeofthestorm.jpg");}
+.si-markthrallmar	{background-image:url("background/inv_misc_token_thrallmar.jpg");}
+.si-markhhold	{background-image:url("background/inv_misc_token_honorhold.jpg");}
+.si-halaabattle	{background-image:url("background/inv_misc_rune_08.jpg");}
+.si-halaaresearch	{background-image:url("background/inv_misc_rune_09.jpg");}
+.si-spiritshard	{background-image:url("background/inv_jewelry_frostwolftrinket_04.jpg");}
+.si-wintergrasp	{background-image:url("background/inv_misc_platnumdisks.jpg");}
+.si-wintergraspmark	{background-image:url("background/inv_jewelry_ring_66.jpg");}
+.si-venturecoin	{background-image:url("background/inv_misc_coin_16.jpg");}
+.si-heroic	{background-image:url("background/spell_holy_championsbond.jpg");}
+.si-eofvalor	{background-image:url("background/spell_holy_proclaimchampion_02.jpg");}
+.si-eofheroism	{background-image:url("background/spell_holy_proclaimchampion.jpg");}
+.si-eofconquest	{background-image:url("background/spell_holy_championsgrace.jpg");}
+.si-eoftriumph	{background-image:url("background/spell_holy_summonchampion.jpg");}
+.si-eoffrost	{background-image:url("background/inv_misc_frostemblem_01.jpg");}
+.si-trophyofthecrusade	{background-image:url("background/inv_misc_trophy_argent.jpg");}
+.si-darkmoon	{background-image:url("background/inv_misc_ticket_darkmoon_01.jpg");}
+.si-noblegarden	{background-image:url("background/achievement_noblegarden_chocolate_egg.jpg");}
+.si-brewfest	{background-image:url("background/inv_misc_coin_01.jpg");}
+.si-ccombat	{background-image:url("background/inv_jewelry_talisman_06.jpg");}
+.si-champseal	{background-image:url("background/ability_paladin_artofwar.jpg");}
+.si-champwrit	{background-image:url("background/inv_scroll_11.jpg");}
+.si-ctactical	{background-image:url("background/inv_jewelry_amulet_02.jpg");}
+.si-clogistics	{background-image:url("background/inv_jewelry_necklace_16.jpg");}
+.si-cremulos	{background-image:url("background/inv_jewelry_necklace_14.jpg");}
+.si-ccenarius	{background-image:url("background/inv_jewelry_necklace_12.jpg");}
+.si-zandalar	{background-image:url("background/inv_misc_coin_08.jpg");}
+.si-glowcap	{background-image:url("background/inv_mushroom_02.jpg");}
+.si-ogrilashard	{background-image:url("background/inv_misc_apexis_shard.jpg");}
+.si-ogrilacrystal	{background-image:url("background/inv_misc_apexis_crystal.jpg");}
+.si-winterfinclam	{background-image:url("background/inv_misc_shell_03.jpg");}
+.si-fireflower	{background-image:url("background/inv_summerfest_fireflower.jpg");}
+.si-t10mark	{background-image:url("background/ability_paladin_shieldofthetemplar.jpg");}
+.si-valentineday	{background-image:url("background/inv_valentinescard01.jpg");}
+.si-valentineday2	{background-image:url("background/inv_jewelry_necklace_43.jpg");}
+.horde .si-markthrallmarhhold	{background-image:url("background/inv_misc_token_thrallmar.jpg");}
+.alliance .si-markthrallmarhhold	{background-image:url("background/inv_misc_token_honorhold.jpg");}

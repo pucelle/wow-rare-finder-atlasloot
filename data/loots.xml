@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<loots version="3.3.5">
+<loot id="test" use="n397" class="7" type="rare" level="26" health="598" A="3" H="3">
+<name>莫甘斯</name>
+<screenshot>30179</screenshot>
+<at map="1" xy="300 90" coords="240 90 340 90" />
+<drop data="118:1/100;118:99/100">这是一个掉落表</drop>
+<drop data="118:1/100;118:99/100">这是另一个掉落表</drop>
+<drop data="118:1/100;118:99/100">这是还一个掉落表</drop>
+<drop data="118:1/100;118:99/100">这是最后一个掉落表</drop>
+</loot>
+</loots>
